@@ -1,0 +1,347 @@
+
+--- markdown ---
+# Individual homework project 1
+
+
+--- code ---
+# Import modules
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+
+
+--- code ---
+# Import data
+transactions = pd.read_csv('data/transactions.csv')
+customers = pd.read_csv('data/customers.csv')
+web_sessions = pd.read_csv('data/web_sessions.csv')
+campaigns = pd.read_csv('data/campaign_touchpoints.csv')
+
+
+--- code ---
+# converting data into dataframes and exploring the data
+# for transactions file
+df_transac = pd.DataFrame(transactions)
+df_transac.info()
+df_transac.describe()
+df_transac.head()
+
+# for customers file
+df_cus = pd.DataFrame(customers)
+df_cus.info()
+df_cus.describe()
+df_cus.head()
+
+# for compaigns file
+df_camp = pd.DataFrame(campaigns)
+df_camp.info()
+df_camp.describe()
+df_camp.head()
+
+df_web = pd.DataFrame(web_sessions)
+df_web.info()
+
+
+
+<class 'pandas.DataFrame'>
+RangeIndex: 45000 entries, 0 to 44999
+Data columns (total 9 columns):
+ #   Column            Non-Null Count  Dtype  
+---  ------            --------------  -----  
+ 0   transaction_id    45000 non-null  int64  
+ 1   customer_id       45000 non-null  int64  
+ 2   product_category  45000 non-null  str    
+ 3   purchase_value    45000 non-null  float64
+ 4   discount_used     45000 non-null  int64  
+ 5   purchase_date     45000 non-null  str    
+ 6   is_refunded       45000 non-null  int64  
+ 7   refund_date       3632 non-null   float64
+ 8   refund_reason     3632 non-null   str    
+dtypes: float64(2), int64(4), str(3)
+memory usage: 3.1 MB
+<class 'pandas.DataFrame'>
+RangeIndex: 10000 entries, 0 to 9999
+Data columns (total 10 columns):
+ #   Column               Non-Null Count  Dtype  
+---  ------               --------------  -----  
+ 0   customer_id          10000 non-null  int64  
+ 1   age                  9193 non-null   float64
+ 2   gender               10000 non-null  str    
+ 3   country              10000 non-null  str    
+ 4   acquisition_channel  10000 non-null  str    
+ 5   signup_date          10000 non-null  str    
+ 6   customer_status      10000 non-null  str    
+ 7   loyalty_tier         10000 non-null  str    
+ 8   campaign_id          10000 non-null  int64  
+ 9   last_active_date     10000 non-null  str    
+dtypes: float64(1), int64(2), str(7)
+memory usage: 781.4 KB
+<class 'pandas.DataFrame'>
+RangeIndex: 10000 entries, 0 to 9999
+Data columns (total 6 columns):
+ #   Column           Non-Null Count  Dtype
+---  ------           --------------  -----
+ 0   customer_id      10000 non-null  int64
+ 1   campaign_id      10000 non-null  int64
+ 2   touchpoint_id    10000 non-null  int64
+ 3   touchpoint_date  10000 non-null  str  
+ 4   clicked          10000 non-null  int64
+ 5   converted        10000 non-null  int64
+dtypes: int64(5), str(1)
+memory usage: 468.9 KB
+<class 'pandas.DataFrame'>
+RangeIndex: 70100 entries, 0 to 70099
+Data columns (total 14 columns):
+ #   Column            Non-Null Count  Dtype  
+---  ------            --------------  -----  
+ 0   session_id        70100 non-null  int64  
+ 1   customer_id       70100 non-null  int64  
+ 2   pages_viewed      70100 non-null  int64  
+ 3   time_on_site      70100 non-null  float64
+ 4   device_type       69600 non-null  str    
+ 5   traffic_source    70100 non-null  str    
+ 6   session_date      70100 non-null  str    
+ 7   converted         70100 non-null  int64  
+ 8   bounce            70100 non-null  int64  
+ 9   cart_additions    70100 non-null  int64  
+ 10  checkout_started  70100 non-null  int64  
+ 11  exit_page         70100 non-null  str    
+ 12  browser           70100 non-null  str    
+ 13  is_logged_in      70100 non-null  int64  
+dtypes: float64(1), int64(8), str(5)
+memory usage: 7.5 MB
+
+
+--- markdown ---
+### Specific questions
+
+
+--- markdown ---
+Q1. What is the average purchase value for customers from Spain?
+
+
+--- code ---
+# Insert code here
+trasac_cus = pd.merge(df_transac, df_cus, how='inner', on='customer_id')
+df_transac_cus = pd.DataFrame(trasac_cus)
+mean_value = df_transac_cus.groupby('country')['purchase_value'].mean().sort_values()
+print({"Mean purchase value by country": mean_value})
+{'Mean purchase value by country': country
+Spain          230.958899
+Australia      232.416014
+Canada         232.825274
+US             234.809181
+UK             234.835997
+France         237.192271
+Netherlands    237.213789
+Germany        239.028571
+Name: purchase_value, dtype: float64}
+
+
+--- markdown ---
+The average purchase value for the customers of the spain is 230.96.
+
+
+--- markdown ---
+Q2. What is the minimum purchase value for customers from Germany?
+
+
+--- code ---
+min_values = df_transac_cus.groupby('country')['purchase_value'].min()
+print({"Minimum purchase value by country": min_values})
+print({" the minimum purchase_value_from_germany is ": min_values['Germany']})
+
+{'Minimum purchase value by country': country
+Australia      10.06
+Canada         10.03
+France         10.14
+Germany        10.01
+Netherlands    10.08
+Spain          10.04
+UK             10.01
+US             10.17
+Name: purchase_value, dtype: float64}
+{' the minimum purchase_value_from_germany is ': np.float64(10.01)}
+
+
+--- markdown ---
+Q3. How much did males spend on buying products in the Sports category?
+
+
+--- code ---
+contribution_of_male = df_transac_cus.groupby('gender')['product_category'].value_counts().sort_values()
+print({"Contribution of male in product_category": contribution_of_male['Male']})
+{'Contribution of male in product_category': product_category
+toys           2444
+electronics    2506
+home           2507
+sports         2542
+fashion        2546
+beauty         2593
+Name: count, dtype: int64}
+
+
+--- markdown ---
+Q4. What is the average age of female customers from Canada?
+
+
+--- code ---
+female_canada = df_cus[(df_cus['gender'] == 'Female') & (df_cus['country'] == 'Canada')]
+avg_age = female_canada['age'].mean()
+print("Average age of female customers from Canada:", avg_age)
+
+Average age of female customers from Canada: 42.9168765743073
+
+
+--- markdown ---
+Q5. How much does an average male customer from the UK spend?
+
+
+--- code ---
+male_uk = df_cus[(df_cus['gender'] == 'Male') & (df_cus['country'] == 'UK')]
+avg_age = male_uk['age'].mean()
+print("Average age of male customers from UK:", avg_age)
+Average age of male customers from UK: 43.27226463104326
+
+
+--- markdown ---
+Q6. What is the maximum purchase value for females in the Toys category?
+
+
+--- code ---
+# Filter for female customers in the Toys category
+female_toys = df_transac_cus[
+    (df_transac_cus['gender'] == 'Female') &
+    (df_transac_cus['product_category'] == 'toys')
+]
+
+# Find the maximum purchase value
+max_purchase_value = female_toys['purchase_value'].max()
+
+print("Maximum purchase value for females in the Toys category:", max_purchase_value)
+
+Maximum purchase value for females in the Toys category: 79.99
+
+
+--- code ---
+df_camp.head()
+
+
+--- markdown ---
+Q7. What is the average number of pages viewed for customers who made a purchase (converted)?
+
+
+--- code ---
+# Web sessions already has 'converted' column, use it directly
+# Filter only converted customers
+converted = df_web[df_web['converted'] == 1]
+
+# Compute average pages viewed
+avg_pages = converted['pages_viewed'].mean()
+
+print("Average pages viewed for converted customers:", avg_pages)
+
+Average pages viewed for converted customers: 5.728619675345898
+
+
+--- markdown ---
+Q8. What is the average time spent on the site for purchasing vs non-purchasing customers?
+
+
+--- code ---
+# Purchasing customers
+purchasing = df_web[df_web['converted'] == 1]['time_on_site'].mean()
+
+# Non-purchasing customers
+non_purchasing = df_web[df_web['converted'] == 0]['time_on_site'].mean()
+
+print("Purchasing customers avg time:", purchasing)
+print("Non-purchasing customers avg time:", non_purchasing)
+
+Purchasing customers avg time: 311.19483699910387
+Non-purchasing customers avg time: 299.2385472908919
+
+
+--- markdown ---
+### Visualisation tasks
+
+
+--- markdown ---
+Q9. Plot purchasing value across years.
+
+
+--- code ---
+# Convert date column
+df_transac['purchase_date'] = pd.to_datetime(df_transac['purchase_date'])
+
+# Extract year
+df_transac['year'] = df_transac['purchase_date'].dt.year
+
+# Group by year
+yearly = df_transac.groupby('year')['purchase_value'].sum()
+
+# Plot
+plt.figure(figsize=(10,5))
+plt.plot(yearly.index, yearly.values, marker='o')
+plt.title("Purchasing Value Across Years")
+plt.xlabel("Year")
+plt.ylabel("Total Purchase Value")
+plt.grid(True)
+plt.show()
+
+
+
+--- markdown ---
+Q10. Plot purchasing value across product categories.
+
+
+--- code ---
+category_values = df_transac.groupby('product_category')['purchase_value'].sum().sort_values(ascending=False)
+
+plt.figure(figsize=(10,5))
+category_values.plot(kind='bar', color='skyblue')
+plt.title("Purchasing Value Across Product Categories")
+plt.xlabel("Product Category")
+plt.ylabel("Total Purchase Value")
+plt.xticks(rotation=45)
+plt.show()
+
+
+
+--- markdown ---
+### Free exercise
+
+
+--- markdown ---
+Explore the transactions dataset and:
+
+- Create two visualisations of your choice
+- Identify three patterns in the data
+- Write five insights in plain English explaining what the data tells us
+
+Your insights should focus on behaviour, spending patterns, or conversion
+
+
+--- code ---
+# Price range of every product category
+price_range = df_transac.groupby('product_category')['purchase_value'].agg(['min', 'max']).sort_values(ascending=False, by='max')
+
+plt.figure(figsize=(10,5))
+price_range.plot(kind='bar', color=['skyblue', 'steelblue'], figsize=(10,5))
+plt.title("Price Range of Every Product Category")
+plt.xlabel("Product Category")
+plt.ylabel("Purchase Value (EUR)")
+plt.xticks(rotation=45)
+plt.grid(True, axis='y')
+plt.show()
+
+
+--- code ---
+# Filter for the electronics category
+electronics = df_transac[df_transac['product_category'] == 'electronics']
+
+# Find the maximum purchase value
+max_purchase_value = electronics['purchase_value'].max()
+
+print("Highest purchase value in the Electronics category:", max_purchase_value)
+Highest purchase value in the Electronics category: 1199.89

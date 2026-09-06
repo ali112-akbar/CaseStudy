@@ -1,0 +1,37 @@
+  
+   Title Page   h1 { margin:0px 0px 0px 0px; padding:0px; font-size:large; font-weight:900; font-family:arial,sans-serif; text-align:left; color:#000;}h2 { font-size:medium; font-weight:300; font-family:arial,sans-serif; margin:10px 0px -2px 0px; padding:0px; color:#000;}h2.myclass {	font-size:medium; font-weight:900; font-family:arial,sans-serif; margin:10px 0px -2px 0px; padding:0px; color:#000; text-align:left;}h3 {	font-size:13px;	font-weight:300; font-family:arial,sans-serif; margin:0px 0px -1px 0px; padding:0px; color:#000;}h3.myclass {	font-size:13px;	font-weight:300; font-family:arial,sans-serif; margin:0px 0px -1px 0px; padding:0px; color:#000; text-align:left;}h4 {	font-size:x-large; font-family:arial,sans-serif; color:#09f; text-align:left; margin:0px 0px 5px 0px; padding:0px;}h5 {	font-size:13px;	font-family:arial,sans-serif; font-weight:600; margin:0px 0px 5px 50px; padding:0px;}i.myclass{color:#07a;}   
+ 
+British Election Study Ethnic Minority Survey, 2010
+ 
+ 
+Study number: 6970 
+ Series Title: 
+British Election Study Series
+ 
+ Principal Investigators 
+ 
+Heath, A., University of Manchester. Institute for Social Change Fisher, S., University of Oxford. Department of Politics and International Relations  Sanders, D., University of Essex. Department of Government Sobolewska, M., University of Manchester. School of Social Sciences. Politics 
+ 
+ Data Collectors 
+ TNS-BMRB,  
+ Sponsors 
+ Economic and Social Research Council  
+ Distributed by: 
+ UK Data Archive, University of Essex, Colchester.
+April 2012
+ 
+ Citation for this data 
+ 
+All works which use or refer to these materials should acknowledge these sources by means of data citation. To ensure that such source attributions are captured for citation indexes, citations must appear in footnotes or in the reference section of publications. The citation for this data collection is:
+ 
+ 
+Heath, A. et al. ,   British Election Study Ethnic Minority Survey, 2010  [computer file]. Colchester, Essex: UK Data Archive  [distributor], April 2012. SN:  6970, http://dx.doi.org/10.5255/UKDA-SN-6970-1
+ 
+ Copyright 
+   S. Fisher, A. Heath, D. Sanders and M. Sobolewska 
+ Disclaimer 
+ 
+Although all efforts are made to ensure the quality of the materials, neither the original data creators, depositors or copyright holders, the funders of the data collections, nor the UK Data Archive, nor the UK Data Service bear any responsibility for the accuracy or comprehensiveness of these materials. 
+ 
+ File last updated: 17 November 2016 
+  

@@ -1,0 +1,1166 @@
+
+--- PDF PAGE 1 ---
+  
+© 2011 TNS UK Limited.  All rights reserved  
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2010 Ethnic Minority British 
+Election Study 
+  
+Technical Report 
+ 
+Nick Howat, Oliver Norden, Joel Williams and 
+Emily Pickering 
+ 
+January 2012 
+ 
+Cert No. 0498 
+UK Data Archive Study Number 6970 - British Election Study Ethnic Minority Survey, 2010
+
+--- PDF PAGE 2 ---
+ 
+ 
+ 
+© 2011 TNS UK Limited.  All rights reserved 
+ 
+ 
+Content 
+ 
+ 
+1. Introduction ...................................................................................................................... 1 
+2. Questionnaire development ............................................................................................ 2 
+2.1 Piloting ....................................................................................................................... 2 
+2.2 The Questionnaires ................................................................................................... 3 
+3. Sample design ................................................................................................................. 4 
+3.1 Target and survey populations .................................................................................. 4 
+3.1.1 Target sample sizes ........................................................................................... 5 
+3.2 General sample design .............................................................................................. 5 
+3.2.1 Sampling of PSUs – the core sample ................................................................ 5 
+3.2.2 Stratification of PSUs ......................................................................................... 7 
+3.2.3 Sampling of PSUs – the boost sample .............................................................. 8 
+3.2.4 Address sampling .............................................................................................. 9 
+3.2.5 Sampling individuals ........................................................................................ 10 
+4. Fieldwork ....................................................................................................................... 11 
+4.1 Main stage fieldwork ................................................................................................ 11 
+4.1.1 Interviewing procedures................................................................................... 11 
+4.1.2 Screening ......................................................................................................... 12 
+4.1.3 Mail-back questionnaire ................................................................................... 13 
+4.2 Response rates ........................................................................................................ 13 
+5. The Data ........................................................................................................................ 16 
+5.1 Data cleaning and editing ........................................................................................ 16 
+5.2 Variables .................................................................................................................. 16 
+5.3 Variable names ........................................................................................................ 16 
+5.4 Special codes .......................................................................................................... 16 
+5.5 Weighting ................................................................................................................. 17 
+5.5.1 Design weights ................................................................................................ 17 
+5.5.2 Non response weighting .................................................................................. 17 
+5.5.3 Non response weights for mail-back ............................................................... 18 
+5.6 Weights in the dataset ............................................................................................. 19 
+5.7 Design Effects .......................................................................................................... 19 
+6. Vote Validation Exercise ............................................................................................... 21 
+6.1 The sample .............................................................................................................. 21 
+6.2 Fieldwork ................................................................................................................. 21 
+6.2.1 The pilot ........................................................................................................... 21 
+6.2.2 Main fieldwork .................................................................................................. 21 
+6.3 The data ................................................................................................................... 22 
+6.4 Data imputation ........................................................................................................ 23 
+6.4.1 Data imputation variable .................................................................................. 23 
+6.4.2 The imputation process ................................................................................... 23 
+
+--- PDF PAGE 3 ---
+ 
+ 
+ 
+© 2011 TNS UK Limited.  All rights reserved 
+ 
+ 
+ 
+ 
+ 
+
+--- PDF PAGE 4 ---
+Introduction 
+ 
+ 
+ 
+© 2011 TNS UK Limited.  All rights reserved 1 of 24 
+1. Introduction 
+ 
+The British Election Study (BES) is one of the longest running social surveys in Britain. Begun 
+in 1963 it has now accum ulated data over a period of more than 45 years, covering the last 
+12 general elections. The purpose is to understand why people vote, and how and why they 
+vote the way they do. It is a well -established and important research tool used by both the 
+academic and non -academic communities, and has made a major contribution to the 
+understanding of political attitudes and behaviour. 
+ 
+However, while the main survey is a source of robust data at the national level, it cannot 
+provide substantial interview numbers fo r some subgroups. In particular it has not been 
+possible to conduct a thorough investigation of the political views and behaviours of Britain's 
+ethnic minority populations through the main survey alone. A boost of ethnic minority 
+respondents was carried out as part of the 1997 BES but nothing since that point.  As a result 
+of this the ESRC agreed to fund a survey of ethnic minorities to be conducted immediately  
+after the 2010 general election.  The primary focus was on the five main EM groups –  people 
+of Indian, Pakistani, Bangladeshi, Black Caribbean and Black African background.  
+ 
+Unlike in 1997 the ethnic minority survey in 2010 was not administered as a boost within the 
+main study but rather it was a distinct survey with a separate sample and fieldwork. However 
+the research was intended to be complementary to the main BES and a large number of 
+items are shared between the two surveys to enable comparative analysis.  
+ 
+The study team for the survey consists of Anthony Heath, Stephen Fisher and Maria 
+Sobolewska from the Universities of Oxford and Manchester together with David Sanders, 
+who is also Principal Investigator on the Essex team conducting the main BES, and Gemma 
+Rosenblatt of the Electoral Commission (which is a partner organization in the research).  The 
+fieldwork and data preparation for the study was carried out by TNS -BMRB who were also 
+responsible for the fieldwork and data preparation for the face to face component of the main 
+BES. 
+ 
+This report covers the technical details from the 2010 ethnic mi nority survey and is arranged 
+as follows: 
+ 
+ Chapter 2 gives an overview of the questionnaire development 
+ Chapter 3 describes the sample design 
+ Chapter 4 covers fieldwork including response rates 
+ Chapter 5 provides information on the data including weighting 
+ 
+
+--- PDF PAGE 5 ---
+Questionnaire development 
+ 
+ 
+ 
+© 2011 TNS UK Limited.  All rights reserved 2 of 24 
+ 
+2. Questionnaire development 
+ 
+The questionnaire comprised  a number of core questions taken from the main post -election 
+study, and some survey specific questions taken either from the 1997 Ethnic Minority study or 
+newly developed. Before piloting the quest ionnaire, cognitive testing was used to test the 
+newly developed questions. 
+ 
+For the cognitive testing, 25 respondents were recruited to take part. Five respondents were 
+recruited from each of the five ethnic backgrounds eligible for the main survey. In ad dition to 
+this recruiters were given quotas so that within each ethnic group there was a good mix of 
+genders and ages.  
+ 
+Cognitive interviews were conducted by members of the TNS -BMRB research team, and took 
+place in the TNS -BMRB offices in London and in a  central location in Manchester. Interviews 
+lasted roughly an hour and respondents were offered an incentive of £30 for their time.  
+ 
+In addition to adapting and improving newly developed questions, the cognitive testing also 
+allowed questions which had bee n taken from international studies to be tested in a British 
+context. As a result of the cognitive testing some of the newly designed questions, or those 
+taken from international studies were revised or removed from the questionnaire.  
+ 
+2.1 Piloting 
+ 
+Following the cognitive testing stage, a full pilot using the same design approach as 
+implemented at the main stage was conducted. The purpose of the pilot was firstly to test the 
+questionnaire in field, and secondly to test the fieldwork procedures, such as screeni ng, and 
+administering interviews using translators. The pilot was also used to test the average length 
+of the questionnaire. 31 pilot interviews were conducted over a 4 week fieldwork period 
+starting on 16 th February 2010. All interviewers working on the p ilot were given a full day 
+briefing prior to starting work. TNS -BMRB researchers  and members of the academic team  
+accompanied interviewers in the field to observe some interviews being conducted. In 
+addition to this, interviewers were provided with feedbac k forms which they were required to 
+complete during their assignments, and they also attended a debrief session with TNS -BMRB 
+researchers to feedback any observations from the pilot.  
+ 
+As part of the pilot an experiment was conducted to see whether offerin g cash incentives 
+instead of gift vouchers made any difference to response. As such half of interviewers were 
+provided with cash incentives and half with gift vouchers. Opinion amongst interviewers was 
+divided over which type of incentive they preferred ; however on the whole it was decided that 
+cash incentives were the most effective and therefore this was the approach used for  the 
+main fieldwork. 
+ 
+
+--- PDF PAGE 6 ---
+Questionnaire development 
+ 
+ 
+ 
+© 2011 TNS UK Limited.  All rights reserved 3 of 24 
+The average interview length at the pilot was 84 minutes, meaning a substantial amount of 
+the questionnaire was cut out in order to reduce the length for the main stage. 
+ 
+2.2 The Questionnaires 
+ 
+There were three main components of the questionnaires: the main questionnaire 
+administered by computer -assisted personal interview (CAPI) and a mail -back questionnaire.  
+Within the main CAPI questionnaire there was also a self -completion module where the 
+interviewee entered his or her answers direct  into the computer without going through the 
+interviewer. 
+ 
+The final CAPI questionnaire covered the following topic areas and had the following broad 
+structure: 
+ 
+ Classification (Part 1) 
+ Outcomes 
+ Attitudes towards political issues in the election 
+ Ethnic and religious identity and group consciousness  
+ Attitudes to integration, integration policies and multiculturalism 
+ Self-completion – Voting, war in Afghanistan, traditional dress 
+ Discrimination, prejudice and social distance  
+ Ethnic social capital and mobilisation 
+ Classification (Part 2) 
+ 
+The mail back  questionnaire covered the following topic areas and had the following broad 
+structure: 
+ 
+ Who the parties look after 
+ Views on elections  
+ Women and ethnic minorities in politics 
+ Left-right scale 
+ Social attitudes 
+ Attitudes to democracy 
+ Immigration 
+ Discuss politics 
+ View on neighbourhood 
+ Freedom, equal rights and discrimination 
+ Immigrants learning the English language 
+ Attitudes towards integration and equality 
+ Religion and politics 
+ Radical Islamists 
+ 
+The full questionnaires and showcards can be found in accompanying documents to this 
+technical report. 
+
+--- PDF PAGE 7 ---
+Sample design 
+ 
+ 
+ 
+© 2011 TNS UK Limited.  All rights reserved 4 of 24 
+ 
+3. Sample design 
+ 
+The sample design for the e thnic minority British Election Study differs considerably from the 
+main British Election Study. As ethnic minorities account for only a small proportion of the 
+population most households will be ineligible for the survey . Therefore without exact prior 
+knowledge of where these individuals live any survey will involve going to a large amount of 
+addresses to find the small number of households that are eligible. 
+ 
+Rather than looking at all ethnic minority groups in Britain, the ethnic minority British Electio n 
+Study focused on the main five biggest groups. These were Black Caribbean, Black African, 
+Indian, Pakistani and Bangladeshi. As such the survey only aims to be representative of these 
+groups. 
+ 
+The sample design aimed to  efficiently yield the target numbe r of interviews in each ethnic 
+group using a random probability approach  allowing for a  representative survey  of each 
+group. As such addresses were selected and a screening exercise was first carried out on the 
+doorstep to identify eligibility before inter views took place. This chapter describes the sample 
+design in detail. 
+ 
+3.1 Target and survey populations 
+ 
+More precisely the target population was defined as: adults aged 18+ resident in Great Britain 
+who would self-classify into one of five Census ethnic groups:  
+ Black Caribbean 
+ Black African 
+ Indian 
+ Pakistani 
+ Bangladeshi 
+However, the survey population is only an approximation of the target population in two key 
+respects: 
+1. a small proportion (c10-15% of each group) was excluded because these individuals 
+lived in areas where the eligible population was too thinly spread to be efficiently 
+surveyed; 
+2. sampled addresses were (usually) screened on the basis of information provided by 
+one resident; it is likely that some eligible individuals will have been erroneously 
+screened out. 
+ 
+
+--- PDF PAGE 8 ---
+Sample design 
+ 
+ 
+ 
+© 2011 TNS UK Limited.  All rights reserved 5 of 24 
+3.1.1 Target sample sizes 
+ 
+The objective was to ac hieve c600 interviews  each with Black Caribbean, Black African, 
+Indian and Pakistani respondents  and c350 -400 interviews with Bangladeshi respondents , 
+leading to a total of 2,750 to 2,800 interviews. 
+3.2 General sample design 
+ 
+A brief overview of the sample design comprises three stages: 
+1. a stratified random sample of 715 primary sampling units (PSUs) with a random subset 
+of 119 allocated to the reserve pool (leaving 596 to be issued in the first instance) ; 
+2. a systematic random sample of 25-75 addresses in each sampled PSU; 
+3. one individual randomly sampled within each household from among those eligible for 
+the survey. 
+The Residential Postal Address File (PAF) was used to provide a sample frame of addresses.   
+In the vast majority of cases only one household was found at each sampled address. 
+However, in other cases, more than one dwelling unit was identified and, occasionally, more 
+than one household was identified within a single dwelling unit.  (The variable qdwell gives the 
+number of dwelling units.)   In these circumstances, the interviewer was instructed to sample 
+one dwelling unit and, if necessary, one household within the sampled dwelling unit. The 
+interviewer used a pre -printed Kish grid to ensure this selection was random.  The same grid 
+was used to sample the individual from among those listed as eligible.  The number of people 
+eligible within each household is given by the variable noelHH. 
+In addition to the core sample, a Bangladeshi-only boost sample was drawn, comprising 29 
+PSUs (with 5 allocated to the reserve pool, leaving 24 to be issued in the first instance) and 
+between 40 and 75 sampled addresses in each one. 
+Each of the stages are looked at in more detail in the following sections. 
+ 
+3.2.1 Sampling of PSUs – the core sample 
+ 
+In England and Wales, Lower Level Super Output Areas (LSOAs) were used as PSUs and, in 
+Scotland, Data Zones (DZs) were used as PSUs.  The PSUs are identified  anonymously by 
+the variable PSUcode. 
+The master database of PSUs was filt ered before the sample was drawn to include the 
+minimum required to achieve an 80% coverage target for all five ethnic groups .  This was 
+done by ranking the PSUs in terms of  
+(a) % of adult population classified as „Black Caribbean‟ in the 2001 census,  
+(b) % of adult population classified as „Black African‟ in the 2001 census,  
+(c) % of adult population classified as „Indian‟ in the 2001 census,  
+
+--- PDF PAGE 9 ---
+Sample design 
+ 
+ 
+ 
+© 2011 TNS UK Limited.  All rights reserved 6 of 24 
+(d) % of adult population classified as „Pakistani‟ in the 2001 census, and  
+(e) % of adult population classified as „Bangladeshi‟ in the 2001 census. 
+When the database is ranked, a running population proportion for the relevant ethnic group 
+can be computed and attached to each PSU.  All PSUs with a value <80% for any of the five 
+ethnic groups were included in the filtered database.  This method led to the estimated 
+coverage levels shown in Table 3.1. 
+Table 3.1 Estimated survey coverage levels 
+Ethnic group Coverage 
+Black Caribbean 88% 
+Black African 89% 
+Indian 85% 
+Pakistani 91% 
+Bangladeshi 90% 
+Total 88% 
+ 
+The (core) sampling probability of each PSU was determined by  
+(a) the number of addresses expected to contain any of the target ethnic groups, and  
+(b) the expected ethnic mix. 
+General sampling theory shows that the most efficient screening design is one in which the 
+PSU sampling probability is proportional to the square root of the expected eligibility rate.  
+However, with five separate sample targets, empirical (iterative) methods were used instead 
+to determine how (b) – the expected ethnic mix - should affect the PSU sampling probability.   
+Before this stage, the expected ethnic mix needed to be calculated for each PSU.  This was 
+not a simple case of analysing the Census data.  Instead a „Citizenship survey‟ adjustment 
+was applied by comparing the ethnic distribution  of „direct screen‟ interviews 1 from the most 
+recent year of the CLG Citizenship Survey with what would have been expected if the number 
+of interviews was proportionate to the Census count in the sampled PSUs.  This adjustment 
+allowed for both population c hange since 2001 as well as between -group variation in survey 
+response propensity.  The adjustment was necessarily „rough‟ but simulation analysis carried 
+out by the survey contractors suggested that an adjustment of this type was more likely to 
+mean that sample targets were met.  The adjustments applied are shown in table 3.2. 
+                                                      
+1 The Citizenship Survey contains a large boost sample of ethnic minority individuals, carried out using the same 
+methods as EMBES. 
+
+--- PDF PAGE 10 ---
+Sample design 
+ 
+ 
+ 
+© 2011 TNS UK Limited.  All rights reserved 7 of 24 
+ 
+Table 3.2 Citizenship Survey adjustments 
+Ethnic group Citizenship Survey adjustment 
+Black Caribbean Census count * 1.07 
+Black African Census count * 1.57 
+Indian Census count * 0.79 
+Pakistani Census count * 0.84 
+Bangladeshi Census count * 1.03 
+ 
+The size measure for each PSU was determined after an iterative process and which resulted 
+in the following formula2: 
+(BCpsu* 3.26) + (BApsu * 0.24) + (Ipsu * 0.69) + (Ppsu * 1.56) + (Bpsu * 1.85)  
+ 
+BCpsu = Citizenship Survey adjusted number of Black Caribbeans in the PSU  
+BApsu = Citizenship Survey adjusted number of Black Africans in the PSU 
+Ipsu  = Citizenship Survey adjusted number of Indians in the PSU 
+Ppsu  = Citizenship Survey adjusted number of Pakistanis in the PSU 
+Bpsu  = Citizenship Survey adjusted number of Bangladeshis in the PSU  
+Before finalising the design, the contractors estimated the reduction in sampling efficiency 
+introduced by disproportionate sampling within each ethni c group.  Efficiency was estimated 
+at c90% for each ethnic group although this was reduced to c75 -80% for the Bangladeshi 
+group once the boost sample was factored in. By „efficiency‟ we mean the effective sample 
+size yielded by a disproportionate design (s uch as this) expressed as a proportion of the 
+effective sample size yielded by a proportionate design.” 
+715 PSUs were sampled with a probability proportionate to this size measure.  119 of these 
+were (systematically) allocated to the reserve pool which, in the event, was not activated. 
+ 
+3.2.2 Stratification of PSUs 
+ 
+Before drawing the sample, the master database of PSUs was explicitly and implicitly 
+stratified to minimise sample variance.  The primary stratification was by ethnic mix.  The 
+contractors developed „ ethnic mix‟ strata to maximise the probability of achieving the target 
+interview numbers.   
+                                                      
+2 The numbers in the formula are simply t he results of the iterative process.  This was the combination most likely to 
+lead to even interview numbers in each of the four main ethnic categories.   
+
+--- PDF PAGE 11 ---
+Sample design 
+ 
+ 
+ 
+© 2011 TNS UK Limited.  All rights reserved 8 of 24 
+These strata were constructed using the k-means clustering method which produces k 
+clusters that are as different from each other as possible in terms of five input  variables (% of 
+population in each of the five target ethnic groups).   
+Simulation samples produced only minor variation in the expected interview numbers per 
+ethnic group, limiting sample variance significantly.  Each ethnic mix  stratum is described in 
+table 3.3 and is identified in the data set by the variable EthnicMixStratum . 
+Table 3.3 Ethnic mix strata (% of total Census population in eligible PSUs) 
+Ethnic group 
+mix stratum 
+Not eligible Black 
+Caribbeans 
+Black 
+Africans 
+Indians Pakistanis Bangladesh
+is 
+1 94% 1% 1% 2% 1% 1% 
+2 34% 3% 2% 53% 8% 1% 
+3 81% 2% 1% 3% 12% 1% 
+4 49% 3% 4% 2% 2% 40% 
+5 76% 9% 7% 4% 2% 2% 
+6 30% 2% 1% 5% 58% 5% 
+7 86% 2% 2% 8% 2% 1% 
+8 57% 5% 3% 25% 7% 2% 
+9 53% 4% 1% 6% 31% 5% 
+10 63% 12% 19% 3% 2% 2% 
+ 
+Within each ethnic mix str atum PSUs were explicitly stratified by combinations of NUTS1 3 
+regions and within these lowest level strata (39 in all , identified by the variable FinalStratum ), 
+PSUs were sorted by population density.  Population density of the PSU is identified by the 
+variable Popdensity. The ordering of PSUs within strata is identified by the variable 
+StratOrder.   
+ 
+3.2.3 Sampling of PSUs – the boost sample 
+ 
+There was no way of achieving a large sample of Bangladeshis while also targeting equal 
+sample numbers in the other four ethnic groups.  Consequently, the contractors 
+recommended that (a) the core sample design should focus primarily on the four larger ethnic 
+groups, and (b) a small boost survey should be carried out in which only those self -identifying 
+as Bangladeshis were eligible.  The objective was to increase the Bangladeshi sample size by 
+c100 to c350-375. 
+The database of generally eligible PSUs was reduced to include only those required to deliver 
+a 55% coverage of the Bangladeshi population.  The sort order from the c ore sample design 
+was retained but new PSU sampling probabilities were computed with the size measure 
+proportional to B psu.  As before, a systematic sample of PSUs was drawn with probability 
+                                                      
+3 NUTS1 is the top level in the geographic hierarchy and is equivalent to the old government office region 
+
+--- PDF PAGE 12 ---
+Sample design 
+ 
+ 
+ 
+© 2011 TNS UK Limited.  All rights reserved 9 of 24 
+proportionate to the size measure.  29 were sampled with 5 alloca ted to the reserve pool.  
+PSUs that had been sampled for the core survey were also eligible for the boost survey.  In 
+the event, only one PSU was activated for both surveys. 
+Analyses of Bangladeshi data includes cases from both the core and boost sample su rveys.  
+Sample weights have been produced that compensate for the higher sampling probability of 
+those living in PSUs eligible for the boost survey.  Bangladeshi boost cases are identified by 
+the variable Boost. 
+ 
+3.2.4 Address sampling 
+ 
+Within each sampled PSU, t he total number of addresses to sample was initially calculated 
+using this formula: 
+5 / (0.5 * 0.91 * expected eligibility rate) 
+The target number of interviews for each PSU was set at 5.  0.5 represents the expected 
+conversion rate among eligible addresse s and 0.91 represents the expected proportion of 
+addresses that are residential.  The „expected eligibility rate‟ was simply the Citizenship -
+adjusted Census sum of eligible individuals in the PSU as a proportion of the total Census 
+population in the PSU. 
+Pre-sample simulations showed that in many PSUs this would result in either too few or (more 
+typically) too many addresses to issue 4.  A practical range of 25 -75 was set and PSUs with 
+target address samples below 25 were given a target of 25 and PSUs with t arget address 
+samples above 75 were given the target 75.  To compensate for these adjustments the PSU 
+sampling probability was raised or lowered as appropriate to maintain the same address 
+sampling probability.  The average expected number of interviews pe r PSU was reduced from 
+5 to c4.5 and the target number of PSUs to sample was adjusted upwards to ensure that the 
+overall sample size targets continued to be met.  All of these adjustments were made before 
+the final sample was drawn. 
+This process was repeat ed for the Bangladeshi boost survey although the practical address 
+range was narrowed to 40 -75 to avoid assignments with a high likelihood of yielding only a 
+very small number of interviews.  Despite this, the average expected number of interviews per 
+PSU was a little lower at c4.3. 
+The selection probability of PSUs for the core survey and boost survey is identified by the 
+variables AdjustedPSUSamplingProbability and BoostAdjustedPSUSamplingProbability. The 
+final address selection probabilities for non -Bangladeshis and Bangladeshis are identified by 
+the variables NonBangFinalSamplingProbability and BangFinalSamplingProbability. 
+ 
+                                                      
+4 Too few and the interview assignment leads to very low numbers of interviews which is problematic when a 
+substantial proportion of payment is per interview achieved.  Too many and there is a risk of not achieving minimum 
+contact efforts per address within a reasonable timeframe. 
+
+--- PDF PAGE 13 ---
+Sample design 
+ 
+ 
+ 
+© 2011 TNS UK Limited.  All rights reserved 10 of 24 
+3.2.5 Sampling individuals 
+ 
+At each sampled address, the interviewer sought to establish eligibility by presenting the first 
+contacted ad ult member of the household with a card listing the eligible ethnic groups and 
+asking if any adult resident could be  categorised into any one of the groups.  If so, the 
+interviewer recorded brief details of each and randomly sampled one for interview with the 
+help of a pre-printed Kish grid.  Inevitably, some respondents self -classified outside of the five 
+categories (e.g. into a mixed ethnic category) once answering the questionnaire.  These 
+individuals are set aside from the primary analysis below. 
+
+--- PDF PAGE 14 ---
+Fieldwork 
+ 
+ 
+ 
+© 2011 TNS UK Limited.  All rights reserved 11 of 24 
+ 
+4. Fieldwork 
+The Ethnic Minority British Election Study involved a large scale face to face survey with over 
+31,000 addresses selected of which over 83% were screened 5. Interviewing took place all 
+over England, Scotland and Wales resulting in one of the largest scale ethnic minority surveys 
+in recent times.  
+ 
+4.1 Main stage fieldwork 
+ 
+Fieldwork was carried out in home by interviewers from TNS -BMRB. Interviewing began the 
+day after the election (May 7th 2010) and was complete by 31st August 2010. The survey 
+consisted of a face -to-face computer-assisted personal interview (including a self-completion 
+module) and a mail-back paper questionnaire. Interviewers on this survey came from a 
+diverse range of backgrounds ; this is broken down for the  200 interviewers who carried o ut 
+fieldwork on thi s study  in table 4.1 . Interviewer ethnicity is identified in the dataset by the 
+variable Inteth and interviewer gender is identified by the variable Intsex.  
+ 
+Table 4.1 Ethnicity of interviewers 
+Ethnicity Number of interviewers 
+White 133 
+Indian 19 
+Pakistani 12 
+Bangladeshi 1 
+Other Asian 17 
+Black African 12 
+Black Caribbean 6 
+    
+ 
+4.1.1 Interviewing procedures 
+ 
+Interviewers received  a full day briefing which familiarised them with the questionnaire, 
+selection procedure and screening.  They were also reminded about cultural sensitivity and 
+how to administer translated versions of the questionnaire. 
+ 
+Given the large number of addresses to screen advance letter s were  not posted out to 
+households. This was based on the assumption that a higher c ash incentive would be more 
+efficient at obtaining co -operation than receiving advance letters , and the financial saving 
+from not sending out a large number of letters allowed for a significant increase in the cash 
+incentive. Respondents received £20 in ca sh as a thank-you for taking part in the survey.  As 
+                                                      
+5 The remaining 17% consisted of deadwood, some households refusing screening questions and no contact with 
+any individual 
+
+--- PDF PAGE 15 ---
+Fieldwork 
+ 
+ 
+ 
+© 2011 TNS UK Limited.  All rights reserved 12 of 24 
+mentioned in section 2.1 evidence from the pilot suggested that a cash incentive was better at 
+gaining co-operation than gift vouchers.  
+ 
+Although advance letters were not sent out  interviewers did have letters on them that they 
+could leave at households or give to respondents to help convince them to take part . These 
+letters can be found in accompanying documents to this technical report. 
+  
+The mean interview length was 47 minutes and median interview length was 45 minutes. 
+ 
+In the vast majority of cases the respondent had no difficulty conducting the interview in 
+English. Interviewers were also instructed to speak to an English speaker within the 
+household where possible  while conducting the screening. Interviewers had doorstep 
+translation cards at their disposal explaining the intent of the survey and asking for an English 
+speaker. These translation cards were available in: 
+ 
+ Punjabi (Urdu script) 
+ Punjabi (Gurmukhi script) 
+ Urdu 
+ Hindi 
+ Gujarati 
+ Bengali 
+ 
+Even where screening was successfully carried out it was still possible that the selected 
+individual did not speak English. If the selected individual spoke one of the six languages 
+above then the interviewer attempted to find a member of the household that c ould be used 
+as a translator. If the interviewer themselves could speak and read the relevant language then 
+they could act as the household translator themselves. Translated versions of the 
+questionnaire were available in the six languages listed above and  the household translator 
+could then read the script and translate answers back to the interviewer  to type into the CAPI 
+machine as normal.  
+ 
+Copies of the translated questionnaires can be found in accompanying documents to this 
+technical report. The variable „trans‟ identifies whether a translator was used and the variable 
+trans2 gives the language of the interview. For cases where the respondent spoke a language 
+other than the six listed above, interviewers still attempted to find a member of the househol d 
+that could be used as a translator and in these cases they translated the questions into the 
+relevant language from the English questionnaire script for the respondent.  
+ 
+ 
+4.1.2 Screening 
+ 
+As only respondents from one of the five ethnic backgrounds of interest were eligible for the 
+survey, interviewers needed to sc reen households on the doorstep . Respondents were 
+presented with a card with the five ethnicities displayed and asked if anyone from the 
+household was from one of these  backgrounds. If the household wa s eligible for the survey 
+the interviewer would then list out all eligible respondents in the household (if more than one) 
+
+--- PDF PAGE 16 ---
+Fieldwork 
+ 
+ 
+ 
+© 2011 TNS UK Limited.  All rights reserved 13 of 24 
+and a Kish Grid was used to make a random selection of an individual . Interviewers were 
+briefed to make no assumptions about individu als‟ ethnicity and it was entirely up to 
+respondents to self-select themselves into an ethnicity.   
+ 
+Mixed race  respondents were not intentionally included , and respondents who classified 
+themselves as mixed race at the doorstep and not into one of the spe cific ethnic groups on 
+the screening card were not eligible for the survey. 
+ 
+Despite this, in certain cases individuals chose a different ethnicity in the survey (in response 
+to question BQ101) than during the screener. This only occurred in 5% of cases, m ost 
+commonly where an individual had selected one of the five ethnicities on the screening card 
+and then chose „mixed race‟ when presented with the full census ethnicity question during the 
+survey.  
+ 
+There were 47 cases where the ethnicity given in the sur vey did not obviously correspond 
+with one of the five ethni cities on the screening card , e.g. „other‟ was selected. For these 
+cases one of the 5 eligible ethnicities was derived ( identified in the variable ScreenEthQairre) 
+based on the respondent‟s country  of birth, their mother‟s country of birth or their father‟s 
+country of birth in order to replicate the answer they would have given at the screening stage.  
+ 
+As the selected individual in the household was not necessarily the person who completed 
+the door step screening , interviewers first reconfirmed ethnicity with the selected individual 
+before carrying out the survey. In cases where the selected individual disagreed a re -
+selection process was carried out using a Kish Grid. 
+ 
+ 
+4.1.3 Mail-back questionnaire 
+ 
+At the end of the interview a 10 page  questionnaire was left with all respondents together with 
+a reply-paid envelope. This questionnai re consisted of 28 questions and the  topics covered 
+are noted in section 2.2 . If necessary, up to three postal reminders were  sent to obtain the 
+mail-back supplement. The second reminder was accompanied by a further copy of the 
+questionnaire. Copies of the reminder le tters can be found  in accompanying documents to 
+this technical report. 
+ 
+A prize draw was used to encourage respon se, with a first prize of £500, three prizes of £100, 
+ten prizes of £10, and twenty prizes of £5. The winners were drawn from mail-backs returned 
+by 31st August 2010. 
+ 
+4.2 Response rates 
+ 
+Table 4.2 gives a brief breakdown of the final sample outcomes at the end of fieldwork. 
+ 
+ 
+
+--- PDF PAGE 17 ---
+Fieldwork 
+ 
+ 
+ 
+© 2011 TNS UK Limited.  All rights reserved 14 of 24 
+ 
+Table 4.2 Response rates 
+ N % 
+Total Addresses issued 31324 100 
+Out of scope (deadwood) 1502 5 
+Unknown eligibility 3810 12 
+   
+Total screened 26012 100 
+Ineligible ethnicity 21788 84 
+   
+Total eligible 4224 100 
+No interview: 
+Refused 
+No contact with selected person 
+Other unproductive 
+1437 
+974 
+48 
+415 
+34 
+23 
+ 1 
+10 
+Full interviews 2787 66 
+Mail-back returned 975 
+23 (35% of those 
+completing f2f 
+survey) 
+ 
+ 
+All PAF  (postal address file)  samples include a proportion of addresses that are in eligible, 
+often referred to as deadwood, these are excluded from response rate calculations and fall 
+into the out of scope category.  
+ 
+The vast majority of households were ineligible for the survey due to no -one from the 
+specified ethnic backgrounds living there. However there was also a further small proportion 
+of cases where it was not possible to determine whether the household was eligible. This may 
+be because contact was never made with any individual in the ho usehold after frequent 
+attempts, or the household refused to give initial information on ethnicity. 
+ 
+Calculating response rates becomes more problematic when large scale screening is involved 
+because of households where eligibility cannot be determined. To calculate a response rate 
+one approach would be to assume everyone who was not screened was in fact ineligible. This 
+approach hinges on a very unrealistic assumption and as such, we feel is not an appropriate 
+way of calculating response. Alternatively we could assume that all households that were not 
+screened were in fact eligible. This however is overly punitive (particularly on a survey such 
+as this where the vast majority of households will be ineligible).  
+ 
+An optimal approach for dealing with these cases is to assume the eligibility rate was the 
+same amongst the unscreened households as among the screened households . This means 
+
+--- PDF PAGE 18 ---
+Fieldwork 
+ 
+ 
+ 
+© 2011 TNS UK Limited.  All rights reserved 15 of 24 
+that a proportion of the unscreened households are included in the response rate calculation.  
+Using this approach gives a response rate of 58%. 
+ 
+A mail-back questionnai re was then left at all addresses that completed a face to face 
+interview and in total 975 of these were returned.  
+ 
+ 
+ 
+ 
+ 
+
+--- PDF PAGE 19 ---
+The Data 
+ 
+ 
+ 
+© 2011 TNS UK Limited.  All rights reserved 16 of 24 
+5. The Data 
+ 
+5.1 Data cleaning and editing 
+ 
+Data was checked  for errors by researchers and data processors . A small amount of editing 
+also took place primarily to cap very high answers on numerical questions. 
+ 
+Where questions are open ended or respondents mention something that is not on the 
+answer list 6 the coding team review, clean up and categorise answers. Coders looked at all 
+questions where an “other – specify” had been given as an answer.  The aim of this exercise, 
+commonly known as back coding, was to see whether the answer given could actually be 
+coded into one of the original pre-coded response options.   
+ 
+Code frames were also created  for open ended questions. Standard coding procedures were 
+applied to both “other – specify” and open ended questions. After coding , the data was 
+analysed to examine the proportion of answers that were remaining in the „other‟ category. 
+ 
+5.2 Variables 
+ 
+The dataset includes variables for all questions in both the face to face to survey and mail-
+back survey, as well as a number of banded IMD scores (Index of multiple deprivation), 
+variables identifying the country and region of interview, the press association co nstituency 
+number, and a number of variables used for the sample design and administration of the 
+survey, including interviewer characteristics. Also included is the outcome from the vote 
+validation exercise undertaken alongside the main British Election S tudy. For details please 
+see the main British Election Study technical report. 
+ 
+5.3 Variable names 
+ 
+In the dataset the default for  the variable name is the question name from the qu estionnaire. 
+When a question allows for  multiple responses it is split into mul tiple binary variable s and 
+follows the question name with a letter attached. For insta nce “question nameA, question 
+nameB....question nameZ”. 
+The questionnaires can be found in accompanying documents to this technical report.  
+ 
+In general the question/varia ble names start bq and eq if the questions are from the face to 
+face survey and cq and ecq if the questions are from the  mail-back. Those starting bq and cq 
+are in fact questions that also appear on the main BES survey, while those starting eq and 
+ecq are those that only appear on the EMBES. 
+ 
+5.4 Special codes 
+ 
+                                                      
+6 Known as “other – specify” 
+
+--- PDF PAGE 20 ---
+The Data 
+ 
+ 
+ 
+© 2011 TNS UK Limited.  All rights reserved 17 of 24 
+Throughout the dataset “Don‟t know” responses have been coded as -1 and “Refused” 
+responses have been coded as -2 for all single coded variables. 
+ 
+5.5 Weighting 
+ 
+Weighting was used to ensure survey responden ts are representative of the population to 
+which they are generalising. 
+ 
+Weighting has been carried out in two stages. Firstly design weights were created to account 
+for unequal selection probabilities, and secondly non response weighting has been applied to 
+account for differential response among groups and bring these key measures back in line 
+with population estimates. 
+ 
+ 
+5.5.1 Design weights 
+ 
+The address probabilities  of selection for each ethnic group  were recorded during the 
+sampling phase reported in chapter 3. However, there are further causes of unequal selection 
+probabilities which need to be accounted for when calculating a complete design weight. This 
+is because only one person is selected for interview at an address even though an address 
+may have mult iple dwelling units or there may be many eligible people in the household. 
+Hence this would give people in small households or single dwelling units a higher probability 
+of selection than those in large households or multiple dwelling unit addresses.   
+ 
+Therefore the final selection probability is calculated by multiplying the following three 
+selection probabilities: 
+ 
+i. The address selection probability 
+ii. 1/ number of dwelling units at the address 
+iii. 1/ number of eligible individuals at the selected dwelling unit 
+ 
+The design weight is simply 1/final selection probability.  Caps were applied to the number of  
+dwelling units  and eligible household members to reduce excessive weights. The design 
+weight has also been trimmed to ensure the factor of largest to smallest wei ght is not too 
+extreme7. These weights are in the variable Weight_trimmedDESIGN. 
+ 
+ 
+5.5.2 Non response weighting 
+ 
+Rim weights were created  for each ethnicity to bring the population  of that ethnicity back into 
+line on the following demographic dimensions:  
+ 
+ Age 
+ Sex 
+                                                      
+7 Weights were trimmed for each ethnicity independently, at approximatel y 5 times the median of the untrimmed 
+weight (around the 99th percentile). This resulted in less than one per cent of weights being trimmed. 
+
+--- PDF PAGE 21 ---
+The Data 
+ 
+ 
+ 
+© 2011 TNS UK Limited.  All rights reserved 18 of 24 
+ Region8  
+ 
+These population targets were taken from the  April to June 200 9 LFS (Labour Force Survey) 
+and the Office of National Statistics ( ONS) mid-year population estimates from 2007.  These 
+weights are in the Weight_trimmedF2F variable. 
+ 
+Since the samp le design had five different target sample sizes, one for each ethnic group, 
+and these bare no relation to the actual sizes of the five groups in the population, a n optional 
+weight was also created for analysing all 5 groups together as one population. Thi s was 
+created by reweighting the different ethnic minority groups to represent their correct 
+proportion of the ONS mid -year population estimates.  The variable Weight_trimmedF2FALL5 
+contains these weights. 
+ 
+ 
+5.5.3 Non response weights for mail-back 
+ 
+Unfortunately not all respondents return the mail-back postal questionnaire and as such some 
+further non response weighting needs to be applied. This can be  likened to a panel survey 
+and hence assumed that sample attrition has not occurred randomly. Therefore bias may 
+result from certain individuals being less likely to return the mail -back. However as we have 
+data from the face -to-face survey, non response weights can be calculated using far richer 
+information than simple demographics.  
+ 
+Various variables from the face-to-face survey were compared for mail -back respondents and 
+non-respondents. These were then entered into a logistic regression model with response as 
+the depend ent variable . The predictor variables were entered via a forward stepwise 
+procedure with the final optimal model consisting of the following variables 9: 
+ 
+ Age-group of respondent; 
+ Gender; 
+ Ethnicity; 
+ Region; 
+ Interest in the general election; 
+ Whether has volunteered to get involved in politics or community affairs; 
+ How much has in common with British people in general; 
+ How, and if cast vote in 2010 election;  
+ Level of comfort with being asked directions from picture of woman in Niqab;  
+ Whether place of worship encouraged members to vote; 
+ Whether British citizen; 
+                                                      
+8 Due to limited base sizes region was grouped into four categories: 
+1. London & South East 
+2. Midlands & East of England 
+3. North West & Yorkshire 
+4. South West, North East, Scotland and Wales 
+9 The first four variables, as demographics, were included in the model regardless of significance tests and so were 
+not subject to the stepwise selection procedure. 
+
+--- PDF PAGE 22 ---
+The Data 
+ 
+ 
+ 
+© 2011 TNS UK Limited.  All rights reserved 19 of 24 
+ Whether got information about the election  and recent issues in Britain from 
+newspapers; 
+ Whether got information about the election and recent issues in Britain from television;  
+ Whether got information about the election and recent issues in Britain from the radio  
+ 
+The predicted response probabili ties from the final optimal model were converted into a non -
+response weight by calculating their reciprocal . These non -response weights were then 
+combined with the face -to-face non -response weights, which in turn also reflect the design 
+weights. To avoid e xtreme weights having a large influence on the estimates the non -
+response weight was trimmed at the 1st and 99 th percentiles.  These weights are in the 
+variable Weight_trimmedMAILBACK. For analysis of all five groups combined, the mailback 
+weights were furt her adjusted to reflect the relative sizes of the five groups in the population. 
+The variable Weight_trimmedMAILBACKALL5 gives these weights. 
+ 
+5.6 Weights in the dataset  
+ 
+The dataset contains five weights. These are: 
+ 
+ Design weight (Weight_trimmedDESIGN) 
+ Final weight for face to face survey (within ethnicity) (Weight_trimmedF2F) 
+ Final weight for face to face survey with all 5 groups together 
+(Weight_trimmedF2FALL5) 
+ Final weight for postal mail back survey (Weight_trimmedMAILBACK) 
+ Final weight for postal mail b ack survey with all  5 groups together  
+(Weight_trimmedMAILBACKALL5)  
+ 
+The face to face weights are for use  when analysing questions from the face to face survey 
+and the mail -back weights should  only be applied when analysing questions from the mail -
+back.  
+ 
+ The „within ethnicity‟ weight is representative of the specific ethnic minority group , and as 
+such is used for analysis within each ethnicity.  If all 5 groups are being combined to analyse 
+as one group then the „all 5 groups together‟ weight is used as th is reweights the different 
+ethnic minority groups to represent their correct proportion of the ONS mid -year population 
+estimates. 
+ 
+ 
+5.7 Design Effects 
+ 
+The standard errors of survey estimates are affected by the sample design, particularly by the 
+effect of sam pling weights, clustering, and stratification. It is important to take these factors 
+into account when calculating correct estimates of standard errors and confidence intervals. 
+Ignoring the sample design (i.e. assuming a simple random sample and taking in to account 
+only sample size and population variance) results in estimated standard errors that will be too 
+small.  
+
+--- PDF PAGE 23 ---
+The Data 
+ 
+ 
+ 
+© 2011 TNS UK Limited.  All rights reserved 20 of 24 
+ 
+The Design Factor is the standard error of the complex design divided by the standard error 
+of a simple random design, and the Design Effect  can be calculated as simply the square of 
+this. Then the actual sample size divided by the Design Effect gives the effective sample size 
+which can be used for significance testing. 
+ 
+Table 5.1 details the design effects for a number of key questions in the  survey. These are 
+displayed for the total sample answering each question as well as for individual ethnicities. 
+The Design effects reported below are calculated using the final weight for the face to face 
+survey for all 5 groups combined (Weight_trimmedF2FALL5). 
+ 
+Table 5.1 Design Effects 
+Variable10 Total 
+sample 
+Black 
+Caribbeans 
+Black 
+Africans Indians Pakistanis Bangla-
+deshis 
+Voted at 2012 general election 
+(bq12_1) 1.81 1.53 1.39 1.44 1.65 1.60 
+Party voted for (bq12_2) 1.67 1.39 1.29 1.39 1.62 1.23 
+Volunteered in politics or community 
+affairs (bq54_2) 1.70 1.62 1.45 1.48 1.34 1.60 
+See themselves more as British or own 
+ethnicity (eq16a) 2.10 1.72 1.71 1.72 1.66 1.64 
+See themselves more as British or own 
+religion (eq16c) 1.92 1.59 1.54 1.60 1.83 1.62 
+Agrees that respondent‟s ethnicity 
+should mix with other groups in UK 
+(eq22_2) 
+2.05 1.36 1.66 1.61 1.89 1.54 
+Agrees there is a big gap between what 
+people of respondent‟s ethnicity expect 
+out of life and actually get (eq18_2a) 
+1.85 1.47 1.48 1.58 1.53 1.55 
+Approve of Britain‟s involvement in the 
+war in Afghanistan (bq45) 1.89 1.56 1.44 1.50 1.65 1.49 
+ 
+ 
+                                                      
+10 For simplicity, the Design Effects quoted here for each variable are the weighted mean of response categories (i.e. 
+if 30% of respondents at a question said „Yes‟, 60% said „No‟, and 10% said „Don‟t Know‟, then the Design Effect for 
+„Yes‟ would be multiplied by 0.3, No by 0.6  and DK by 0.1 and then summed together to give a weighted Design 
+Effect for the question.)    
+
+--- PDF PAGE 24 ---
+Vote Validation Exercise 
+ 
+ 
+ 
+© 2011 TNS UK Limited.  All rights reserved 21 of 24 
+6. Vote Validation Exercise 
+As an extension to the British Election Study and the Ethnic Minority British Election Study, 
+TNS-BMRB conducted a vote validation e xercise on the respondents who took part in the 
+main British Election Study and the Ethnic Minority British Election Study.  
+ 
+The aim of this exercise was to validate the answers respondents gave to the question on 
+whether or not they voted in the general election during the CAPI interview against official 
+electoral records. 
+ 
+On the day of the general election, an electoral register is marked at each polling station to 
+record which people turned out to vote 11. These registers are then kept within local autho rities 
+for a period of 12 months after  the general election and they are available for inspection on 
+request by members of the public. 
+ 
+6.1 The sample 
+ 
+The sample of names and addresses was taken from the names and addresses recorded at 
+the end of the CAPI int erview in main BES and the EMBES. A total of 6249 names and 
+addresses were issued for the vote validation exercise 12. The Local Authority was matched to 
+the respondents‟ addresses based on postcode, and in total the sample covered 218 local 
+authorities. On average there were 29 names and addresses to be validated at each local 
+authority, although this varied significantly from 1 to 389.  
+ 
+6.2 Fieldwork  
+ 
+6.2.1 The pilot 
+ 
+A small scale pilot was carried out by members of the research team amongst 3 local 
+authorities. T he purpose of the pilot was firstly to establish how easy it would be to gain 
+access to the marked registers and whether there were any particular procedures that 
+interviewers would need to follow in order to gain cooperation of local authorities. Secondly , 
+the pilot was used to become familiar with the markings and the organisation of the marked 
+electoral registers in order to be able to give interviewers more detailed instructions.  
+ 
+6.2.2 Main fieldwork 
+ 
+Fieldwork was carried out by TNS -BMRB interviewers who w ere issued with one or more 
+local authorities and a list of names and addresses to validate. Interviewers were provided 
+                                                      
+11 This register only records details of whether the named person turned out on the day of the election, it does not 
+record details of which party the person vote d for, or whether or not their electoral paper was valid and their vote 
+counted 
+12 A small number of cases who took part in the CAPI interviews were not issued for the vote validation exercise due 
+to the contact details being incomplete 
+
+--- PDF PAGE 25 ---
+Vote Validation Exercise 
+ 
+ 
+ 
+© 2011 TNS UK Limited.  All rights reserved 22 of 24 
+with telephone numbers and addresses for local authorities and they were required to make 
+contact with the council to arrange a convenie nt time to visit their offices in person to inspect 
+the marked electoral registers. Interviewers were provided with copies of letters to give to 
+electoral officers at local authorities, explaining more about the research and what they would 
+like to do. Som e local authorities required a request in writing before granting permission to 
+inspect the marked electoral register.  
+ 
+Once access had been negotiated, interviewers looked up each name and address on the 
+marked electoral registers and recorded on a data collection sheet whether or not each 
+respondent had voted in the general election.  
+ 
+All interviewers received a video briefing recorded by the TNS -BMRB research team, which 
+they watched before starting work. The video briefing covered the procedures for m aking 
+contact with local authorities and gaining their cooperation (along with lessons learnt from the 
+pilot), and the procedures for searching for names and addresses on the register, 
+explanations of what different markings mean and how to record outcomes . Interviewers were 
+also provided with further more detailed written instructions which they were able to refer to 
+when they were at the local authority offices. 
+ 
+All 218 local authorities were visited by an interviewer. Once each assignment was complete, 
+interviewers returned their completed data collection sheets to head office by recorded 
+delivery. 
+ 
+6.3 The data 
+ 
+The information recorded on data collection sheets was entered by a data entry team. There 
+were 6 possible outcomes recorded on the data file for the validated vote: 
+ 
+ Voted in person 
+ Postal/proxy vote 
+ Not eligible to vote – the named person appeared on the marked register and so had 
+registered to vote, but was not eligible to vote in the general election e.g. the person 
+was a citizen of another European country.  
+ Eligible but did not vote - the named person appeared on the marked register and 
+therefore had registered to vote, and they were eligible to vote in the general election, 
+but did not 
+ Name not registered at this address – either the address ap peared on the marked 
+register but the named person was not listed as registered to vote at the address 
+given, or the given address did not appear on the register at all (i.e. no -one at the 
+address is registered to vote) 
+ Name/address details not sufficient to identify on register -  if the details given by the 
+respondent at the end of the CAPI interview were not full enough to identify them on 
+the marked register 
+ 
+
+--- PDF PAGE 26 ---
+Vote Validation Exercise 
+ 
+ 
+ 
+© 2011 TNS UK Limited.  All rights reserved 23 of 24 
+For a small number of cases (11 for the main BES and 16 for EMBES) the data collection 
+sheet wa s returned without an outcome recorded. These cases have been labelled as 
+„missing‟ in the dataset. 
+ 
+6.4 Data imputation 
+ 
+At the end of the CAPI surveys consent to link data from the survey with publicly available 
+information from the electoral register was as ked of all respondents. Data from the vote 
+validation exercise was not used for those who declined consent; instead outcomes for these 
+respondents were randomly assigned using imputation. 
+ 
+6.4.1 Data imputation variable 
+ 
+OutcomeW is the imputed  vote validation  variable. The original variable 
+OutcomeNoImputation has the full set of outcomes as described at the start of section 6.3, 
+but only for those respondents that consented to the data linking. OutcomeW gives everyone 
+(bar the 16 missing cases) an outcome, but to impute whether voted accurately , other 
+categories were combined  so they did not need to form part of the imputation. Therefore the 
+OutcomeW only has three categories: 
+ 
+ Voted – whether in person, postal or proxy 
+ Not vote – these were people who were eligible  
+ Other – this category includes people who were not eligible to vote, the name was not 
+registered at the address given, or the address details were insufficient to find the 
+respondent/ address on the register. 
+ 
+6.4.2 The imputation process  
+ 
+Firstly, a subset of the individuals that declined datalinking consent but did vote according to 
+the electoral register were randomly selected and their outcomes were „flipped‟ from „voted‟ to 
+„not-voted‟. Then an equal number of non -voters were randomly selected (who ha d also 
+declined datalinking consent) and their outcomes were „flipped‟ to „vote‟.  
+ 
+Individuals in the „other‟ category did not have their answers „flipped‟ as the „other‟ category is 
+an amalgamation of various outcomes and so it is not clear whether we we re even able to 
+identify the individual on the register.  
+ 
+In this way the marginal proportions of voters and non -voters would be accurate even though 
+a small percentage of individuals had been „flipped‟.  As it is unknown which individuals had 
+been randomly „flipped‟ it is not possible to indentify whether or not any particular individual 
+who declined consent to datalinking actually voted or not. As only a small proportion of 
+individuals actually declined the datalinking and a subset of these had their ans wers „flipped‟ 
+the overall accuracy of the total sample is still very high (97%). 

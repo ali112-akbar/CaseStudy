@@ -1,0 +1,3467 @@
+
+--- PDF PAGE 1 ---
+ 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BRITISH ELECTION STUDY 2010 
+ETHNIC MINORITY SURVEY 
+QUESTIONNAIRE 
+ 
+APRIL 27, 2010  
+ 
+ 
+UK Data Archive Study Number 6970 - British Election Study Ethnic Minority Survey, 2010
+
+--- PDF PAGE 2 ---
+ 3 
+Key 
+BQ – items on the Main BES postwave 
+EQ – items only on the EMBES  
+[text] – text only display screens 
+ 
+ 
+Section 1: Classification – Part 1 
+ 
+[text] ASK ALL 
+ 
+To start with I would like to ask you some questions about 
+yourself and your background. 
+ 
+[zq88] ASK ALL 
+INTERVIEWER TO OBSERVE AND RECORD: GENDER OF RESPONDENT 
+ 
+1 Male 
+2 Female 
+DK REF 
+ 
+[zq89] ASK ALL 
+What was your age last birthday?  
+INTERVIEWER: ENTER AGE IN YEARS  
+ FOR 97+, CODE 97 
+ 
+Range: 18 ... 97 
+ DK REF 
+ 
+[zq90] ASK ALL 
+CARD 1 
+ 
+Can I just check which of these applies to you at present?  
+Please take your answers from this card – CARD 1 
+ 
+1 Married 
+2 Living with a partner 
+3 Separated (after being married) 
+4 Divorced 
+5 Widowed 
+6 Single (never married) 
+ DK REF 
+ 
+[zq91_1] ASK ALL 
+How many people are there in your household? Please include 
+both adults and children. 
+Range: 1 ... 97 
+DK REF 
+ 
+[zq91_2] IF MORE THAN ONE AT [bq91_1] 
+How many of those are under 18? 
+ 
+Range: 0 ... 97 
+DK REF 
+ 
+ 
+[zq101] ASK ALL 
+Now I’d like to ask you some questions about your ethnic 
+background and national identity.  
+ 
+
+--- PDF PAGE 3 ---
+ 4 
+Firstly, please could you look at this card and tell me which 
+of these best describes your ethnic group?  
+ 
+Please take your answers from this card – CARD 2 
+ 
+WHITE 
+1  White – British 
+2  White – Irish 
+3  White – Gypsy or Irish Traveller 
+4  Any other White background 
+ 
+MIXED 
+5  Mixed White and Black Caribbean 
+6  Mixed White and Black African 
+7  Mixed White and Asian 
+8  Any other mixed background 
+ 
+ASIAN 
+9  Asian or Asian British – Indian 
+10 Asian or Asian British – Pakistani 
+11  Asian or Asian British – Bangladeshi 
+12  Any other Asian/Asian British background 
+ 
+BLACK 
+13  Black or Black British – Caribbean 
+14  Black or Black British – African 
+15  Any other Black/Black British background 
+ 
+16  Chinese 
+ 
+17  Any other ethnic group 
+DK REF 
+ 
+ 
+ASK IF MARRIED OR LIVING WITH A PARTNER [bq90 = 1 or 2] 
+ 
+And looking at the same card, could you tell me which of these 
+best describes your {textfill: husband/wife/partner’s} ethnic 
+group?  
+ 
+SHOWCARD - CARD 2 – SINGLE CODE 
+ 
+WHITE 
+1  White – British 
+2  White – Irish 
+3  White – Gypsy or Irish Traveller 
+4  Any other White background 
+ 
+MIXED 
+5  Mixed White and Black Caribbean 
+6  Mixed White and Black African 
+7  Mixed White and Asian 
+8  Any other mixed background 
+ 
+ASIAN 
+9  Asian or Asian British – Indian 
+10 Asian or Asian British – Pakistani 
+11  Asian or Asian British – Bangladeshi 
+12  Any other Asian/Asian British background 
+ 
+BLACK 
+
+--- PDF PAGE 4 ---
+ 5 
+13  Black or Black British – Caribbean 
+14  Black or Black British – African 
+15  Any other Black/Black British background 
+ 
+16  Chinese 
+ 
+17  Any other ethnic group 
+DK REF 
+ 
+ 
+[eq2] ASK ALL 
+ What do you consider your national identity to be? Please 
+choose your answer from this card – CARD 3.  You may choose as 
+many or as few as apply. 
+ 
+1 English 
+2  Scottish 
+3  Welsh  
+4  Irish 
+5  British 
+6  Other [write in] 
+7  None of these)- SPONTANEOUS 
+ DK REF 
+ 
+ 
+[eq3] ASK OR COMPUTE FROM eq2 IF ONLY ONE ANSWER 
+And if you had to choose, which one best describes the way you 
+think of yourself? 
+ 
+1  English 
+2  Scottish 
+3  Welsh  
+4  Irish 
+5  British 
+6  [ANSWER FROM NATID CODE 6] 
+ DK REF 
+ 
+ 
+[zq106_1] ASK ALL 
+Do you regard yourself as belonging to any particular religion? 
+ 
+1 Yes 
+2 No 
+ DK REF 
+ 
+ 
+[eq106_a] IF ‘yes’ at [bq106_1] 
+Which one? 
+Please take your answers from this card – CARD 4 
+ 
+1 Christian 
+2 Jewish 
+3 Hindu 
+4. Muslim 
+5. Sikh 
+6. Buddhist 
+7. Other (WRITE IN) 
+ DK REF 
+ 
+ 
+[eq106_c] If Christian [bq106_a=1] 
+
+--- PDF PAGE 5 ---
+ 6 
+Which Christian denomination or tradition do you belong to? 
+ 
+Anglican 
+Baptist 
+Catholic 
+Methodist 
+Pentecostal 
+Orthodox 
+Other (WRITE IN) 
+None in particular 
+DK REF 
+ 
+ 
+[eq106_m] If Muslim [bq106_a=4] 
+Which Muslim tradition do you belong to? 
+ 
+Sunni (Hanafi; Deobandi; Barelvi) 
+Shi’a (Twelvers; Severners; Ismailis; Boras) 
+Sufism 
+Kharijites: Ibadism 
+Ahmadis 
+None of these 
+Other (WRITE IN) 
+DK REF 
+ 
+ 
+[eq4] IF ‘yes’ at [bq106_1] 
+How important is your religion to you? 
+Please take your answers from this card - CARD 5  
+ 
+1 Extremely important 
+2 Very important 
+3   Somewhat important 
+4 Not very important 
+5 Not important at all 
+ DK REF 
+ 
+ 
+[eq106_4] IF ‘yes’ at [bq106_1] 
+In the past 12 months, how often did you participate in 
+religious activities or attend religious services or meetings 
+with other people, other than for events such as weddings and 
+funerals? 
+ 
+Please take your answers from this card – CARD 6 
+ 
+1  At least once a day 
+2  At least once a week 
+3  At least once a month 
+4  Occasionally (but less than once a month) 
+5  Only on festivals 
+6  Not at all 
+ DK REF  
+ 
+ 
+[zq106_5]  IF ‘yes’ at [bq106_1] 
+In the past 12 months, how often did you do religious 
+activities on your own?  This may include prayer, meditation 
+and other forms of worship taking place at home or in any other 
+location.   
+ 
+
+--- PDF PAGE 6 ---
+ 7 
+Please take your answers from this card – CARD 7 
+ 
+ 
+1  Five times a day 
+2  At least once a day 
+3  At least once a week 
+4  At least once a month 
+5  Only on festivals 
+6  Not at all 
+ DK REF 
+  
+
+--- PDF PAGE 7 ---
+ 8 
+Section 2: Outcomes  
+ 
+ 
+[text] ASK ALL 
+Now some questions about politics and voting. 
+ 
+[bq9_1] ASK ALL  
+Generally speaking, do you think of yourself as Labour, 
+Conservative, Liberal Democrat, (Scottish National/Plaid 
+Cymru1) or what? 
+ 
+0 None/No 
+1 Labour 
+2 Conservatives 
+3 Liberal Democrats 
+4 Scottish National Party (SNP) 
+5 Plaid Cymru 
+6 Green Party 
+7 United Kingdom Independence Party (UKIP) 
+8 British National Party (BNP) 
+9 Something else – please write in what (WRITE IN) 
+ DK REF 
+ 
+[bq9_2] IF ‘none/no’, DK OR REFUSAL AT [bq9_1=1, DK or REF] 
+Do you generally think of yourself as a little closer to one of 
+the parties than the others? 
+ 
+1 Yes 
+2 No 
+ 
+DK REF 
+ 
+[bq9_3] IF ‘yes’ AT [bq9_1=1] 
+Which party is that? 
+ 
+0 None/No 
+1 Labour 
+2 Conservatives 
+3 Liberal Democrats 
+4 Scottish National Party (SNP) 
+5 Plaid Cymru 
+6 Green Party 
+7 United Kingdom Independence Party (UKIP) 
+8 British National Party (BNP) 
+9 Another party – please write in which (WRITE IN) 
+ DK REF 
+ 
+[bq9_4] IF PARTY GIVEN AT [bq9_1] OR AT [bq9_3] (=1-9 at either 
+question) 
+Would you call yourself very strong (party), fairly strong or 
+not very strong? 
+ 
+1 Very strong 
+2 Fairly strong 
+3 Not very strong 
+DK REF 
+ 
+[bq10] ASK ALL 
+                         
+1 Throughout the survey the Scottish and Welsh filtering will need to be based on sample information.  
+
+--- PDF PAGE 8 ---
+ 9 
+How interested were you in the general election that was held 
+on May 6th this year... ? 
+ 
+READ OUT 
+ 
+1 very interested, 
+2 somewhat interested, 
+3 not very interested, 
+4 or, not at all interested 
+DK REF 
+ 
+ 
+[bq11] ASK ALL 
+As far as you know, is your name on the electoral register, 
+that is, the official list of people entitled to vote, either 
+at this address or somewhere else?  
+MULTICODE 
+ 
+1 Yes – where living now 
+2 Yes – another address 
+3 No 
+DK REF 
+ 
+ 
+[eq5] IF REGISTERED TO VOTE [BQ11 = 1 OR 2] 
+And did you fill in the form yourself or did someone fill it in 
+on your behalf?  
+ 
+Here is an example of what the form would have looked like 
+ 
+INTERVIEWER SHOW VOTER REGISTRATION FORM 
+ 
+1  Yes – filled it in myself 
+2  No – someone else filled it in on my behalf 
+3  Was not aware of a registration form 
+DK REF 
+ 
+[eq6] IF SOMEONE ELSE FILLED IN FORM [eq5 = 2] 
+Who was it that filled in the form on your behalf? 
+ 
+1  Parent or guardian 
+2  Husband/ Wife/ Partner 
+3  Daughter/ Son 
+4  Other relative 
+5  Someone from a local community organization 
+6  Someone from a political party 
+7  Someone else not related to you 
+DK REF 
+ 
+[eq7] ASK IF FILLED IN FORM THEMSELVES [eq5 = 1] 
+Was the form you filled in, in English or another language? 
+ 
+1  In English 
+2  In another language 
+DK REF 
+ 
+[eq8] IF NAME IS NOT ON ELECTORAL REGISTER [BQ11 = 3] 
+What are the main reasons you are not on the electoral 
+register? 
+ 
+PROMPT TO PRE-CODES. CODE ALL THAT APPLY 
+
+--- PDF PAGE 9 ---
+ 10 
+ 
+I’m not entitled to vote 
+I got left off by mistake 
+I didn’t know how to register 
+I didn’t want other people knowing about me 
+I’m not interested in elections 
+I never received the application form 
+I have recently moved 
+I just couldn’t be bothered 
+Some other reason [WRITE IN] 
+DK REF 
+ 
+Open ended – what other reason 
+ 
+[eq9] ASK IF DON’T KNOW WHY NOT REGISTERED TO VOTE [eq8 = DK] 
+Do any of the following describe why your name is not on the 
+electoral register? 
+Please take your answers from this card – CARD 8 
+ 
+I’m not entitled to vote 
+I got left off by mistake 
+I didn’t know how to register 
+I didn’t want other people knowing about me 
+I’m not interested in elections 
+I never received the application form 
+I have recently moved 
+I just couldn’t be bothered 
+Some other reason [WRITE IN] 
+10 None of these 
+DK REF 
+ 
+ 
+[eq10] ASK IF NOT ENTITLED TO VOTE [eq8= 1 or eq9= 1] 
+What is reason(s) that you are not entitled to vote? 
+ 
+OPEN ENDED 
+ 
+DK REF 
+ 
+ 
+Ratings of the political parties  
+ 
+ 
+[BQ17_1...BQ17_6] ASK ALL 
+a  the Labour Party 
+b  the Conservative Party 
+c  the Liberal Democrats 
+d  the Green Party 
+e  the BNP 
+ 
+IF FIRST ITEM IN bq17: 
+On a scale that runs from 0 to 10, where 0 means strongly 
+dislike and 10 means strongly like, how do you feel about [LOOP 
+ITEM]?  
+Please take your answers from this card – CARD 9 
+ 
+IF NOT FIRST ITEM IN bq17:  
+(And how do you feel about...) [LOOP ITEM]? 
+Please take your answers from this card – CARD 9 
+ 
+0 Strongly dislike 
+
+--- PDF PAGE 10 ---
+ 11 
+1 one 
+2 two 
+3 three 
+4 four 
+5 five 
+6 six 
+7 seven 
+8 eight 
+9 nine 
+10 Strongly like 
+DK REF 
+ 
+ 
+[bq17_5]  IN ENGLAND 
+(And how do you feel about ...) ...the United Kingdom 
+Independence Party (UKIP)?  
+Please take your answers from this card – CARD 9 
+ 
+0 Strongly dislike 
+1 one 
+2 two 
+3 three 
+4 four 
+5 five 
+6 six 
+7 seven 
+8 eight 
+9 nine 
+10 Strongly like 
+ DK REF 
+ 
+ 
+[bq17_7]  ASK ALL IN SCOTLAND 
+(And how do you feel about ...)  
+...the Scottish National Party (SNP)?  
+Please take your answers from this card – CARD 9 
+ 
+0 Strongly dislike 
+1 one 
+2 two 
+3 three 
+4 four 
+5 five 
+6 six 
+7 seven 
+8 eight 
+9 nine 
+10 Strongly like 
+DK REF 
+ 
+ 
+[bq17_8]  ASK ALL IN WALES 
+(And how do you feel about ...)  
+...Plaid Cymru?  
+Please take your answers from this card – CARD 9 
+ 
+0 Strongly dislike 
+1 one 
+2 two 
+3 three 
+4 four 
+
+--- PDF PAGE 11 ---
+ 12 
+5 five 
+6 six 
+7 seven 
+8 eight 
+9 nine 
+10 Strongly like 
+DK REF 
+ 
+ 
+[bq16] ASK ALL 
+ 
+a  the Parliament at Westminster  
+b  British politicians generally 
+c  the Police 
+ 
+ 
+IF FIRST ITEM IN bq16:  
+Now, thinking about British political institutions like 
+Parliament, please use the 0 to 10 scale to indicate how much 
+trust you have for each of the following, where 0 means no 
+trust and 10 means a great deal of trust. 
+ 
+Firstly, how much do you trust [LOOP ITEM]?  
+Please take your answers from this card – CARD 10 
+ 
+IF NOT FIRST ITEM IN bq16:  
+How much do you trust [LOOP ITEM]? 
+Please take your answers from this card – CARD 10 
+ 
+0 No trust 
+1 one 
+2 two 
+3 three 
+4 four 
+5 five 
+6 six 
+7 seven 
+8 eight 
+9 nine 
+10 A great deal of trust 
+DK REF 
+ 
+ 
+Party Leaders 
+ 
+ 
+[bq15] ASK ALL 
+Gordon Brown 
+David Cameron 
+Nick Clegg 
+ 
+IF FIRST ITEM IN bq15 
+Now let's think about party leaders for a moment. Using a scale 
+that runs from 0 to 10, where 0 means strongly dislike and 10 
+means strongly like, how do you feel about [LOOP ITEM]? 
+Please take your answer from this card – CARD 11 
+ 
+IF NECESSARY: Please think about how you felt about [LOOP ITEM] 
+at the time of the election 
+ 
+IF NOT FIRST ITEM IN bq15 
+
+--- PDF PAGE 12 ---
+ 13 
+(And how do you feel about…) 
+[LOOP ITEM]? 
+Please take your answer from this card – CARD 11 
+IF NECESSARY: Please think about how you felt about [LOOP ITEM] 
+at the time of the election 
+ 
+0 Strongly dislike 
+1 one 
+2 two 
+3 three 
+4 four 
+5 five 
+6 six 
+7 seven 
+8 eight 
+9 nine 
+10 Strongly like 
+DK REF 
+ 
+ 
+[bq15_4]  ASK ALL IN SCOTLAND 
+(And how do you feel about…) 
+Alex Salmond?  
+ 
+Please take your answers from this card – CARD 11 
+IF NECESSARY: Please think about how you felt about Alex 
+Salmond at the time of the election  
+ 
+0 Strongly dislike 
+1 one 
+2 two 
+3 three 
+4 four 
+5 five 
+6 six 
+7 seven 
+8 eight 
+9 nine 
+10 Strongly like 
+DK REF 
+ 
+[bq15_5]  ASK ALL IN WALES 
+And how do you feel about…) 
+Ieuan Wyn Jones?  
+ 
+Please take your answers from this card – CARD 11 
+IF NECESSARY: Please think about how you felt about Ieuan Wyn 
+Jones at the time of the election 
+ 
+0 Strongly dislike 
+1 one 
+2 two 
+3 three 
+4 four 
+5 five 
+6 six 
+7 seven 
+8 eight 
+9 nine 
+10 Strongly like 
+DK REF 
+
+--- PDF PAGE 13 ---
+ 14 
+ 
+ 
+Party Membership 
+ 
+ 
+[eq11] ASK ALL 
+Would you say that any of the parties in Britain represents 
+your views reasonably well? 
+ 
+1 Yes 
+2 No 
+DK REF 
+ 
+[eq12] IF B3023 = YES 
+Which party represents your views best? 
+ 
+1 Labour 
+2 Conservatives 
+3 Liberal Democrats 
+4 Scottish National Party (SNP) 
+5 Plaid Cymru 
+6 Green Party 
+7 United Kingdom Independence Party (UKIP) 
+8 British National Party (BNP) 
+9 Other (WRITE IN) 
+DK REF 
+ 
+[bq61] ASK ALL 
+On the whole, are you satisfied or dissatisfied with the way 
+that democracy works in this country?  
+Please take your answers from this card – CARD 12 
+ 
+1 Very satisfied 
+2 Fairly satisfied 
+3 A little dissatisfied 
+4 Very dissatisfied 
+DK REF 
+ 
+[text] ASK ALL 
+Now a few questions about how active you are in politics and 
+community affairs. 
+ 
+[bq54_2] ASK ALL 
+Over the past few years, have you volunteered to get involved 
+in politics or community affairs? 
+ 
+1 Yes - I have volunteered 
+2 No - I have not volunteered 
+DK REF 
+ 
+ 
+[bq54_3]  ASK ALL 
+Over the past few years, how active have you been in a 
+voluntary organisation, like a local community association, a 
+charity, or a sports club? 
+ 
+Please take your answers from this card – CARD 13 
+ 
+1 Very active 
+2 Somewhat active 
+3 A little active 
+
+--- PDF PAGE 14 ---
+ 15 
+4 Not at all active/Not involved 
+DK REF 
+ 
+ 
+[eq13_1] ASK ALL 
+In the last 12 months, have you participated in a protest, like 
+a rally or a demonstration, to show your concern about a public 
+issue or problem? 
+ 
+1  Yes 
+2  No 
+DK REF 
+ 
+[eq13_2] ASK ALL 
+In the last 12 months, have you signed a petition, to show your 
+concern about a public issue or problem? 
+ 
+1  Yes 
+2  No 
+DK REF 
+ 
+ 
+ASK ALL 
+[eq13_3] In the last 12 months, have you participated in a 
+boycott of a particular product or service? 
+ 
+1  Yes 
+2  No 
+DK REF 
+ 
+[eq13_4] ASK ALL 
+In the last 12 months, have you given money to a political 
+cause or advocacy organisation (other than a political party) 
+ 
+1  Yes 
+2  No 
+DK REF 
+
+--- PDF PAGE 15 ---
+ 16 
+Section 3: Attitudes towards political issues in the 
+Election 
+ 
+[bq1] ASK ALL 
+Let's talk for a few minutes about politics in general. How 
+much interest do you generally have in what is going on in 
+British politics?  
+Please take your answers from this card – CARD 14 
+ 
+1 A great deal 
+2 Quite a lot 
+3 Some 
+4 Not very much 
+5 None at all 
+DK REF 
+ 
+[bq2_1] ASK ALL 
+Now, I'd like to ask you a few questions about the issues and 
+problems facing Britain today. As far as you're concerned, what 
+is the single most important issue facing the country at the 
+present time?  
+CODE ONE FROM LIST OF ANSWER OPTIONS.  
+DO NOT PROMPT  
+IF SEVERAL ANSWERS ARE GIVEN, CODE FIRST MENTIONED. 
+ 
+1 Asylum seekers 
+2 Britain's membership of the European Monetary Union (the Euro) 
+3 Britain's relations with the European Union 
+4 Law and order 
+5 Education 
+6 Environment 
+7 National Health Service 
+8 Inflation, Prices generally 
+9 Public transport 
+10 Taxation 
+11 State of the economy 
+12 Unemployment 
+13 My standard of living 
+14 Price of petrol 
+15 War in Iraq 
+16 War in Afghanistan 
+17 War against terrorism 
+18 Immigration/People coming to Britain 
+19 Other (WRITE IN) 
+88 There are no important issues 
+DK REF 
+ 
+[bq2_2] IF NOT DK, REF OR ‘There are no important issues’ AT 
+Bq2_1 
+Which party is best able to handle this issue? 
+ 
+0 None/No party closest 
+1 Labour 
+2 Conservatives 
+3 Liberal Democrats 
+4 Scottish National Party (SNP) 
+5 Plaid Cymru 
+6 Green Party 
+7 United Kingdom Independence Party (UKIP) 
+
+--- PDF PAGE 16 ---
+ 17 
+8 British National Party (BNP) 
+9 Other (WRITE IN) 
+DK REF 
+ 
+[bq3] ASK ALL 
+Crime in Britain 
+ b. Immigration  
+c The National Health Service 
+d The risk of terrorism in Britain 
+e The economy in general 
+ 
+ 
+IF FIRST ITEM IN Bq3: 
+How well do you think the last government handled each of the 
+following issues? 
+[LOOP ITEM] 
+Please take your answers from this card – CARD 15 
+IF NOT FIRST ITEM IN Bq3: 
+ (How well do you think the last government handled this 
+issue:) 
+[LOOP ITEM] 
+Please take your answers from this card – CARD 15 
+ 
+1 Very well 
+2 Fairly well 
+3 Neither well nor badly 
+4 Fairly badly 
+5 Very badly 
+DK REF 
+ 
+ 
+Social and political attitudes 
+ 
+ 
+ [bq18]* ASK ALL 
+*NOTE: WE WISH TO KEEP NAMES FOR THESE VARIABLES COMPARABLE 
+WITH MAIN SURVEY BUT HAVE ADDED SOME NEW ONES INTO THE MIDDLE 
+OF THE LIST.  THE LOOP VALUES BELOW THEREFORE HAVE THE VARIABLE 
+NAME GIVEN TO THE LEFT. 
+ 
+[bq18_1]  
+a The Government generally treats people like me fairly. 
+*[eq18_1a]  
+b The Government generally treats people from my ethnic group 
+fairly. 
+[bq18_2]  
+c There is often a big gap between what people like me expect out 
+of life and what we actually get.  
+*[eq18_2a]  
+d There is often a big gap between what people from my ethnic 
+group expect out of life and what we actually get. 
+[bq18_3]  
+e Being active in politics is a good way to get benefits for me 
+and my family. 
+[bq18_4]  
+f It takes too much time and effort to be active in politics and 
+public affairs. 
+[bq18_5]  
+g Being active in politics is a good way to get benefits for 
+groups that people care about, like pensioners or the disabled. 
+[bq18_6]  
+
+--- PDF PAGE 17 ---
+ 18 
+h It is every citizen's duty to vote in an election. 
+[bq18_7]  
+i Most of my family and friends think that voting is a waste of 
+time.  
+[eq14_1]  
+d It doesn’t really matter which party is in power, in the end 
+opportunities for Black and Asian people will stay much the 
+same. 
+[eq14_2]  
+e Parties are only interested in the votes of black and Asian 
+people, not in their opinions. 
+[eq14_3]  
+c Non-White people don’t have the same opportunities and chances 
+in life as White people, as they are held back by prejudice and 
+discrimination  
+ 
+ 
+IF FIRST ITEM IN Bq18: 
+Please tell me how far you agree or disagree with each of the 
+following statements: 
+[LOOP ITEM] 
+Please take your answers from this card – CARD 16 
+IF NOT FIRST ITEM IN Bq18: 
+(And how much do you agree or disagree with this statement:) 
+[LOOP ITEM] 
+Please take your answers from this card – CARD 16 
+ 
+1 Strongly agree 
+2 Agree 
+3 Neither agree nor disagree 
+4 Disagree 
+5 Strongly disagree 
+DK REF 
+ 
+ 
+Economic evaluations  
+ 
+ 
+[bq21] ASK ALL 
+Now a few questions about economic conditions. How does the 
+financial situation of your household now compare with what it 
+was 12 months ago?  
+ 
+Please take your answers from this card – CARD 17 
+1 Got a lot worse 
+2 Got a little worse 
+3 Stayed the same 
+4 Got a little better 
+5 Got a lot better 
+DK REF 
+ 
+[bq22] ASK ALL 
+How do you think the general economic situation in this country 
+has changed over the last 12 months?  
+Please take your answers from this card – CARD 17 
+ 
+1 Got a lot worse 
+2 Got a little worse 
+3 Stayed the same 
+4 Got a little better 
+5 Got a lot better 
+
+--- PDF PAGE 18 ---
+ 19 
+DK REF 
+ 
+[bq23] ASK ALL 
+How do you think the financial situation of your household will 
+change over the next 12 months?  
+Please take your answers from this card – CARD 18 
+ 
+1 Get a lot worse 
+2 Get a little worse 
+3 Stay the same 
+4 Get a little better 
+5 Get a lot better 
+DK REF 
+ 
+[bq24] ASK ALL 
+How do you think the general economic situation in this country 
+will develop over the next 12 months?   
+Please take your answers from this card – CARD 18 
+ 
+1 Get a lot worse 
+2 Get a little worse 
+3 Stay the same 
+4 Get a little better 
+5 Get a lot better 
+DK REF 
+ 
+[bq25] ASK ALL 
+With Britain in economic difficulties, which party do you think 
+would be able to handle the situation best - Labour , the 
+Conservatives or the Liberal Democrats? 
+ 
+1 Labour 
+2 Conservatives 
+3 Liberal Democrats 
+4 None of these (VOLUNTEERED)) 
+5 Another party (WRITE IN) (VOLUNTEERED) 
+DK REF 
+ 
+ 
+Own/party positions on tax/spend 
+ 
+ 
+[bq40] ASK ALL 
+a  yourself 
+b  the Labour party 
+c  the Conservative party 
+d  the Liberal Democrats 
+ 
+IF FIRST ITEM AT BQ40:  
+Now, another issue. Using the 0 to 10 scale on this card, where 
+the end marked 0 means that government should cut taxes and 
+spend much less on health and social services, and the end 
+marked 10 means that government should raise taxes a lot and 
+spend much more on health and social services, where would you 
+place [LOOP ITEM] on this scale? 
+Please take your answers from this card – CARD 19 
+IF NOT FIRST ITEM AT BQ40:  
+(And where would you place…) 
+[LOOP ITEM] 
+(…on this scale?) 
+Please take your answers from this card – CARD 19 
+
+--- PDF PAGE 19 ---
+ 20 
+ 
+0 Government should cut taxes a lot and spend much less on health 
+and social services 
+1 one 
+2 two 
+3 three 
+4 four 
+5 five 
+6 six 
+7 seven 
+8 eight 
+9 nine 
+10 Government should increase taxes a lot and spend much more on 
+health and social services 
+DK REF 
+ 
+[bq40_5]  ASK ALL IN SCOTLAND 
+(And where would you place…) 
+the Scottish National Party (SNP)  
+(…on this scale?)  
+Please take your answers from this card – CARD 19 
+ 
+0 Government should cut taxes a lot and spend much less on health 
+and social services 
+1 one 
+2 two 
+3 three 
+4 four 
+5 five 
+6 six 
+7 seven 
+8 eight 
+9 nine 
+10 Government should increase taxes a lot and spend much more on 
+health and social services 
+DK REF 
+ 
+[bq40_6] ASK ALL IN WALES  
+(And where would you place…) 
+Plaid Cymru 
+(…on this scale?) 
+Please take your answers from this card – CARD 19 
+ 
+0 Government should cut taxes a lot and spend much less on health 
+and social services 
+1 one 
+2 two 
+3 three 
+4 four 
+5 five 
+6 six 
+7 seven 
+8 eight 
+9 nine 
+10 Government should increase taxes a lot and spend much more on 
+health and social services 
+DK REF 
+ 
+ 
+Own/party positions on civil liberties 
+ 
+
+--- PDF PAGE 20 ---
+ 21 
+ 
+[bq41] ASK ALL 
+ 
+a yourself 
+b the Labour party 
+c the Conservative party 
+d the Liberal Democrats 
+ 
+IF FIRST ITEM AT Bq41:  
+Some people think that reducing crime is more important than 
+protecting the rights of people accused of committing crimes. 
+Other people think that protecting the rights of accused 
+people, regardless of whether they have been convicted of 
+committing a crime, is more important than reducing crime. On 
+the 0-10 scale, where would you place [YOURSELF/PARTY NAME] on 
+this scale? 
+Please take your answers from this card – CARD 20 
+IF NOT FIRST ITEM IN Bq41: 
+(And where would you place ...)  
+[LOOP ITEM] 
+(…on this scale?) 
+Please take your answers from this card – CARD 20 
+ 
+0 Reducing crime more important 
+1 one 
+2 two 
+3 three 
+4 four 
+5 five 
+6 six 
+7 seven 
+8 eight 
+9 nine 
+10 Rights of accused more important 
+ DK REF 
+ 
+[bq41_5] ASK ALL IN SCOTLAND 
+ 
+(And where would you place…) 
+the Scottish National Party (SNP) 
+Please take your answers from this card – CARD 20 
+ 
+0 Reducing crime more important 
+1 one 
+2 two 
+3 three 
+4 four 
+5 five 
+6 six 
+7 seven 
+8 eight 
+9 nine 
+10 Rights of accused more important 
+DK REF 
+ 
+[bq41_6]  ASK ALL IN WALES 
+(And where would you place…) 
+Plaid Cymru 
+Please take your answers from this card – CARD 20 
+ 
+0 Reducing crime more important 
+
+--- PDF PAGE 21 ---
+ 22 
+1 one 
+2 two 
+3 three 
+4 four 
+5 five 
+6 six 
+7 seven 
+8 eight 
+9 nine 
+10 Rights of accused more important 
+DK REF 
+ 
+ 
+Own/party positions on Equal Opportunities 
+ 
+[bq74]  
+ 
+a  yourself 
+b  the Labour party 
+c  the Conservative party 
+d  the Liberal Democrats 
+ 
+ 
+IF FIRST ITEM AT Bq74:  
+Using the 0 to 10 scale on this card, where the end marked 0 
+means that there is no need for government to take action to 
+improve opportunities for Black and Asian people, and the end 
+marked 10 means that government should make every effort to 
+improve opportunities for Black and Asian people, where would 
+you place [LOOP ITEM] on this scale? 
+Please take your answers from this card – CARD 21 
+IF NOT FIRST ITEM AT BQ74: 
+(And where would you place…) 
+[LOOP ITEM] 
+Please take your answers from this card – CARD 21 
+ 
+0 No need for government to take action to improve opportunities 
+for Black and Asian people 
+1 one 
+2 two 
+3 three 
+4 four 
+5 five 
+6 six 
+7 seven 
+8 eight 
+9 nine 
+10 Government should make every effort to improve opportunities 
+for Black and Asian people 
+DK REF 
+ 
+[bq74_5] ASK ALL IN SCOTLAND 
+(And where would you place…) 
+the Scottish National Party (SNP) 
+Please take your answers from this card – CARD 21 
+ 
+0 No need for government to take action to improve opportunities 
+for Black and Asian people 
+1 one 
+2 two 
+3 three 
+
+--- PDF PAGE 22 ---
+ 23 
+4 four 
+5 five 
+6 six 
+7 seven 
+8 eight 
+9 nine 
+10 Government should make every effort to improve opportunities 
+for Black and Asian people 
+DK REF 
+ 
+[bq74_6] ASK ALL IN WALES 
+(And where would you place…) 
+Plaid Cymru 
+Please take your answers from this card – CARD 21 
+ 
+0 No need for government to take action to improve opportunities 
+for Black and Asian people 
+1 one 
+2 two 
+3 three 
+4 four 
+5 five 
+6 six 
+7 seven 
+8 eight 
+9 nine 
+10 Government should make every effort to improve opportunities 
+for Black and Asian people 
+ DK REF 
+ 
+ 
+ 
+[eq15] ASK ALL 
+Generally speaking, would you say that most people can be 
+trusted or that you can't be too careful in dealing with 
+people? 
+ 
+1 People can be trusted 
+2 You can't be too careful 
+3 Depends (SPONTANEOUS) 
+4 Don't Know (SPONTANEOUS) 
+REF 
+ 
+Attitudes to voting and politics 
+ 
+[bq57] ASK ALL 
+[bq57_1]  
+a  I feel a sense of satisfaction when I vote.  
+[bq57_2]  
+b  People are so busy that they don't have time to vote. 
+[bq57_3]  
+c  Most people around here usually vote in general elections. 
+ 
+ 
+IF FIRST ITEM AT BQ57: 
+Please tell me whether you agree or disagree with each of the 
+following statements: 
+[LOOP ITEM] 
+Please take your answers from this card – CARD 22 
+IF NOT FIRST ITEM AT BQ57:  
+(And how much do you agree or disagree with this statement:) 
+
+--- PDF PAGE 23 ---
+ 24 
+[LOOP ITEM] 
+Please take your answers from this card – CARD 22 
+ 
+1 Strongly agree 
+2 Agree 
+3 Neither agree nor disagree 
+4 Disagree 
+5 Strongly disagree 
+DK REF 
+ 
+[bq59] ASK ALL 
+On a scale from 0 to 10 where 10 means a great deal of 
+influence and 0 means no influence, how much influence do you 
+have on politics and public affairs?   
+Please take your answers from this card – CARD 23 
+ 
+0 No influence 
+1 one 
+2 two 
+3 three 
+4 four 
+5 five 
+6 six 
+7 seven 
+8 eight 
+9 nine 
+10 A great deal of influence 
+DK REF 
+ 
+  
+
+--- PDF PAGE 24 ---
+ 25 
+Section 4: Ethnic and religious identity and group 
+consciousness 
+ 
+ 
+[eq16a] IF CODES 9-15 AT BQ101 (ASIAN/INDIAN, ASIAN/PAKISTANI, 
+ASIAN/BANGLADESHI, ASIAN/OTHER, BLACK/AFRICAN, BLACK/CARIBBEAN, 
+BLACK/OTHER) 
+ 
+TEXTFILL IS “Black“ IF BQ101 = 13-15, “Asian“ IF BQ101 = 9-12 
+ 
+Some people think of themselves first as British. Others may 
+think of themselves first as (Black/Asian). Which best 
+describes how you think of yourself...  
+SHOW SCREEN 
+ 
+1   (Black/Asian), not British, 
+2 More (Black/Asian) than British, 
+3 Equally (Black/Asian) and British, 
+4 More British than (Black/Asian), 
+5 British, not (Black/Asian). 
+6 or, do you think of yourself in some other way? (WRITE IN) 
+DK REF 
+ 
+[eq16b]  IF CODES 9-15 AT BQ101 (ASIAN/INDIAN, ASIAN/PAKISTANI, 
+ASIAN/BANGLADESHI, ASIAN/OTHER, BLACK/AFRICAN, BLACK/CARIBBEAN, 
+BLACK/OTHER) AND RESPONDENT HAS A RELIGION, BQ106_1=1-7 
+ 
+(Black/Asian) TEXTFILL IS “Black“ IF BQ101 = 13-15, “Asian“ IF 
+BQ101 = 9-12.  (Religion) textfill is answer at BQ106_1 
+ 
+Some people think of themselves first as (Religion). Others may 
+think of themselves first as (Black/Asian). Which best 
+describes how you think of yourself... 
+SHOW SCREEN 
+ 
+1 (Black/Asian), not (Religion), 
+2 More (Black/Asian) than (Religion), 
+3 Equally (Black/Asian) and (Religion), 
+4 More (Religion) than (Black/Asian), 
+5 (Religion), not (Black/Asian). 
+6 or, do you think of yourself in some other way? (WRITE IN) 
+ DK REF 
+ 
+[eq16c]  IF CODES 9-15 AT BQ101(ASIAN/INDIAN, ASIAN/PAKISTANI, 
+ASIAN/BANGLADESHI, ASIAN/OTHER, BLACK/AFRICAN, BLACK/CARIBBEAN, 
+BLACK/OTHER) AND RESPONDENT HAS A RELIGION, BQ106_1=1-7 
+ 
+(Black/Asian) TEXTFILL IS “Black“ IF BQ101 = 13-15, “Asian“ IF 
+BQ58 = 9-12.  (Religion) textfill is answer at BQ106_1 
+ 
+Some people think of themselves first as (Religion). Others may 
+think of themselves first as British. Which best describes how 
+you think of yourself...  
+SHOW SCREEN 
+ 
+1 British not (Religion), 
+2 More British than (Religion), 
+3 Equally British and (Religion), 
+4 More (Religion) than British, 
+5  (Religion), not British, 
+
+--- PDF PAGE 25 ---
+ 26 
+6  or, do you think of yourself in some other way? (WRITE IN) 
+DK REF 
+ 
+ 
+[eq17] IF RESPONDENT IS NOT FROM MIXED BACKGROUND [BQ101 <> 5-
+8] 
+How much do you feel you have in common with (ETHNIC GROUP FROM 
+BQ101) people in general?  
+ 
+Please take your answers from this card – CARD 24 
+ 
+1  A great deal 
+2  A fair amount 
+3  Not very much 
+4  Nothing at all 
+DK REF 
+ 
+ 
+[eq18] ASK IF RESPONDENT HAS A RELIGION, BQ106_1=1-7 
+How much do you feel you have in common with (RELIGIOUS GROUP 
+FROM Q106_1) in general?  
+ 
+Please take your answers from this card – CARD 24 
+ 
+1  A great deal 
+2  A fair amount 
+3  Not very much 
+4  Nothing at all 
+DK REF 
+ 
+[eq19] ASK ALL 
+And how much do you feel you have in common with other British 
+people in general?  
+ 
+Please take your answers from this card – CARD 24 
+ 
+1  A great deal 
+2  A fair amount 
+3  Not very much 
+4  Nothing at all 
+DK REF 
+ 
+[eq20_1]  ASK ALL 
+ 
+During the run-up to the general election, did you think any of 
+the political parties campaigned specifically in order to win 
+the votes of Black and Asian people? 
+ 
+1 Yes 
+2 No 
+DK REF 
+ 
+[eq20_2]  If Yes TO eq20_1 
+ 
+Which party was that? PROBE: Any others? 
+CODE ALL THAT APPLY 
+ 
+1 Labour 
+2 Conservatives 
+3 Liberal Democrats 
+4 Scottish National Party (SNP) 
+
+--- PDF PAGE 26 ---
+ 27 
+5 Plaid Cymru 
+6 Green Party 
+7 United Kingdom Independence Party (UKIP) 
+8 British National Party (BNP) 
+9 Other (WRITE IN) 
+DK REF 
+ 
+[eq21_1]  ASK ALL 
+And during the run-up to the general election, did you think 
+any of the political parties campaigned specifically in order 
+to win the votes of White people who are prejudiced against 
+Black and Asian people? 
+ 
+1 Yes 
+2 No 
+DK REF 
+ 
+[eq21_2]  If Yes TO eq21_1 
+Which party was that? PROBE:  Any others? 
+CODE ALL THAT APPLY 
+ 
+1 Labour 
+2 Conservatives 
+3 Liberal Democrats 
+4 Scottish National Party (SNP) 
+5 Plaid Cymru 
+6 Green Party 
+7 United Kingdom Independence Party (UKIP) 
+8 British National Party (BNP) 
+9 Other (WRITE IN) 
+DK REF 
+ 
+ 
+Political Knowledge 
+ 
+ 
+ASK ALL 
+[bq79] – RANDOMIZE 
+[bq79_1]  
+a  Polling stations close at 10.00pm on election day. 
+[bq79_3]  
+b  The minimum voting age is 16. 
+[bq79_5]  
+c  The Chancellor of the Exchequer is responsible for setting 
+interest rates in the UK.  
+[bq79_8]  
+d  Any registered voter can obtain a postal vote if they want one 
+- by contacting their local council and asking for a postal 
+vote.  
+[eq79_9]  
+e  The Labour party has the most MPs from ethnic minorities. 
+ 
+ 
+IF FIRST ITEM AT BQ79: Please tell me if you think that the 
+following statements are true or false.  If you don't know, 
+just say so and we will skip to the next one. Remember - true, 
+false, or don't know. 
+[LOOP ITEM] 
+IF NOT FIRST ITEM AT BQ79: (Please tell me if you think this 
+statement is true or false.) 
+[LOOP ITEM] 
+
+--- PDF PAGE 27 ---
+ 28 
+ 
+1 True 
+2 False 
+3 Don’t Know 
+ 
+  
+
+--- PDF PAGE 28 ---
+ 29 
+Section 5: Attitudes to integration, integration 
+policies, multiculturalism 
+ 
+ 
+[text]  IF RESPONDENT IS NOT FROM MIXED BACKGROUND OR DK/REF 
+[BQ101 <> (5-8, DK, REF)] 
+To what extent do you agree or disagree with the following 
+statements?  
+ 
+ 
+[eq22] IF RESPONDENT IS NOT FROM MIXED BACKGROUND OR DK/REF 
+[BQ101 <> (5-8, DK, REF)] 
+ 
+[eq22_1] I think it is important that <INGROUPER6> in the UK 
+maintain their own values, beliefs and traditions. 
+ 
+[eq22_2] I think it is important that <INGROUPER6> integrate 
+and mix with other groups of people in the UK. 
+ 
+ 
+[LOOP ITEM] 
+Please take your answers from this card – CARD 25 
+ 
+1 Strongly agree  
+2  Agree  
+3  Neither agree nor disagree  
+4  Disagree  
+5  Strongly disagree  
+ DK REF 
+ 
+[text] ASK ALL 
+Do you or your family do any of the following things? 
+ 
+[eq23] ASK ALL 
+ 
+a  Send Christmas cards 
+b  Send Valentine cards 
+c  Send a card to your mother/father on Mother’s Day/Father’s Day 
+d  Put up a Christmas tree 
+e  Wear a poppy on Remembrance Day 
+f  Give presents at Christmas 
+ 
+[LOOP ITEM] 
+Please take your answers from this card – CARD 26 
+ 
+Always 
+Sometimes 
+Never 
+Don’t know what this is 
+DK REF 
+ 
+[eq24] ASK ALL 
+Do you think there is a lot of racial prejudice in Britain 
+nowadays, a little or hardly any? 
+ 
+1 A lot 
+2 A little 
+3 Hardly any 
+DK REF 
+ 
+
+--- PDF PAGE 29 ---
+ 30 
+[eq25] ASK ALL 
+Which groups, if any, do you think there is prejudice against? 
+DO NOT PROMPT, CODE ALL THAT APPLY 
+ 
+1  Asian people (Indian, Pakistani, Bangladeshi)  
+2  Black people (Caribbean, African)  
+3  Chinese people  
+4  White people  
+5  Mixed race people  
+6  Buddhists  
+7  Hindus  
+8  Jews  
+9  Muslims  
+10  Sikhs  
+11  Asylum seekers/Refugees  
+12  New immigrants  
+13  Eastern Europeans  
+14  Other (WRITE IN)  
+ 15. None 
+ DK REF 
+ 
+[eq26] ASK IF HAS A RELIGION AT BQ105B 
+Do you think there is more or less prejudice against 
+[RESPONDENT’S religion GROUP FROM BQ106_1] people than against 
+other religious groups? 
+ 
+1  More 
+2  Less 
+3  About the same 
+DK REF 
+ 
+[eq27] ASK ALL 
+Do you think there is more or less prejudice against 
+[RESPONDENT’S ETHNIC GROUP FROM BQ101] people than against 
+other Black and Asian groups? 
+ 
+1  More 
+2  Less 
+3  About the same 
+DK REF 
+ 
+ 
+ 
+[eq28_1] ASK ALL 
+ 
+Thinking about the past few years, have things generally got 
+better or worse for ethnic minority groups in Britain, or have 
+things stayed much the same? 
+IF BETTER/WORSE: a little or a lot better/worse? 
+ 
+1 A lot better 
+2 A little better 
+3 Stayed the same 
+4 A little worse 
+5 A lot worse 
+DK REF 
+ 
+[eq28_2]  IF RESPONDENT IS NOT FROM MIXED BACKGROUND OR DK/REF 
+[BQ101 <> (5-8, DK, REF)] 
+ 
+
+--- PDF PAGE 30 ---
+ 31 
+And thinking about the situation of [RESPONDENT’S ETHNIC GROUP 
+FROM bq101] people, have things generally got better or worse, 
+or have they stayed much the same? 
+ IF BETTER/WORSE: a little or a lot better/worse? 
+ 
+1 A lot better 
+2 A little better 
+3 Stayed the same 
+4 A little worse 
+5 A lot worse 
+DK REF 
+ 
+[eq28_3]  IF RESPONDENT HAS A RELIGION AT BQ106_1 
+And thinking about the situation of [RESPONDENT’S RELIGION FROM 
+BQ106_1] people, have things generally got better or worse, or 
+have they stayed much the same? 
+IF BETTER/WORSE: a little or a lot better/worse? 
+ 
+1 A lot better 
+2 A little better 
+3 Stayed the same 
+4 A little worse 
+5 A lot worse 
+DK REF 
+ 
+ 
+ASK ALL 
+[bqQ71] 
+Which party do you think is best able to help improve life in 
+Britain for ethnic minority groups? 
+ 
+1 Labour 
+2 Conservatives 
+3 Liberal Democrats 
+4 Other (WRITE IN) 
+5 (None, no party (VOLUNTEERED))  
+ 
+ 
+ASK ALL 
+[bq72] - RANDOMIZE 
+ 
+[bq72_1]  
+a  Black and Asian people in Britain who apply for jobs should be 
+given priority, to try to make up for past discrimination 
+against them.  
+[bq72_2]  
+b  It is good for society if different ethnic groups keep their 
+own customs and traditions. 
+[bq72_4]  
+c  Immigrants increase crime rates. 
+[bq72_5]  
+d  Immigrants generally are good for Britain's economy. 
+[bq72_6]  
+e  Most asylum seekers who come to Britain should be sent home 
+immediately. 
+ 
+IF FIRST ITEM AT bq72: Please tell me how much you agree or 
+disagree with each of the following statements. 
+[LOOP ITEM] 
+Please take your answer from this card – CARD 27 
+   
+
+--- PDF PAGE 31 ---
+ 32 
+IF NOT FIRST ITEM AT bq72: (And how much do you agree or 
+disagree with this statement:) 
+ 
+[LOOP ITEM] 
+Please take your answer from this card – CARD 27 
+ 
+1 Strongly agree 
+2 Agree 
+3 Neither agree nor disagree 
+4 Disagree 
+5 Strongly disagree 
+
+--- PDF PAGE 32 ---
+ 33 
+Section 6: Self completion 
+ 
+[text] ASK ALL 
+ 
+The next questions are for you to answer yourself.  Before you 
+do this I will show you how to enter your answers into the 
+computer. 
+ 
+You can choose your answers from those listed by touching the 
+screen. Just touch the answer that you want to give. 
+ 
+[eq29] ASK ALL 
+ 
+INTERVIEWER: HAS THE RESPONDENT ACCEPTED THE SELF-COMPLETION? 
+ 
+1 Self-completion accepted 
+3 Completed by INTERVIEWER 
+NO DK NO REF 
+ 
+[eq30] ASK IF eq29= 2 OR 3  
+INTERVIEWER TO COMPLETE.   
+ 
+INTERVIEWER - CODE REASON(S) WHY RESPONDENT REFUSED OR WANTED 
+HELP 
+ 
+1 Didn't like computer 
+2 Eyesight problems 
+3 Other disability 
+4 Objected to study 
+5 Worried about confidentiality 
+6 Could not read/write 
+7 Ran out of time 
+8 Language problems 
+9 Couldn't be bothered 
+10 Children present/tending to children 
+11 Other people present in room 
+12 Other (WRITE IN) 
+NO DK NO REF 
+ 
+[TEXT] ASK IF eq29= 1 OR 3 
+ 
+Here is an example question. 
+INTERVIEWER: TURN SCREEN TO RESPONDENT AND LET THE RESPONDENT 
+ENTER THEIR ANSWER WHILE YOU OBSERVE AND HELP IF NECESSARY. 
+ 
+1 Continue 
+NO DK NO REF 
+ 
+[PRACT1] IF eq29 = 1 OR 3 
+SELECT THE ANSWER YOU WANT TO GIVE BY TOUCHING THE SCREEN. WHEN 
+YOU HAVE DONE THIS TOUCH THE CONTINUE BUTTON TO MOVE TO THE 
+NEXT QUESTION. 
+ 
+Have you used a computer before? 
+ 
+1 Yes 
+2 No 
+NO DK NO REF 
+ 
+
+--- PDF PAGE 33 ---
+ 34 
+ 
+[PRACT2] IF eq29 =1 OR 3 
+ 
+MOST QUESTIONS WILL BE LIKE THIS EXAMPLE.  FOR A FEW QUESTIONS, 
+NO ANSWERS WILL BE SHOWN ON THE SCREEN AND YOU WILL NEED TO 
+TYPE IN YOUR OWN ANSWER, USING THE THE KEYBOARD.  HERE IS 
+ANOTHER EXAMPLE.  ONCE YOU HAVE TYPED IN YOUR ANSWER THE 
+CONTINUE BUTTON TO MOVE TO THE NEXT QUESTION. 
+ 
+What was the last thing you had to eat? 
+ 
+Please type in your answer (WRITE IN) 
+NO DK NO REF 
+ 
+[PRACTEND] IF eq29=1 OR 3 
+ 
+You have now finished the practice questions.  Please tell the 
+INTERVIEWER you are ready to move on and hand the computer back 
+for a moment.  
+ 
+Continue 
+NO DK NO REF 
+ 
+[text] IF eq29=1 OR 3 
+ 
+IF RESPONDENT STILL ACCEPTS THE SELF-COMPLETION, CONTINUE BY 
+GOING TO THE NEXT SCREEN AND EITHER HANDING THE COMPUTER BACK 
+TO THE RESPONDENT OR BY COMPLETING THE MODULE WITH THE 
+RESPONDENT.   
+ 
+IF eq29= 2, JUMP TO eq37 
+ 
+NO DK/REF CODES IN REST OF THIS SECTION, INSTEAD ALL QUESTIONS 
+HAVE PRECODED EQUIVALENTS ON SCREEN 
+ 
+ 
+[Bq12_1] ASK ALL DOING SELF COMPLETION (IF eq29 =1 OR 3) 
+Now some questions about politics and voting. 
+ 
+Talking with people about the general election on May 6th we 
+have found that a lot of people didn't manage to vote. How 
+about you, did you manage to vote in the general election? 
+ 
+1 Yes, voted 
+2 No, did not vote 
+3  Don’t know 
+4  Do not want to answer 
+ 
+[bq12_2]  IF ‘yes’ AT [Bq12_1=1] 
+Which party did you vote for in the general election?  
+ 
+1 Labour 
+2 Conservatives 
+3 Liberal Democrats 
+4 Scottish National Party (SNP) 
+5 Plaid Cymru 
+6 Green Party 
+7 United Kingdom Independence Party (UKIP) 
+8 British National Party (BNP) 
+9 Someone else – please write in who (WRITE IN) 
+10  Don’t know 
+
+--- PDF PAGE 34 ---
+ 35 
+11  Do not want to answer 
+ 
+ 
+[bq12_4] IF ‘yes’ AT [Bq12_1=1] 
+People give different reasons for why they vote for one party 
+rather than another. Which of the following best describes your 
+reasons?  
+ 
+1 The party had the best policies 
+2 The party had the best leader 
+3 I really preferred another party but it stood no chance of 
+winning in my constituency – I voted tactically  
+4 Some other reason – please write in what(WRITE IN) 
+5 Don’t know 
+6 Do not want to answer 
+ 
+ 
+[bq12_5] IF [bq12_4]=3  
+Which party did you really prefer? 
+ 
+1 Labour 
+2 Conservatives 
+3 Liberal Democrats 
+4 Scottish National Party (SNP) 
+5 Plaid Cymru 
+6 Green Party 
+7 United Kingdom Independence Party (UKIP) 
+8 British National Party (BNP) 
+9 Someone else – please write in who (WRITE IN) 
+10  Don’t know 
+11  Do not want to answer 
+ 
+[bq13] IF ‘yes’ AT [Bq12_1] 
+ There are different ways in which people can cast their votes 
+in general elections - in person, by post or by proxy, that is, 
+getting someone else to vote on their behalf. How did you cast 
+your vote in the general election on May 6th? 
+ 
+1 In person 
+2 By post 
+3 By proxy (someone else voted on my behalf) 
+4  Don’t know 
+5  Do not want to answer 
+ 
+ 
+[bq46_1]  ASK ALL DOING SELF COMPLETION (IF eq29=1 OR 3) 
+Thinking back to the general election held on 5th May 2005, do 
+you remember which party you voted for then - or perhaps you 
+didn't vote?  
+ 
+0 I did not vote 
+X I was not eligible/too young to vote 
+1 Labour 
+2 Conservative 
+3 Liberal Democrat 
+4 Scottish National Party (SNP) 
+5 Plaid Cymru 
+6 Green Party 
+7 United Kingdom Independence Party (UKIP) 
+8 British National Party (BNP) 
+9 Someone else – please write in who (WRITE IN) 
+
+--- PDF PAGE 35 ---
+ 36 
+10 Don’t know 
+11 Do not want to answer 
+ 
+ 
+[bq52_1]  ASK ALL IN ENGLAND DOING SELF COMPLETION (IF eq29=1 OR 
+3) 
+Thinking now about the local election that was held in some 
+parts of the country on May 6th this year. We have found that a 
+lot of people didn't manage to vote. How about you - did you 
+manage to vote in the local election, or wasn't there one in 
+this area? 
+ 
+1 Yes, voted 
+2 No, did not manage to vote 
+3 There wasn't a local election in this area 
+4  Don’t know 
+5  Do not want to answer 
+ 
+[bq52_2] IF ‘yes’ AT Bq52_1 
+ 
+Which party did you vote for in the local election on 6th of 
+May?  
+1 Labour 
+2 Conservatives 
+3 Liberal Democrats 
+4 Scottish National Party (SNP) 
+5 Plaid Cymru 
+6 Green Party 
+7 United Kingdom Independence Party (UKIP) 
+8 British National Party (BNP) 
+9 Independent candidate 
+10 Someone else – please write in who (WRITE IN) 
+11  Don’t know 
+12  Do not want to answer 
+ 
+ 
+[Text] ASK ALL DOING SELF COMPLETION (IF eq29=1 OR 3) 
+Next some questions about the conflict in Afghanistan. 
+ 
+ 
+[bq45] ASK ALL DOING SELF COMPLETION (IF eq29=1 OR 3) 
+Please indicate whether you strongly approve, approve, 
+disapprove, or strongly disapprove of Britain's involvement in 
+the war against the Taliban in Afghanistan. 
+ 
+1 Strongly approve 
+2 Approve 
+3  Neither approve nor disapprove 
+3 Disapprove 
+4 Strongly disapprove 
+ 5. Don’t know 
+6  Do not want to answer 
+ 
+[bq42] ASK ALL 
+What is your impression of how the war in Afghanistan is going 
+right now: very well, fairly well, fairly badly, or very badly? 
+ 
+1 Very well 
+2 Fairly well 
+3 Fairly badly 
+4 Very badly 
+
+--- PDF PAGE 36 ---
+ 37 
+ 5. Don’t know 
+6  Do not want to answer 
+ 
+[bq43] ASK ALL 
+Using the 0 to 10 scale below, please indicate how likely you 
+think it is that British troops and their allies will be able 
+to defeat the Taliban once and for all. 
+ 
+0 Not at all likely to defeat Taliban 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 Very likely to defeat Taliban 
+11 Don’t know 
+12 Do not want to answer 
+ 
+[bq44] ASK ALL RANDOMIZE 
+ 
+[bq44_1] Britain will benefit in the long run from 
+participating in the war in Afghanistan.  
+[bq44_2] The war in Afghanistan threatens the safety of my 
+family and myself. 
+[bq44_3] There is a strong moral case for Britain participating 
+in the war in Afghanistan. 
+[bq44_4] The war in Afghanistan is seriously damaging Britain's 
+interests around the world. 
+ 
+IF FIRST ITERATION: 
+Please indicate how much you agree or disagree with the 
+following statements: 
+[LOOP ITEM] 
+SECOND PLUS ITERATION: 
+And please indicate how much you agree or disagree with this 
+statement: 
+[LOOP ITEM] 
+ 
+ 
+1 Strongly agree 
+2 Agree 
+3 Neither agree nor disagree 
+4 Disagree 
+5 Strongly disagree 
+6  Don’t know 
+7  Do not want to answer 
+ 
+ 
+[text]  ASK ALL DOING SELF COMPLETION (IF eq29=1 OR 3) 
+Now a few questions about how you feel about people in 
+different types of traditional dress. 
+ 
+You will be shown a series of pictures. Please say how 
+comfortable you would feel speaking to someone wearing these 
+traditional clothes if for example they asked you for 
+directions. 
+ 
+
+--- PDF PAGE 37 ---
+ 38 
+[eq31] ASK ALL DOING SELF COMPLETION (IF eq29=1 OR 3) 
+a  PICTURE: NUN 
+b  PICTURE: FULL HASIDIC JEWISH DRESS 
+c  PICTURE: TRADITIONAL SIKH DRESS 
+d  TRADITIONAL MUSLIM DRESS WITHOUT FULL VEIL (HIJAB) 
+ e. TRADITIONAL MUSLIM DRESS WITH FULL VEIL (NIQAB) 
+ 
+How comfortable would you feel speaking to someone wearing 
+these clothes if for example they asked you for directions? 
+[LOOP ITEM] 
+ 
+1 Very comfortable 
+2 Fairly comfortable 
+3 Neither comfortable nor uncomfortable 
+3 Fairly uncomfortable 
+4 Very uncomfortable 
+5 Don’t know 
+6 Do not want to answer 
+ 
+ 
+[eq32] ASK IF MUSLIM (BQ106_1=4) DOING SELF COMPLETION (eq29=1 
+OR 3) 
+ 
+And looking at these statements about Sharia courts being 
+introduced in Britain, which of these come closest to your 
+view? 
+ 
+1  Introduce Sharia law, that is traditional Islamic law, in all 
+cases 
+2  Introduce Sharia law, but only if penalties do not contravene 
+British law 
+3  Do not introduce Sharia law. 
+4  Don’t know 
+5  Do not want to answer  
+ 
+[eq33]  
+For each of the following statements please indicate how much 
+it would bother you… 
+ 
+a  If one of your close relatives were to marry a White person(if 
+not white at Bq101) 
+b  If one of your close relatives were to marry a Black person(if 
+not black at Bq101) 
+c  If one of your close relatives were to marry an Asian person(if 
+not asian at Bq101) 
+d  If one of your close relatives were to marry a Muslim person 
+(if not Muslim at Bq106_1) 
+ 
+1  A great deal 
+2  Rather a lot 
+3  A little 
+4  Not very much 
+5  Not at all 
+6  Don’t know 
+7  Do not want to answer 
+ 
+ 
+[eq34-36] [If first iteration]  
+Would you ever support violent demonstrations or protests in 
+the following situations… 
+
+--- PDF PAGE 38 ---
+ 39 
+[If second or third iteration]: And would you ever support 
+violent demonstrations or protests… 
+ 
+          [RANDOMISE ORDER] 
+ 
+[eq34] If the British government was about to start a war that 
+you didn’t agree with 
+[eq35] If the British government passed a tax increase which 
+you thought was unfair 
+[eq36] To protest against job cuts 
+ 
+Yes 
+No 
+Don’t know 
+Do not want to answer 
+ 
+IF YES AT EACH ITERATION: 
+ 
+       [eq34_2, eq35_2, eq36_2]   Which, if any, of the 
+following actions would you support in those circumstances: 
+(Please select all that apply) 
+ 
+Destroying property 
+Attacking police officers 
+Neither of these 
+Don’t know 
+Do not want to answer 
+ 
+ 
+ 
+[TEXT] ASK ALL DOING SELF COMPLETION (IF eq29=1 OR 3) 
+ 
+Thank you for completing this section. 
+ 
+Your answers will be completely confidential.  If you want to 
+go back over any answers the INTERVIEWER can tell you how to do 
+this. 
+ 
+OTHERWISE PLEASE TOUCH CONTINUE TO MOVE ON TO THE NEXT SECTION. 
+ 
+[SCEND] IF eq29 = 1 
+ 
+Please hand the computer back to the INTERVIEWER. 
+ 
+INTERVIEWER CODE 1 TO CONTINUE 
+ 
+CONTINUE 
+NO DK NO REF 
+
+--- PDF PAGE 39 ---
+ 40 
+Section 7: Discrimination, prejudice and social 
+distance 
+ 
+ 
+ 
+[eq37] ASK ALL 
+ 
+Discrimination may happen when people are treated unfairly 
+because they are seen as being different from others.  In the 
+past 5 years, do you feel that you have experienced 
+discrimination or been treated unfairly by others in the UK 
+because of your ethnicity, race, skin colour, language, accent, 
+religion, age, gender, sexuality or disability? 
+ 
+1  Yes 
+2  No 
+DK REF 
+ 
+[eq38] If Yes (eq37 = 1) 
+In the past 5 years, how often do you feel that you have 
+experienced such discrimination or unfair treatment in Britain   
+READ OUT 
+ 
+1  Often 
+2  Sometimes 
+3  Rarely 
+DK REF 
+ 
+[eq39] If Yes (eq37 = 1) 
+And looking at this card, in the past 5 years, do you feel you 
+have been discriminated against for any of these reasons? 
+ 
+Please take your answers from this card – CARD 28 
+ 
+CODE ALL THAT APPLY 
+ 
+Your ethnicity, race or skin colour 
+Your language or accent 
+Your religion 
+Your age 
+Your gender 
+Your sexuality 
+A disability 
+None of these 
+DK REF 
+ 
+ 
+[eq40] If Yes (eq37 = 1) 
+And in the past 5 years, do you feel you have experienced 
+discrimination or been treated unfairly in Britain, in any of 
+these situations? 
+Please take your answers from this card – CARD 29 
+ 
+CODE ALL THAT APPLY 
+  
+On the street 
+In a shop, bank, restaurant or bar 
+At work or when applying for a job or promotion 
+When dealing with the police or courts 
+
+--- PDF PAGE 40 ---
+ 41 
+At school, college or university 
+When dealing with immigration or other government offices or 
+officials 
+At social gatherings with friends, neighbours 
+At family gatherings? 
+None of these 
+DK REF 
+  
+
+--- PDF PAGE 41 ---
+ 42 
+Section 8: Ethnic social capital and mobilization 
+ 
+ 
+ 
+[eq41] IF RESPONDENT IS NOT FROM MIXED BACKGROUND [BQ101 <> 5-
+8] 
+Do you know of any (RESPONDENT’S ANSWER FROM BQ101) ethnic, 
+cultural or religious associations or clubs in or near the city 
+or town in which you live?  
+ 
+1 Yes 
+2 No 
+DK REF 
+ 
+[eq42] ASK ALL 
+Have you taken part in the activities of an ethnic or cultural 
+association or club in the past 12 months? 
+ 
+1 Yes 
+2 No 
+DK REF 
+ 
+[eq43] ASK ALL 
+ 
+Have you taken part in the activities of any other kind of 
+association or club in the past 12 months?  
+ 
+PROMPT IF NECESSARY: For example, a sports team, hobby club, 
+charity group, political or citizen’s group, children’s school 
+group etc 
+ 
+1 Yes 
+2 No 
+DK REF 
+ 
+[eq44] IF YES (eq43=1) 
+ 
+Which kind of organization(s) have you been active in?   
+ 
+INTERVIEWER: CODE UP TO 3 ANSWERS. IF INVOLVED IN MORE THAN 3 
+ORGANISATIONS PLEASE CODE THE MOST IMPORTANT ORGANISATIONS TO 
+RESPONDENT 
+ 
+ALLOW UP TO THREE ANSWERS 
+1  Sports club or team 
+2  Hobby club 
+3  Charity group 
+4  Political or citizens group 
+5  Children’s school group 
+6  Other (WRITE IN) 
+DK REF 
+ 
+ 
+[eq45] ASK ALL INVOLVED IN AT LEAST 1/2/3 TYPES OF 
+ORGANISATION 
+How many members of the [LOOP ITEM] are from the same ethnic or 
+religious group as you?  Is it… 
+ 
+READ OUT 
+ 
+
+--- PDF PAGE 42 ---
+ 43 
+1  All of them 
+2  Most of them 
+3  About half of them 
+4  A few of them 
+5  None of them? 
+DK REF 
+ 
+ 
+Community cohesion 
+ 
+ 
+[eq46_1]  ASK ALL 
+Now, I would like to ask you about the ways your ethnicity or 
+culture may be important in your social life. 
+ 
+As far as you know, how many of your friends have the same 
+ethnic background as you? 
+READ OUT 
+ 
+1  All of them 
+2  Most of them 
+3  About half of them 
+4  A few of them 
+5  None of them? 
+DK REF 
+ 
+[eq46_2]  ASK ALL 
+As far as you know, how many of the people you work with have 
+the same ethnic background as you? 
+READ OUT 
+ 
+1  All of them 
+2  Most of them 
+3  About half of them 
+4  A few of them 
+5  None of them? 
+6  Not in employment/ work 
+DK REF 
+ 
+[eq46_3]  ASK ALL 
+As far as you know, how many of the people in your 
+neighbourhood have the same ethnic background as you? 
+READ OUT 
+ 
+1  All of them 
+2  Most of them 
+3  About half of them 
+4  A few of them 
+5  None of them? 
+DK REF 
+ 
+[eq46_4]  ASK IF HAS A RELIGION (BQ106_1=1) 
+As far as you know, how many of the people at your church or 
+place of worship have the same ethnic background as you? 
+READ OUT 
+ 
+1  All of them 
+2  Most of them 
+3  About half of them 
+4  A few of them 
+5  None of them? 
+
+--- PDF PAGE 43 ---
+ 44 
+6  Do not go to church/ a place of worship 
+DK REF 
+ 
+ 
+Persuaded to vote 
+ 
+ 
+[eq47] ASK IF HAS A RELIGION (BQ106_1=1) 
+During the election campaign did your local place of worship 
+encourage members to vote in the election? 
+ 
+1  Yes 
+2  No 
+DK REF 
+ 
+ 
+[bq55] ASK ALL 
+CARD 30  
+Did anyone, for example, a friend, a member of your family, or 
+someone at work, try to persuade you to vote for a particular 
+party in the recent general election? Please take your answers 
+from this card.  
+PROBE: Any others?  
+CODE ALL THAT APPLY 
+ 
+1 Friend(s) 
+2 Family member(s) 
+3 Someone at work 
+4 Someone from your church or place of worship 
+5 Someone from your neighbourhood 
+6 Someone from your ethnic, cultural or religious association or 
+club 
+7 Someone from another association or club 
+8 Other person(s) 
+9 No one tried to convince me 
+DK REF 
+ 
+ 
+Media use and party contact 
+ 
+ 
+[bq80_1]  ASK ALL 
+Do you regularly read a daily newspaper – either the paper 
+version or online? 
+ 
+1 Yes 
+2 No 
+DK REF 
+ 
+[bq80_3] IF ‘yes’ [bq80_1=1] 
+Which daily newspaper do you read most often? 
+SINGLE CODE ONLY 
+ 
+SHOWCARD 31 
+ 
+ 
+1 Daily Mail/Scottish Daily Mail 
+2 Daily Star/Daily Star of Scotland 
+3 Daily Telegraph 
+4 Express 
+5 Financial Times 
+
+--- PDF PAGE 44 ---
+ 45 
+6 Guardian 
+7 Independent 
+8 Mirror/Scottish Mirror/Daily Record 
+9 The Scotsman 
+10 The Sun 
+11 The Times 
+12 Western Mail 
+13 Metro 
+14 The Evening Standard 
+15 Your city’s local newspaper 
+16 None most often 
+17 Other (WRITE IN) 
+DK REF 
+ 
+ 
+[eq48_1] ASK ALL 
+And do you regularly read any (other) newspaper that focuses on 
+news about your own ethnic or religious community? 
+ 
+1 Yes 
+2 No 
+DK REF 
+ 
+[eq48_2] IF YES (eq48_1 = 1) 
+Which ethnic or religious newspaper do you read most often? 
+ 
+TYPE IN ANSWER 
+DK REF 
+ 
+[eq49] ASK ALL 
+Thinking just about British politics, from which of the sources 
+on the card did you get information about the recent election 
+campaign and issues here in Britain?  CODE ALL THAT APPLY? 
+ 
+SHOWCARD 32 
+ 
+newspapers 
+magazines 
+TV 
+The radio 
+The internet 
+None of these 
+ 
+IF MORE THAN ONE CODED 
+ 
+[eq49_2] And which was the most important source of information 
+for you? 
+ 
+Newspapers 
+Magazines 
+TV 
+The radio 
+The internet 
+ 
+IF SELECTED A SOURCE OF INFO AT eq49 
+ 
+[eq49_3] And thinking about the [textfill of most important 
+source of info from eq49_2: newpapers/ magazines/ TV 
+programmes/ radio programmes/ internet material] that you [text 
+fill: read/watched/listened to/accessed]. Was this specifically 
+
+--- PDF PAGE 45 ---
+ 46 
+aimed at members of your ethnic or religious group, or was it 
+aimed at everyone? 
+ 
+CODE BOTH IF BOTH APPLY 
+1  Own ethnic group 
+2  Own religious group 
+3  Everyone 
+DK REF 
+ 
+ 
+ASK ALL 
+[bq86_1]  
+Did any of the political parties contact you, either in person 
+or over the phone, during the recent election campaign? 
+1 Yes 
+2 No 
+ 
+ 
+IF 'yes' AT [bq86_1]  
+ 
+[bq86_2] 
+Which of the political parties contacted you during the recent 
+election campaign? 
+PROBE:  Any others? 
+CODE ALL THAT APPLY 
+Multicoded (Maximum of 9 codes) 
+ 
+1 Labour 
+2 Conservative 
+3 Liberal Democrat 
+4 Scottish National Party 
+5 Plaid Cymru 
+6 Green Party 
+7 United Kingdom Independence Party (UKIP) 
+8 British National Party (BNP) 
+9 Other (WRITE IN) 
+ 
+IF 'other' AT [bq86_2] 
+WRITE IN OTHER ANSWER GIVEN 
+OPEN QUESTION (MAXIMUM OF 60 CHARACTERS)  
+ 
+ 
+[eq50]  IF RESPONDENT IS NOT FROM MIXED BACKGROUND [BQ101 <> 5-
+8] 
+REPEAT FOR EACH PARTY MENTIONED AT bq86_2 
+ 
+And can you remember whether the <Party from bq86_2> canvasser 
+was <ingrouper1> or not?  
+ 
+Yes, <ingrouper1> 
+No, not <ingrouper1> 
+Don’t remember 
+DK REF 
+ 
+ 
+[eq51] ASK ALL 
+Do you regularly use the internet? 
+ 
+1 Yes 
+2 No 
+DK REF 
+
+--- PDF PAGE 46 ---
+ 47 
+ 
+ 
+ 
+[bq84_1] IF YES (eq51=1) 
+How much did you use the internet to get or exchange 
+information about the recent general election... 
+READ OUT 
+ 
+1 a great deal, 
+2 a fair amount, 
+3 not very much, 
+4 or, not at all? 
+DK REF 
+
+--- PDF PAGE 47 ---
+ 48 
+Section 9: Classification Part 2  
+ 
+[bq102_1] ASK ALL 
+In which country were you born? 
+ 
+1 England 
+2 Scotland 
+3 Wales 
+4 Northern Ireland 
+5 India 
+6 Pakistan 
+7 Bangladesh  
+8 Other [WRITE IN] 
+ DK REF 
+ 
+[eq52_f]  IF BORN IN UK [bq102_1=1-4] 
+In which country was your father born? 
+ 
+1 England 
+2 Scotland 
+3 Wales 
+4 Northern Ireland 
+5 India 
+6 Pakistan 
+7 Bangladesh  
+8 Other [WRITE IN] 
+DK REF 
+ 
+[eq52_m]  IF BORN IN UK [bq102_1=1-4] 
+In which country was your mother born? 
+ 
+1 England 
+2 Scotland 
+3 Wales 
+4 Ireland 
+5 India 
+6 Pakistan 
+7 Bangladesh  
+8 Other [WRITE IN] 
+DK REF 
+ 
+ 
+[eq52_x]  IF MOTHER AND FATHER BOTH BORN ABROAD [eq52_f=8 & 
+eq52_m=8] 
+ 
+INTERVIEWER: WAS THE RESPONDENT’S MOTHER BORN IN THE SAME 
+COUNTRY AS THEIR FATHER? 
+Yes 
+No 
+ 
+ 
+[bq102_r] If not born in UK [bq102_1=5, 6, 7, 8] 
+In which year did you first move to Britain? 
+ 
+WRITE IN YEAR OR AGE IF NECESSARY 
+DK REF 
+ 
+ 
+[eq53] If not born in UK [bq102_1=5, 6, 7, 8] 
+
+--- PDF PAGE 48 ---
+ 49 
+Do you still have family living in your country of birth?  
+[Family includes children, brothers, sisters, parents, 
+grandparents, aunts, uncles, cousins (first, second and third), 
+great aunts, great uncles and all other relatives] 
+ 
+1 Yes 
+2 No 
+DK REF 
+ 
+ 
+[eq54_1] If not born in UK [bq102_1=5, 6, 7, 8] 
+Since coming to Britain in (ANSWER FROM BQ71B), have you ever 
+been back to your country of birth?  [Include all trips, 
+regardless of purpose of trip (business, pleasure, etc), age of 
+respondent or length of stay] 
+ 
+1 Yes 
+2 No 
+DK REF 
+ 
+ 
+[eq54_2] IF YES (eq54_1= 1) 
+How many times?  Was it... 
+READ OUT 
+ 
+1  Once only 
+2  2 to 4 times 
+3  5-9 times 
+4  10 times or more? 
+DK REF 
+ 
+ 
+[eq55] If have family in country of birth [eq53=1] 
+In the past 12 months, how often have you seen, talked to, 
+written or e-mailed members of your family who are still living 
+in your country of birth? 
+ 
+1  Once only 
+2  2 to 4 times 
+3  5-9 times 
+4  10 times or more? 
+DK REF 
+ 
+ 
+[eq56] IF NOT BORN IN BRITAIN [bq102_1 = 5, 6, 7, 8] 
+CARD 33  
+And how much interest do you generally have in what is going on 
+in politics in your country of birth?  
+(Please take your answers from this card) 
+ 
+1 A great deal 
+2 Quite a lot 
+3 Some 
+4 Not very much 
+5 None at all 
+DK REF 
+ 
+ 
+[eq57_1]  IF FATHER WAS BORN ABROAD [eq52_f= 5, 6, 7, 8] 
+Do you still have family living in <father’s country of birth 
+(eq52_f)> ?  [Family includes children, brothers, sisters, 
+
+--- PDF PAGE 49 ---
+ 50 
+parents, grandparents, aunts, uncles, cousins (first, second 
+and third), great aunts, great uncles and all other relatives] 
+ 
+1 Yes 
+2 No 
+DK REF 
+ 
+ 
+[eq57_2] IF FATHER WAS BORN ABROAD [eq52_f= 5, 6, 7, 8] 
+Have you visited <father’s country of birth (eq52_f)>, in the 
+last five years? 
+ 
+1 Yes 
+2 No 
+DK REF 
+ 
+ 
+[eq57_3] IF HAVE FAMILY IN FATHER’S COUNTRY OF BIRTH [eq57_1=1] 
+In the past 12 months, how often have you seen, talked to, 
+written or e-mailed members of your family who were living in 
+<father’s  country of birth (eq52_f)>? 
+ 
+1  Once only 
+2  2 to 4 times 
+3  5-9 times 
+4  10 times or more? 
+DK REF 
+ 
+ 
+[eq57_4] IF FATHER WAS BORN ABROAD [eq52_f = 5] 
+CARD 33  
+And how much interest do you generally have in what is going on 
+in politics in <father’s  country of birth (eq52_f)>?  
+(Please take your answers from this card) 
+ 
+1 A great deal 
+2 Quite a lot 
+3 Some 
+4 Not very much 
+5 None at all 
+DK REF 
+ 
+ 
+[eq58_1] IF MOTHER BORN ABROAD IN DIFFERENT COUNTRY TO FATHER 
+[eq52_x = 1] 
+Do you still have family living in <mother’s country of birth 
+(eq52_m)> ?  [Family includes children, brothers, sisters, 
+parents, grandparents, aunts, uncles, cousins (first, second 
+and third), great aunts, great uncles and all other relatives] 
+ 
+1 Yes 
+2 No 
+DK REF 
+ 
+ 
+[eq58_2] IF MOTHER BORN ABROAD IN DIFFERENT COUNTRY TO FATHER 
+[eq52_x = 1] 
+Have you visited <mother’s  country of birth (eq52_m)>, in the 
+last five years? 
+ 
+1 Yes 
+
+--- PDF PAGE 50 ---
+ 51 
+2 No 
+DK REF 
+ 
+ 
+[eq58_3]  IF HAVE FAMILY IN MOTHER’S COUNTRY OF BIRTH [eq58_1=1] 
+In the past 12 months, how often have you seen, talked to, 
+written or e-mailed members of your family who were living in 
+<mother’s  country of birth (eq52_m)>? 
+ 
+1  Once only 
+2  2 to 4 times 
+3  5-9 times 
+4  10 times or more? 
+DK REF 
+ 
+ 
+[eq58_4] IF MOTHER BORN ABROAD IN DIFFERENT COUNTRY TO FATHER 
+[eq52_x= 1] 
+CARD 33  
+And how much interest do you generally have in what is going on 
+in politics in <mother’s country of birth (eq52_m)>?  
+(Please take your answers from this card) 
+ 
+1 A great deal 
+2 Quite a lot 
+3 Some 
+4 Not very much 
+5 None at all 
+DK REF 
+ 
+ 
+[eq59_1] ASK ALL 
+Are you a British citizen or a citizen of another country? 
+ 
+1  British citizen 
+2  Another country 
+3  Both  
+DK REF 
+ 
+[eq59_2] If eq59_1 = 2 or 3 
+Of which other country are you a citizen? 
+ 
+TYPE IN ANSWER 
+DK REF 
+ 
+ 
+[eq60_1]  ASK IF NOT BORN IN BRITAIN AND ENTERED BRITAIN WHEN 16 
+OR OVER (bq102_1 = 5, 6, 7, 8 and bq102_r>15) 
+What were your reasons for coming to live in Britain? 
+ 
+PROMPT TO PRECODE. CODE ALL THAT APPLY 
+ 
+1  Accompanying or joining family 
+2  Accompanying or joining husband or wife  
+3  To be a student 
+4  Better life 
+5  Freedom 
+6  Earn money 
+7  Just to live in Britain 
+8  Poverty in country of origin 
+9  War in country of origin 
+
+--- PDF PAGE 51 ---
+ 52 
+10 Persecution in country of origin 
+11  Other (WRITE IN) 
+DK REF 
+ 
+ 
+[eq60_2]  ASK IF ACCOMPANYING FAMILY OR SPOUSE [eq60_1 = 1 or 2] 
+What were your [textfill:husband/wife/family’s] reasons for 
+coming to live in Britain? 
+ 
+PROMPT TO PRECODE. CODE ALL THAT APPLY 
+ 
+1  Born in Britain  
+2  Accompanying or joining family 
+3  Accompanying or joining husband or wife'  
+4  To be a student 
+5  Better life 
+6  Freedom 
+7  Earn money 
+8  Just to live in Britain 
+9  Poverty in country of origin 
+10  War in country of origin 
+11  Persecution in country of origin 
+12  Other (WRITE IN) 
+DK REF 
+ 
+ 
+[eq60_3] ASK IF NOT BORN IN BRITAIN AND ENTERED BRITAIN WHEN 
+UNDER 16 (bq102_1 = 5, 6, 7, 8 and bq102_r<16) OR IF BORN IN 
+BRITAIN AND AT LEAST ONE PARENT WAS NOT BORN IN BRITAIN 
+(bq102_1=1-4 and (eq52_f=5 or eq52_m=5) 
+What were your [TEXTFILL: parents’/ mother’s/ father’s] reasons 
+for coming to live in Britain? 
+ 
+PROMPT TO PRECODE. CODE ALL THAT APPLY 
+ 
+1  Accompanying or joining family 
+2  Accompanying or joining husband or wife 
+3  To be a student 
+4  Better life 
+5  Freedom 
+6  Earn money 
+7  Just to live in Britain 
+8  Poverty in country of origin 
+9  War in country of origin 
+10  Persecution in country of origin 
+11  Mother/Father/Parents did not come to Britain 
+12  Other (WRITE IN) 
+DK REF 
+ 
+ 
+[eq61_1]  ASK ALL 
+Is English the MAIN language that you speak at home?  
+ 
+1  Yes 
+2  No 
+DK REF 
+ 
+ 
+[eq61_2] ASK IF NO [eq61_1=2] 
+What is the MAIN language you speak at home?  
+SINGLE CODE ONLY  
+
+--- PDF PAGE 52 ---
+ 53 
+ 
+Arabic 
+Bengali 
+Farsi 
+French 
+German 
+Gujarati 
+Hausa 
+Hindi 
+Igbo 
+Kurdish 
+Marathi 
+Mirpuri/Pahari  
+Polish 
+Punjabi  
+Sindhi 
+Somali 
+Swahili 
+Sylheti  
+Tamil 
+Turkish 
+Urdu 
+Yoruba 
+Other (WRITE IN) 
+DK REF 
+ 
+ 
+[eq61_3]  ASK IF NO [eq61_1=2] 
+Can I just check, in day-to-day life, how good are you at 
+speaking English when you need to? For example to have a 
+conversation on the telephone or talk to a professional such as 
+a teacher or a doctor?  Would you say you are...  
+READ OUT 
+ 
+1  very good,  
+2  fairly good,  
+3  below average,  
+4  or poor?  
+5  SPONTANEOUS ONLY: No opinion  
+DK REF 
+ 
+ 
+[zq93_1]  ASK ALL 
+Does your household own or rent this accommodation?  
+INTERVIEWER: 'OWN' INCLUDES ON A MORTGAGE 
+ 
+1 Own 
+2 Rent 
+3 Neither 
+DK REF 
+ 
+ 
+[zq93_2] IF ‘own’ [bq93_1 = 1] 
+Do you own your home outright or on a mortgage? 
+ 
+1 Own the leasehold/freehold outright 
+2 Buying leasehold/freehold on a mortgage 
+DK REF 
+ 
+ 
+[zq93_3] IF ‘rent’ [bq93_1 = 2] 
+
+--- PDF PAGE 53 ---
+ 54 
+Who do you rent from? 
+ 
+1 Local authority 
+2 New Town Development Corporation 
+3 Housing Association 
+4 Property company 
+5 Employer 
+6 Other organisation 
+7 Relative 
+8 Other individual 
+9 Housing Trust 
+10 Rent free, squatting 
+11 Shared ownership (e.g. part rent, part buy) 
+97 Other (WRITE IN) 
+DK REF 
+ 
+ 
+[zq94_1]  ASK ALL 
+Are you now a member of a trade union or staff association?  
+INTERVIEWER: IF NECESSARY, PROBE FOR WHICH ONE   
+INTERVIEWER: CODE FIRST TO APPLY 
+ 
+1 Yes, trade union 
+2 Yes, staff association 
+3 No 
+DK REF 
+ 
+ 
+[zq94_2]  IF ‘no’ or DK [bq94_1 = 3 OR DK] 
+Have you ever been a member of a trade union or staff 
+association?  
+INTERVIEWER: CODE FIRST TO APPLY 
+ 
+1 Yes, trade union 
+2 Yes, staff association 
+3 No 
+DK REF 
+ 
+ 
+[eq62] ASK ALL 
+At what age did you finish full-time education? 
+ 
+ENTER AGE 
+ 
+Never went to school 
+Still at school in full-time education 
+Still at university in full-time education 
+DK REF 
+ 
+ 
+[eq63] ASK ALL 
+Do you have any British educational or work-related 
+qualifications? 
+ 
+1 Yes 
+2 No 
+DK REF 
+ 
+ 
+[zq95_3] IF ‘yes’ [eq63 = 1] 
+CARD 34  
+
+--- PDF PAGE 54 ---
+ 55 
+Taking your answers from this card, which is the highest 
+British qualification you have?  
+Please just give me the number next to it.  
+IF QUALIFICATION IS NOT IN LIST, PROBE FOR EQUIVALENT IF 
+POSSIBLE. 
+ 
+1 Postgraduate degree 
+2 First degree 
+3 University/polytechnic diploma 
+4 Teaching qualification 
+5 Nursing qualification 
+6 HNC/HND, City & Guilds level 4, NVQ/SVQ 4/5 
+7 A level and equivalent 
+8 Scottish Higher and equivalent 
+9 ONC/OND, City & Guilds level 3, NVQ/SVQ 3 
+10 GCSE A*-C, CSE grade 1, O level grade A-C 
+11 Scottish Standard grades, Ordinary bands 
+12 GCSE D-G, CSE grades 2-5, O level D-E 
+13 City & Guilds level 2, NVQ/SVQ 2 and equivalent 
+14 City & Guilds level 1, NVQ/SVQ 1 and equivalent 
+15 Clerical and commercial qualifications 
+16 Recognised trade apprenticeship 
+17 Youth training certificate, skill seekers 
+18 Other technical, professional or higher qualification (WRITE 
+IN) 
+DK REF 
+ 
+ 
+[eq64_1]  ASK ALL 
+Do you have any qualifications you have not yet told me about 
+that you gained overseas? I mean qualifications gained either 
+at school, at college or university through work or training or 
+independently through your own study? 
+ 
+1  Yes 
+2  No 
+DK REF 
+ 
+ 
+[eq64_2] IF YES (eq64_1 = 1) 
+SHOWCARD 35 
+Which phrase on this card comes closest to describing what sort 
+of qualification this is? 
+ 
+1 School exam – Below University Entrance Level (i.e. equivalent 
+to GCSE/O-Level) 
+2 School exam – University Entrance Level (i.e. equivalent to A-
+Level) 
+3 First Degree from University or similar institution (i.e. 
+equivalent to BA, B.Ed, BSc) 
+4 Higher Degree (i.e. equivalent to MA, MSc, PhD) 
+5 Commercial qualifications (e.g. typing, shorthand, book-
+keeping, commerce) 
+6 Any other vocational or work related qualification 
+7 Some other sort of qualification 
+DK REF 
+ 
+ 
+[bq92_1] ASK ALL 
+The next few questions are about your health and lifestyle. 
+ 
+
+--- PDF PAGE 55 ---
+ 56 
+Do you have any long-standing physical or mental impairment, 
+illness, or disability? By ‘long-standing’ I mean anything that 
+has troubled you over a period of at least 12 months or that is 
+likely to affect you over a period of 12 months 
+ 
+1  Yes 
+2  No 
+DK REF 
+ 
+ 
+[zqinc] ASK ALL 
+CARD 36 2 
+Which of the letters on this card represents the total income 
+of your household from all sources before tax - including 
+benefits, savings and so on? Please just tell me the letter. 
+ 
+1 Q 
+2 T 
+3 O 
+4 K 
+5 L 
+6 B 
+7 Z 
+8 M 
+9 F 
+10 J 
+11 D 
+12 H 
+13 P 
+14 S 
+DK REF 
+ 
+ 
+[zq97] ASK ALL 
+CARD 37  
+Which of these is the main source of income for you (and your 
+partner) at present? 
+ 
+1 Earnings from employment (own or spouse / partner's) 
+2 Occupational pension(s) - from previous employer(s) 
+                         
+2 The showcard looks like this: 
+ 
+Weekly income from all sources 
+before tax 
+ Annual income from all sources 
+before tax 
+Less than £96 Q Less than £5,000 
+£97 – £192 T £5,001 – £10,000 
+£193 – £288 O £10,001 – £15,000 
+£289 – £384 K £15,001 – £20,000 
+£385 – £480 L £20,001 – £25,000 
+£481 – £577 B £25,001 – £30,000 
+£578 – £673 Z £30,001 – £35,000 
+£674 – £769 M £35,001 – £40,000 
+£770 – £865 F £40,001 – £45,000 
+£866 – £961 J £45,001 – £50,000 
+£962 – £1,153 D £50,001 – £60,000 
+£1,154 – £1,346 H £60,001 – £70,000 
+£1,347 - £1,538 P £70,001 -£80,000 
+£1,539 or more S £80,001 or more 
+ 
+
+--- PDF PAGE 56 ---
+ 57 
+3 Private pension(s) 
+4 State retirement or widow's pension(s) 
+5 Jobseeker's Allowance/ Unemployment benefit 
+6 Pension Credit/ Minimum Income Guarantee/ Income Support for 
+pensioners 
+7 Invalidity, sickness or disabled pension or benefit(s) 
+8 Other state benefit or tax credit (WRITE IN) 
+9 Interest from savings or investments 
+10 Student grant, bursary or loans 
+11 Dependent on parents/other relatives 
+12 Other main source (WRITE IN) 
+ 
+ 
+[eq65_1] ASK ALL 
+CARD 38  
+Which of the descriptions on this card best applies to you? 
+ 
+1 In paid work 
+2 In full-time education 
+3 Unemployed for six months or more 
+4 Unemployed for less than six months 
+5 Permanently sick or disabled 
+6 Retired 
+7 Looking after the home 
+8 Doing something else (WRITE IN) 
+DK REF 
+ 
+ 
+[eq65_2]  ASK ALL MARRIED OR LIVING WITH PARTNER [bq90 = 1 
+OR 2] 
+CARD 38 
+And which of the descriptions on the card best applies to your 
+wife/husband/partner? 
+ 
+1 In paid work 
+2 In full-time education 
+3 Unemployed for six months or more 
+4 Unemployed for less than six months 
+5 Permanently sick or disabled 
+6 Retired 
+7 Looking after the home 
+8 Doing something else (WRITE IN) 
+DK REF 
+ 
+ 
+[eq65_3]  IF IN WORK [eq65_1 = 1] 
+CARD 39 
+Which one of the descriptions on this card best applies to you? 
+ 
+1 Employee 
+2 Self-employed but without employees 
+3 Self-employed with employees 
+4 Unpaid family worker 
+DK REF 
+ 
+ 
+[eq65_4]  IF PARTNER IN WORK [eq65_2 = 1] 
+CARD 39  
+Which one of the descriptions on this card best applies to your 
+wife/husband/partner? 
+ 
+
+--- PDF PAGE 57 ---
+ 58 
+1 Employee 
+2 Self-employed but without employees 
+3 Self-employed with employees 
+4 Unpaid family worker 
+DK REF 
+ 
+ 
+[zq98_1]  ASK ALL 
+CARD 40  
+From this card please tell me which best describes the sort of 
+work you do. (If you are not working now, please tell me what 
+you did in your last job). 
+ 
+1 Professional or higher technical work 
+2 Manager or senior administrator 
+3 Clerical 
+4 Sales or services 
+5 Small business owner 
+6 Foreman or supervisor of other workers 
+7 Skilled manual work 
+8 Semi-skilled or unskilled manual work 
+9 Other (WRITE IN) 
+10 Never worked 
+DK REF 
+ 
+ 
+[zq98_2]  IF ‘married’ OR ‘living with a partner’ [bq90=1 OR 2] 
+CARD 40  
+From the same card, please tell me which best describes the 
+sort of work your (husband/wife/partner) does (or did in 
+(his/her) last job). 
+ 
+1 Professional or higher technical work 
+2 Manager or senior administrator 
+3 Clerical 
+4 Sales or services 
+5 Small business owner 
+6 Foreman or supervisor of other workers 
+7 Skilled manual work 
+8 Semi-skilled or unskilled manual work 
+9 Other (WRITE IN) 
+10 Never worked 
+DK REF 
+ 
+[eq66_1] IF NOT ‘never worked’ [NOT bq98_1 = 10] 
+Do/did you work for… 
+ 
+1  a private firm or business or limited company 
+2  or some other kind of organisation? 
+DK REF 
+ 
+ 
+[eq66_2] IF ANOTHER ORGANISATION [eq66_1 = 2] 
+What kind of non-private organisation was it? 
+ 
+1  a public limited company/plc?  
+2  a nationalised industry/state corporation?  
+3  central government or civil service? 
+4  local government or council (including police, fire services 
+and local authority controlled schools/colleges)? 
+
+--- PDF PAGE 58 ---
+ 59 
+5  a university or other grant funded education establishment 
+(include 'opted-out' schools)? 
+6  a health authority or NHS Trust? 
+7  a charity, voluntary organisation or trust? 
+8  the armed forces? 
+9  or was it some other kind of organisation? 
+DK REF 
+ 
+ 
+[eq67_1] IF ‘married’ or ‘living with a partner’ AND NOT ‘never 
+worked’ [bq90 = 1 or 2 and NOT (bq98_2 = 10)] 
+Does/did your partner work for… 
+ 
+1  a private firm or business or limited company 
+2  or some other kind of organisation? 
+DK REF 
+ 
+ 
+[eq67_2] IF ANOTHER ORGANISATION [eq67_1 = 2] 
+What kind of non-private organisation was it? 
+ 
+1  a public limited company/plc?  
+2  a nationalised industry/state corporation?  
+3  central government or civil service? 
+4  local government or council (including police, fire services 
+and local authority controlled schools/colleges)? 
+5  a university or other grant funded education establishment 
+(include 'opted-out' schools)? 
+6  a health authority or NHS Trust? 
+7  a charity, voluntary organisation or trust? 
+8  the armed forces? 
+9  or was it some other kind of organisation? 
+DK REF 
+ 
+ 
+[eq68] ASK IF PRIVATE FIRM [eq66_1 = 1] 
+SHOWCARD 41 
+Which of the following descriptions best applies as far as you 
+know to the ownership of the place where you work? 
+ 
+1  My workplace has White British owners 
+2 My workplace is owned by someone from a minority ethnic group 
+3  I don’t know who owns it 
+4  Not applicable- owned by lots of different people 
+DK REF 
+ 
+ 
+[Mailback] ASK ALL 
+That is the end of the interview. We are grateful for your help 
+with this very important project. In addition we are also 
+conducting a short self-completion survey, and we would be very 
+grateful for your help with this.  
+ 
+HAND MAIL-BACK QUESTIONNAIRE TO RESPONDENT. REMEMBER TO WRITE 
+THE SERIAL NUMBER ON THE FRONT PAGE OF THE QUESTIONNAIRE. 
+ 
+Would you be able to fill this in and send it back to us in the 
+pre-paid envelope within the next few days? All participants in 
+the study will be entered into a prize draw with a grand prize 
+of £500 and several smaller prizes of £5 to £100.  
+ 
+
+--- PDF PAGE 59 ---
+ 60 
+IF NECESSARY: Only the person who took part in this survey 
+should complete the self-completion questionnaire. 
+ 
+ 
+[bq112] ASK ALL 
+Is there a telephone in (your part of) this accommodation? 
+ 
+1 Yes 
+2 No 
+DK REF 
+ 
+ 
+[bq112b] IF ‘yes’ AT [bq112a] 
+A few interviews on any survey are checked by my office to make 
+sure that people are satisfied with the way the interview was 
+carried out. In case my office needs to contact you, it would 
+be helpful if we could have your telephone number.  
+ 
+ADD IF NECESSARY: Your 'phone number will not be passed to 
+anyone outside the study team without your consent.  
+ 
+IF MORE THAN ONE NUMBER, ASK WHICH WOULD BE MOST CONVENIENT FOR 
+RECONTACT 
+ 
+1 Number given 
+2 Number refused/not given 
+NO DK NO REF 
+ 
+ 
+[bq113c]  ASK ALL 
+And, may we have your mobile phone number as well?  
+ 
+IF NO MOBILE: Is there another phone number where you could 
+(also) be reached?  
+ 
+1 Number given 
+2 Number refused/not given/no mobile or second phone 
+NO DK NO REF 
+ 
+ 
+[eq69] ASK ALL 
+Do you have access to email and the internet? 
+ 
+1 Yes 
+2 No 
+DK REF 
+ 
+ 
+[DLink] ASK ALL 
+We would like to link the answers you have given in this survey 
+to other information held about how many people voted in this 
+area. To do this we would like your permission to match your 
+name and address to information held on the electoral register. 
+This matching will only be done with information that is 
+already publicly available. 
+ 
+Would you be willing for us to add administrative data from the 
+electoral register to the answers you have given us today? 
+ 
+
+--- PDF PAGE 60 ---
+ 61 
+INTERVIEWER IF NECESSARY:  REASSURE RESPONDENT THAT THIS DOES 
+NOT INCLUDE WHICH PARTY PEOPLE VOTED FOR. THAT INFORMATION IS 
+NOT HELD OR RECORDED ANYWHERE.? 
+ 
+1 Yes 
+2 No 
+ 
+ 
+[eq70] ASK ALL 
+This is the end of the interview. We are grateful for your help 
+with this very important project. Later on we are going to be 
+doing a shorter follow-up study in about a year's time and may 
+wish to contact you again. Would this be all right?  
+ 
+ADD IF NECESSARY: Before any INTERVIEWER calls, we would write 
+to you again, and you will, of course, be free to choose 
+whether take part or not at that point. 
+ 
+1 Yes 
+2 No 
+NO DK NO REF 
+ 
+ 
+[bq114b] IF ‘yes’ AT [eq69] AND ‘yes’ AT [eq70] 
+The follow-up study may take the form of an internet study. 
+Could you give us an e-mail address that we could use to 
+contact you for this?  
+ 
+1 Email address given 
+2 Email address refused/not given 
+NO DK NO REF 
+ 
+[Trans] INTERVIEWER DID THE RESPONDENT USE A TRANSLATOR TO HELP 
+WITH THE INTERVIEW? 
+ 
+1  Yes 
+2  No 
+ 
+ 
+If yes [Trans = 1] 
+[Trans2] WHICH LANGUAGE DID THE TRANSLATOR TRANSLATE THE 
+INTERVIEW INTO? 
+ 
+1  Punjabi (Urdu script) 
+2  Punjabi (Gurmukhi script) 
+3  Urdu 
+4  Hindi 
+5  Gujurati 
+6  Bengali 
+7  Another language (please specify) 
+ 
+ 
+[Mail] DID YOU LEAVE A MAILBACK QUESTIONNAIRE WITH THE 
+RESPONDENT? 
+ 
+1  Yes 
+2  No 
+ 
+If no [Mail = 2] 
+[Mail2] WHAT WAS THE REASON YOU DID NOT LEAVE A MAILBACK 
+QUESTIONNAIRE? 
+
+--- PDF PAGE 61 ---
+ 62 
+ 
+1  Respondent refused 
+2  Respondent had language difficulties 
+3  Respondent had an impairment meaning they could not complete 
+the mailback 
+4  Translated mailback questionnaire requested 
+5  Other reasons (please specify) 

@@ -1,0 +1,236 @@
+[
+  {
+    "file": ".gitignore",
+    "bytes": 109
+  },
+  {
+    "file": ".python-version",
+    "bytes": 5
+  },
+  {
+    "file": "data.sql",
+    "bytes": 0
+  },
+  {
+    "file": "hw_1_project.ipynb",
+    "bytes": 127970,
+    "cells": 32
+  },
+  {
+    "file": "hw_2_project.ipynb",
+    "bytes": 88978,
+    "cells": 33
+  },
+  {
+    "file": "hw_3_project (1).sql",
+    "bytes": 2950
+  },
+  {
+    "file": "pyproject.toml",
+    "bytes": 478
+  },
+  {
+    "file": "README.md",
+    "bytes": 0
+  },
+  {
+    "file": "uv.lock",
+    "bytes": 80864
+  },
+  {
+    "file": ".vscode\\settings.json",
+    "bytes": 572
+  },
+  {
+    "file": "data\\campaign_touchpoints.csv",
+    "bytes": 286528,
+    "rows": 10000,
+    "columns": [
+      "customer_id",
+      "campaign_id",
+      "touchpoint_id",
+      "touchpoint_date",
+      "clicked",
+      "converted"
+    ],
+    "missing": {
+      "customer_id": 0,
+      "campaign_id": 0,
+      "touchpoint_id": 0,
+      "touchpoint_date": 0,
+      "clicked": 0,
+      "converted": 0
+    }
+  },
+  {
+    "file": "data\\customers.csv",
+    "bytes": 704100,
+    "rows": 10000,
+    "columns": [
+      "customer_id",
+      "age",
+      "gender",
+      "country",
+      "acquisition_channel",
+      "signup_date",
+      "customer_status",
+      "loyalty_tier",
+      "campaign_id",
+      "last_active_date"
+    ],
+    "missing": {
+      "customer_id": 0,
+      "age": 807,
+      "gender": 0,
+      "country": 0,
+      "acquisition_channel": 0,
+      "signup_date": 0,
+      "customer_status": 0,
+      "loyalty_tier": 0,
+      "campaign_id": 0,
+      "last_active_date": 0
+    }
+  },
+  {
+    "file": "data\\transactions.csv",
+    "bytes": 1976440,
+    "rows": 45000,
+    "columns": [
+      "transaction_id",
+      "customer_id",
+      "product_category",
+      "purchase_value",
+      "discount_used",
+      "purchase_date",
+      "is_refunded",
+      "refund_date",
+      "refund_reason"
+    ],
+    "missing": {
+      "transaction_id": 0,
+      "customer_id": 0,
+      "product_category": 0,
+      "purchase_value": 0,
+      "discount_used": 0,
+      "purchase_date": 0,
+      "is_refunded": 0,
+      "refund_date": 41368,
+      "refund_reason": 41368
+    }
+  },
+  {
+    "file": "data\\web_sessions.csv",
+    "bytes": 5652683,
+    "rows": 70100,
+    "columns": [
+      "session_id",
+      "customer_id",
+      "pages_viewed",
+      "time_on_site",
+      "device_type",
+      "traffic_source",
+      "session_date",
+      "converted",
+      "bounce",
+      "cart_additions",
+      "checkout_started",
+      "exit_page",
+      "browser",
+      "is_logged_in"
+    ],
+    "missing": {
+      "session_id": 0,
+      "customer_id": 0,
+      "pages_viewed": 0,
+      "time_on_site": 0,
+      "device_type": 500,
+      "traffic_source": 0,
+      "session_date": 0,
+      "converted": 0,
+      "bounce": 0,
+      "cart_additions": 0,
+      "checkout_started": 0,
+      "exit_page": 0,
+      "browser": 0,
+      "is_logged_in": 0
+    }
+  },
+  {
+    "file": "UKDA-6970-stata\\BSE_2010.dta",
+    "bytes": 2464716
+  },
+  {
+    "file": "UKDA-6970-stata\\read6970.htm",
+    "bytes": 10390
+  },
+  {
+    "file": "src\\mayerfield\\__init__.py",
+    "bytes": 56
+  },
+  {
+    "file": "UKDA-6970-stata\\mrdoc\\allissue\\british_election_study_ethnic_minority_survey_2010_data_anon_ukda_data_dictionary.rtf",
+    "bytes": 612230
+  },
+  {
+    "file": "UKDA-6970-stata\\mrdoc\\pdf\\british_election_study_ethnic_minority_survey_2010_cai_questionnaire.pdf",
+    "bytes": 517639,
+    "pages": 61,
+    "chars": 76370
+  },
+  {
+    "file": "UKDA-6970-stata\\mrdoc\\pdf\\british_election_study_ethnic_minority_survey_2010_mailback_questionnaire.pdf",
+    "bytes": 311844,
+    "pages": 10,
+    "chars": 19297
+  },
+  {
+    "file": "UKDA-6970-stata\\mrdoc\\pdf\\british_election_study_ethnic_minority_survey_2010_technical_report.pdf",
+    "bytes": 423743,
+    "pages": 26,
+    "chars": 57970
+  },
+  {
+    "file": "UKDA-6970-stata\\mrdoc\\pdf\\embes_questionnaire_final_v2_bengali.pdf",
+    "bytes": 672187,
+    "pages": 57,
+    "chars": 72094
+  },
+  {
+    "file": "UKDA-6970-stata\\mrdoc\\pdf\\embes_questionnaire_final_v2_gujarati.pdf",
+    "bytes": 499630,
+    "pages": 78,
+    "chars": 73957
+  },
+  {
+    "file": "UKDA-6970-stata\\mrdoc\\pdf\\embes_questionnaire_final_v2_hindi.pdf",
+    "bytes": 472521,
+    "pages": 78,
+    "chars": 77702
+  },
+  {
+    "file": "UKDA-6970-stata\\mrdoc\\pdf\\embes_questionnaire_final_v2_punjabi.pdf",
+    "bytes": 497655,
+    "pages": 64,
+    "chars": 68447
+  },
+  {
+    "file": "UKDA-6970-stata\\mrdoc\\pdf\\embes_questionnaire_final_v2_punjabi_gurmukhi_.pdf",
+    "bytes": 429932,
+    "pages": 71,
+    "chars": 79305
+  },
+  {
+    "file": "UKDA-6970-stata\\mrdoc\\pdf\\embes_questionnaire_final_v2_urdu.pdf",
+    "bytes": 492320,
+    "pages": 58,
+    "chars": 77154
+  },
+  {
+    "file": "UKDA-6970-stata\\mrdoc\\stataissue\\6970_spss_to_stata_conversion.rtf",
+    "bytes": 19566
+  },
+  {
+    "file": "UKDA-6970-stata\\mrdoc\\UKDA\\UKDA_Study_6970_Information.htm",
+    "bytes": 6130
+  }
+]

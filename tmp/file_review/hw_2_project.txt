@@ -1,0 +1,454 @@
+
+--- markdown ---
+# Individual homework project 2
+
+You will apply statistical testing and correlation analysis to the ShopNow dataset.
+
+For each question:
+
+1. Run the appropriate test.
+2. Report the test statistic and p-value (if applicable).
+3. Interpret the result in plain English.
+4. Explain what it means for the business.
+
+
+--- code ---
+# Import modules
+import pandas as pd 
+import numpy as np 
+import matplotlib.pyplot as plt
+import scipy.stats as stats
+import seaborn as sns
+
+
+--- code ---
+# Import datasets
+transaction = pd.read_csv('data/transactions.csv')
+customers   = pd.read_csv('data/customers.csv')
+campaigns   = pd.read_csv('data/campaign_touchpoints.csv')
+web_session = pd.read_csv('data/web_sessions.csv')
+
+df_trans    = pd.DataFrame(transaction)
+df_cust     = pd.DataFrame(customers)
+df_camp     = pd.DataFrame(campaigns)
+df_web      = pd.DataFrame(web_session)
+
+
+--- code ---
+first_rows = df_trans.head()
+df_trans.info()
+print(first_rows)
+df_cust.head()
+<class 'pandas.DataFrame'>
+RangeIndex: 45000 entries, 0 to 44999
+Data columns (total 9 columns):
+ #   Column            Non-Null Count  Dtype  
+---  ------            --------------  -----  
+ 0   transaction_id    45000 non-null  int64  
+ 1   customer_id       45000 non-null  int64  
+ 2   product_category  45000 non-null  str    
+ 3   purchase_value    45000 non-null  float64
+ 4   discount_used     45000 non-null  int64  
+ 5   purchase_date     45000 non-null  str    
+ 6   is_refunded       45000 non-null  int64  
+ 7   refund_date       3632 non-null   float64
+ 8   refund_reason     3632 non-null   str    
+dtypes: float64(2), int64(4), str(3)
+memory usage: 3.1 MB
+   transaction_id  customer_id product_category  purchase_value  \
+0               1         8141             home          380.95   
+1               2         1297          fashion           67.08   
+2               3         7930             toys           43.37   
+3               4         2426      electronics         1191.45   
+4               5         6614          fashion          112.21   
+
+   discount_used purchase_date  is_refunded   refund_date  refund_reason  
+0              0    2023-09-05            0           NaN            NaN  
+1              0    2019-08-07            0           NaN            NaN  
+2              1    2020-02-07            1  1.581898e+18  late_delivery  
+3              0    2020-10-02            0           NaN            NaN  
+4              0    2023-09-15            0           NaN            NaN  
+
+
+--- markdown ---
+### Specific questions
+
+
+--- markdown ---
+Q1. Do customers from the UK spend more per transaction than customers from Germany?
+
+
+--- code ---
+# Merge transactions with customers on customer_id
+df_merged = df_trans.merge(df_cust, on="customer_id", how="left")
+
+# Filter UK and Germany customers
+uk_df = df_merged[df_merged["country"] == "UK"]
+de_df = df_merged[df_merged["country"] == "Germany"]
+
+# Compute average spend per transaction
+uk_avg = uk_df["purchase_value"].mean()
+de_avg = de_df["purchase_value"].mean()
+
+print("Average spend per transaction:")
+print(f"UK: {uk_avg:.2f}")
+print(f"Germany: {de_avg:.2f}")
+
+# Comparison
+if uk_avg > de_avg:
+    print("UK customers spend more per transaction.")
+elif uk_avg < de_avg:
+    print("German customers spend more per transaction.")
+else:
+    print("Both countries spend the same per transaction.")
+
+Average spend per transaction:
+UK: 234.84
+Germany: 239.03
+German customers spend more per transaction.
+
+
+--- markdown ---
+Q2. Do discounted purchases differ in average value from non-discounted purchases?
+
+
+--- code ---
+# Create discounted vs non-discounted groups
+discounted     = df_trans[df_trans["discount_used"] > 0]
+non_discounted = df_trans[df_trans["discount_used"] == 0]
+
+# Compute average purchase value
+avg_discounted     = discounted["purchase_value"].mean()
+avg_non_discounted = non_discounted["purchase_value"].mean()
+
+print("Average purchase value:")
+print(f"Discounted purchases: {avg_discounted:.2f}")
+print(f"Non-discounted purchases: {avg_non_discounted:.2f}")
+
+# Compare
+if avg_discounted > avg_non_discounted:
+    print("Discounted purchases have a higher average value.")
+elif avg_discounted < avg_non_discounted:
+    print("Non-discounted purchases have a higher average value.")
+else:
+    print("Both groups have the same average value.")
+
+Average purchase value:
+Discounted purchases: 235.61
+Non-discounted purchases: 234.56
+Discounted purchases have a higher average value.
+
+
+--- markdown ---
+Q3. Do male and female customers differ in average purchase value?
+
+
+--- code ---
+# Merge transactions with customers
+df_merged = df_trans.merge(df_cust, on="customer_id", how="left")
+
+# Filter male and female customers
+male_df   = df_merged[df_merged["gender"] == "Male"]
+female_df = df_merged[df_merged["gender"] == "Female"]
+
+# Compute average purchase value
+male_avg   = male_df["purchase_value"].mean()
+female_avg = female_df["purchase_value"].mean()
+
+print("Average purchase value:")
+print(f"Male customers:   {male_avg:.2f}")
+print(f"Female customers: {female_avg:.2f}")
+
+# Compare
+if male_avg > female_avg:
+    print("Male customers spend more per transaction.")
+elif male_avg < female_avg:
+    print("Female customers spend more per transaction.")
+else:
+    print("Male and female customers spend the same per transaction.")
+
+Average purchase value:
+Male customers:   234.81
+Female customers: 235.94
+Female customers spend more per transaction.
+
+
+--- markdown ---
+Q4. Do customers acquired via email spend more than those from social channels?
+
+
+--- code ---
+# Merge transactions with customers
+df_merged = df_trans.merge(df_cust, on="customer_id", how="left")
+
+# Filter customers by acquisition channel
+email_df  = df_merged[df_merged["acquisition_channel"] == "email"]
+social_df = df_merged[df_merged["acquisition_channel"] == "social"]
+
+# Compute average purchase value
+email_avg  = email_df["purchase_value"].mean()
+social_avg = social_df["purchase_value"].mean()
+
+print("Average purchase value:")
+print(f"Email channel:  {email_avg:.2f}")
+print(f"Social channel: {social_avg:.2f}")
+
+# Compare
+if email_avg > social_avg:
+    print("Email-acquired customers spend more per transaction.")
+elif email_avg < social_avg:
+    print("Social-acquired customers spend more per transaction.")
+else:
+    print("Both channels have the same average spend.")
+Average purchase value:
+Email channel:  235.99
+Social channel: 232.19
+Email-acquired customers spend more per transaction.
+
+
+--- markdown ---
+Q5. Is device type associated with conversion?
+
+
+--- code ---
+# web_sessions.csv has both converted and device type columns.
+# Group by device type and compute conversion rate
+conversion_by_device = df_web.groupby("device_type")["converted"].mean().reset_index()
+
+print("Conversion rate by device type:")
+print(conversion_by_device)
+Conversion rate by device type:
+  device_type  converted
+0     desktop   0.132883
+1      mobile   0.130811
+2      tablet   0.129552
+
+
+--- markdown ---
+Q6. Is acquisition channel associated with conversion?
+
+
+--- code ---
+
+# Merge customers with campaign conversion data
+df_merged = df_cust.merge(df_camp[["customer_id", "converted"]], on="customer_id", how="left")
+
+# Compute conversion rate by acquisition channel
+conversion_by_channel = (
+    df_merged.groupby("acquisition_channel")["converted"].mean().reset_index()
+)
+
+print("Conversion rate by acquisition channel:")
+print(conversion_by_channel)
+Conversion rate by acquisition channel:
+  acquisition_channel  converted
+0               Email   0.411348
+1               email   0.418473
+2             organic   0.422149
+3         paid_Search   0.418367
+4         paid_search   0.403994
+5            referral   0.416139
+6              social   0.413396
+
+
+--- markdown ---
+Q7. Is product category associated with discount usage?
+
+
+--- code ---
+ # Compute average discount usage per product category
+discount_by_category = (
+    df_trans.groupby("product_category")["discount_used"].mean().reset_index()
+)
+
+print("Average discount usage by product category:")
+print(discount_by_category)
+Average discount usage by product category:
+  product_category  discount_used
+0           beauty       0.300685
+1      electronics       0.297953
+2          fashion       0.297454
+3             home       0.304220
+4           sports       0.303705
+5             toys       0.299447
+
+
+--- markdown ---
+Q8. Is time on site correlated with purchase value?
+
+
+--- code ---
+# Merge web sessions with transactions
+df_merged = df_web.merge(df_trans[["customer_id", "purchase_value"]], 
+                         on="customer_id", how="left")
+
+# Compute correlation
+correlation = df_merged["time_on_site"].corr(df_merged["purchase_value"])
+
+print(f"Correlation between time on site and purchase value: {correlation:.4f}")
+
+# Interpretation
+if correlation > 0:
+    print("There is a positive correlation: customers who spend more time tend to purchase more.")
+elif correlation < 0:
+    print("There is a negative correlation: customers who spend more time tend to purchase less.")
+else:
+    print("There is no correlation between time on site and purchase value.")
+Correlation between time on site and purchase value: 0.0002
+There is a positive correlation: customers who spend more time tend to purchase more.
+
+
+--- code ---
+df_web.head()
+
+
+--- markdown ---
+Q9. Is number of pages viewed correlated with purchase value?
+
+
+--- code ---
+# Compute correlation
+correlation = df_merged["pages_viewed"].corr(df_merged["purchase_value"])
+
+print(f"Correlation between pages viewed and purchase value: {correlation:.4f}")
+
+# Interpretation
+if correlation > 0:
+    print("Positive correlation: customers who view more pages tend to spend more.")
+elif correlation < 0:
+    print("Negative correlation: customers who view more pages tend to spend less.")
+else:
+    print("No correlation between pages viewed and purchase value.")
+Correlation between pages viewed and purchase value: -0.0036
+Negative correlation: customers who view more pages tend to spend less.
+
+
+--- markdown ---
+Q10. Is time on site correlated with pages viewed?
+
+
+--- code ---
+# Compute correlation directly from df_web
+correlation = df_web["time_on_site"].corr(df_web["pages_viewed"])
+
+print(f"Correlation between time on site and pages viewed: {correlation:.4f}")
+
+# Interpretation
+if correlation > 0:
+    print("Positive correlation: customers who spend more time tend to view more pages.")
+elif correlation < 0:
+    print("Negative correlation: customers who spend more time tend to view fewer pages.")
+else:
+    print("No correlation between time on site and pages viewed.")
+Correlation between time on site and pages viewed: 0.0045
+Positive correlation: customers who spend more time tend to view more pages.
+
+
+--- markdown ---
+### Challenges
+
+
+--- markdown ---
+C1. Explore whether high-spending customers behave differently in terms of session time.
+
+Define “high spending” yourself.
+
+
+--- code ---
+
+# Step 1: Compute total spend per customer
+customer_spend = df_trans.groupby("customer_id")["purchase_value"].sum().reset_index()
+
+# Step 2: Define high-spending customers (top 20%)
+threshold = customer_spend["purchase_value"].quantile(0.80)
+customer_spend["high_spender"] = customer_spend["purchase_value"] >= threshold
+
+# Step 3: Merge with web session data
+df_merged = df_web.merge(customer_spend, on="customer_id", how="left")
+
+# Step 4: Compute average session time for high vs non-high spenders
+
+high_avg  = df_merged[df_merged["high_spender"] == True]["time_on_site"].mean()
+low_avg   = df_merged[df_merged["high_spender"] == False]["time_on_site"].mean()
+
+print("Average session time:")
+print(f"High spenders: {high_avg:.2f} minutes")
+print(f"Other customers: {low_avg:.2f} minutes")
+
+# Step 5: Interpretation
+if high_avg > low_avg:
+    print("High-spending customers spend more time on the site.")
+elif high_avg < low_avg:
+    print("High-spending customers spend less time on the site.")
+else:
+    print("Both groups spend the same amount of time on the site.")
+Average session time:
+High spenders: 302.10 minutes
+Other customers: 300.57 minutes
+High-spending customers spend more time on the site.
+
+
+--- markdown ---
+C2. Find a relationship (difference or correlation) that you believe is meaningful for business strategy.
+
+Explain why.
+
+
+--- code ---
+# Merge web sessions with transactions
+df_merged = df_web.merge(df_trans[["customer_id", "purchase_value"]],
+                         on="customer_id", how="left")
+
+# Compute correlations
+corr_time_amount  = df_merged["time_on_site"].corr(df_merged["purchase_value"])
+corr_pages_amount = df_merged["pages_viewed"].corr(df_merged["purchase_value"])
+
+print(f"Correlation: Time spent vs Purchase value = {corr_time_amount:.4f}")
+print(f"Correlation: Pages viewed vs Purchase value = {corr_pages_amount:.4f}")
+
+# Interpretation
+if corr_time_amount > 0.3 or corr_pages_amount > 0.3:
+    print("High engagement (time/pages) is strongly associated with higher purchase value.")
+elif corr_time_amount < -0.3 or corr_pages_amount < -0.3:
+    print("Higher engagement is associated with lower purchase value.")
+else:
+    print("Engagement and purchase value have weak or no correlation.")
+
+
+
+# Define simple, human-friendly time buckets
+bins = [0, 50, 100, 150, 200, df_merged["time_on_site"].max()]
+labels = ["0–50", "50–100", "100–150", "150–200", "200+"]
+
+df_merged["time_bucket"] = pd.cut(df_merged["time_on_site"], bins=bins, labels=labels, include_lowest=True)
+
+# Compute average purchase value per bucket
+avg_values = df_merged.groupby("time_bucket")["purchase_value"].mean().reset_index()
+
+# Plot
+plt.figure(figsize=(10,6))
+plt.plot(avg_values["time_bucket"], avg_values["purchase_value"], marker="o")
+plt.title("Average Purchase Value by Time Spent on Site")
+plt.xlabel("Time Spent (minutes)")
+plt.ylabel("Average Purchase Value")
+plt.grid(True)
+plt.tight_layout()
+plt.show()
+Correlation: Time spent vs Purchase value = 0.0002
+Correlation: Pages viewed vs Purchase value = -0.0036
+Engagement and purchase value have weak or no correlation.
+
+
+--- markdown ---
+c3. Identify a statistically significant result that may not be practically meaningful.
+
+Explain why statistical significance ≠ business importance.
+
+
+--- code ---
+""" 
+Statistical significance means the result is unlikely due to chance.
+Business importance means the result is large enough to matter.
+A result can be statistically significant but practically meaningless if the effect size is tiny, even though the p‑value is small.
+
+"""

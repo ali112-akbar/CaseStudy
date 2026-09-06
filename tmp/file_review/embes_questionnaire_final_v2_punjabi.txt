@@ -1,0 +1,3388 @@
+
+--- PDF PAGE 1 ---
+ 1
+SCRIPTING DP FOR QUESTIONNAIRE EMBES 
+ 
+Key 
+Bq1 etc – items currently proposed for inclusion in the post-election main BES 
+Q1 etc – items that were included in the 1997 ethnic minority survey 
+L1 etc – items that are included in the 2009 Leverhulme survey on social cohesion 
+(currently in the field) 
+Prejwhom – labels for new items 
+EDS – Ethnic Diversity Survey (Canada) 
+[text] – text only display screens 
+ 
+ 
+Section 1: Classification – Part 1 
+ 
+[text] ASK ALL 
+ 
+x; HxD D hF iG آپ D ذات اور آپ D |2 x\eG D k1 iG آپ : ue7 : keg72 Jk7 kE 
+ 
+[bq98] ASK ALL 
+  
+ا ueeD uIkXG DxD ر xD:  6 د D e< 
+ 
+1  xG 
+2  @ 
+NO DK NO REF 
+ 
+[bq99]  ASK ALL 
+  
+cgT2 xbFk: x2 آپ D xd@  ePD g3  
+xQ ueeD:  xd@ 1 ا k: درج M xD 
+ 97+ D hF D 97 
+ 
+u8:  18 ... 97 
+NO DK NO REF 
+ 
+[bq100] ASK ALL 
+ 
+ kD P1 
+  
+ kiD iG c]G kPa:xD J D B ا آپ x2 ان iG : |D kD ا k3J J  
+ اہ
+x1 xD ا 6 اس kD – kD 1 : د 
+ 
+1  k; u; 
+2  k:g3 D xdJ رہ ر iI 
+3  c9 PBkM )k; HJ D u]1( 
+4  > PBkM 
+5  i1 /  را 
+6  3 kfe3 )gND k; ifH LJ( 
+DK REF 
+ 
+[bq108a] ASK ALL 
+ 
+UK Data Archive Study Number 6970 - British Election Study Ethnic Minority Survey, 2010
+
+--- PDF PAGE 2 ---
+ 2
+آپ D xgE iG ePD F iI x1 xD ^Fk1 اور T1 دو D Gk; M xD 
+u8: 1 ... 97 
+DK REF 
+ 
+[bq108b] IF MORE THAN ONE AT [bq108a] 
+  
+ ان iG : ePD 18 k: : D xd@ D iI 
+ 
+ u8: 0 ... 97 
+ DK REF 
+ 
+ DP CHECK: answer at bq108b cannot exceed answer at bq108a 
+  
+ 
+[bq58]  ASK ALL 
+ 
+اب iG آپ D cWH |2 x\eG اور GC 9ke;n D k1 iG آپ : ue7 : keg72 kPIk7 J  
+ 
+:l : cf2 x1 xD اس kD x2 kbH ڈا اور gSG iLkP1 D ان iG : D آپ D cWH n@kd6 D M xPf1 
+و k3xD J  
+ 
+x1 xD ا 6 اس kD – kD 2 : د 
+ 
+ui_: kB 
+1. ui_: kB – Hk>x1 
+2. ui_: kB – آ 
+3. ui_: kB – Hk9 u1 kM آ ki 
+4. LD اور ui_: kB |2 x\eG 
+ 
+cVG 
+5. cVG ui_: kB و ki: kB LkiNM xD 
+6. cVG ui_: kB و ki: kB ا 
+7. cVG ui_: kB اور ا 
+8. LD اور cVG |2 x\eG 
+ 
+ا 
+9. ا kM ا Hk>x1 – ueI 
+10. ا kM ا Hk>x1 – k2HkPWD 
+11. ا kM ا Hk>x1 – cbe1 د 
+12. LD اور ا / ا Hk>x1 |2 x\eG 
+ 
+ki: kB 
+13. ki: kB kM ki: kB Hk>x1 – LkiNM xD 
+14. ki: kB kM ki: kB Hk>x1 – ا 
+15. LD اور ki: kB / ki: kB Hk>x1 |2 x\eG 
+ 
+16. ei7 
+ 
+17. LD اور cWH n@kd6 
+DK REF 
+ 
+ig72 D آ k; u; iI kM g3k: D xdJ رہ ر iI [bq100 = 1 or 2] 
+ 
+
+--- PDF PAGE 3 ---
+ 3
+اور ا kD x2 kbH ڈا LJ kiD آپ gSG kP1 Pa: iI D آپ D {textfill: 
+husband/wife/partner’s} D cWH n@kd6 D M xPf1 و ان iG : D k3xD   
+ 
+kD د – kD 2 – وا D 
+ 
+ui_: kB 
+1. ui_: kB – Hk>x1 
+2. ui_: kB – آ 
+3. ui_: kB – Hk9 u1 kM آ ki: 
+4. LD اور ui_: kB |2 x\eG 
+ 
+cVG 
+5. cVG ui_: kB و ki: kB LkiNM xD 
+6. cVG ui_: kB و ki: kB ا 
+7. cVG i_:u kB اور ا 
+8. LD اور cVG |2 x\eG 
+ 
+ا 
+9. ا kM ا Hk>x1 – ueI 
+10. ا kM ا Hk>x1 – HkPWDk2 
+11. ا kM ا Hk>x1 – cbe1 د 
+12. LD اور ا / ا Hk>x1 |2 x\eG 
+ 
+ki: kB 
+13. ki: kB kM k kB Hk>x1 – LkiNM xD 
+14. ki: kB kM ki: kB Hk>x1 – ا 
+15. LD اور ki: kB / ki: kB Hk>x1 |2 x\eG 
+ 
+16. ei7 
+ 
+17. LD اور cWH n@kd6 
+DK REF 
+  
+ 
+[Natid]  ASK ALL 
+ 
+ آپ D ki9 iG آپ D GC n9ke; kiD HJ iIk7 x1 xD ا 6 اس kD – kD 3 : ie7 آپ keP6 g1 D kM 
+ز kD ا k3J J ا 7 Pa: iI  
+ 
+1. ا 
+2. ا 
+3. و 
+4. آ 
+5. Hk>x1 
+6. د [write in] 
+7. (None of these) – 1 آورد 
+DK REF 
+ 
+[Natid2] ASK OR COMPUTE FROM NATID IF ONLY ONE ANSWER 
+ 
+اور ا آپ D kee7 y2 3 آپ ا ذات D k1 iG kWi6 P7: iI اس D M xPf1 و D k3xD J 
+ 
+ DP NOTE – MASK ANSWERS FROM NATID 
+
+--- PDF PAGE 4 ---
+ 4
+ 
+1. ا 
+2. ا 
+3. و 
+4. آ 
+5. Hk>x1 
+6. [ANSWER FROM NATID CODE 6] 
+DK REF 
+ 
+[bq105a] ASK ALL 
+ 
+kiD آپ 9 D WD YVG lJwG :  PgSd: iI 
+ 
+1. kI 
+2. ifH 
+DK REF 
+ 
+[bq105b] IF ‘yes’ at [bq105a] 
+  
+ D k: 
+ x1 xD ا 6 اس kD – kD 4 : د 
+ 
+1. LkWi@ 
+2. fM 
+3. ueI 
+4. cWG 
+5. a: 
+6. 1 
+7. د [write in] 
+ 
+DK REF 
+ 
+ 
+ 
+[bq105b_c] If Christian [bq105a=1] 
+ 
+ |D LkWi@ `N> kM ui`@ : آپ kD c]3 J 
+ 
+1. ا 
+2. dWPO1 
+3. FgPiD 
+4. o:vgPiG 
+5. Q:aiQei2 
+6. آر 
+7. د [write in] 
+8. YVG > x2 LD ifH 
+ 
+DK REF 
+ 
+  
+ 
+[bq105b_m] If Christian [bq105a=4] 
+ 
+ 
+|D cWG ui`@ : آپ kD c]3 J 
+ 
+
+--- PDF PAGE 5 ---
+ 5
+1. ّ) _e8 د cM x1( 
+2. ]i; )ا xX@ k: ما D i]NPG ا xI1( 
+3. B< ui`@ 
+4. 9: kN@ 
+5. ا 
+6. ان iG : LD ifH 
+7. د [write in] 
+ 
+ DK REF 
+ 
+ 
+[bq105c] IF ‘yes’ at [bq105a] 
+ 
+آپ kD lJwG آپ D hF |D uC ا J 
+x1 xD ا 6 اس kD – kD 5 : د 
+ 
+1. ا ا 
+2. BkD ا 
+3. TD 8u 3 ا 
+3. ز ا ifH 
+4. aFk1 g1 ا ifH 
+ DK REF 
+ 
+[EDS_BK1] IF ‘yes’ at [bq105a] 
+ 
+cgT2 12 eifG iG آپ k; kM zifS3 و i_a3 Wi6 x2 @D دو EF D 3k: ePD N3xG NIwG 
+iGxEx: iG M x; kM NIwG kGu9 kM beQiG iG x=k8 LJ i 
+ 
+x1 xD ا 6 اس kD – kD 6 : د 
+ 
+1. روزا D : D ا k1 
+2. P_J iG D : D ا k1 
+3. eifG iG D : D ا k1 
+4. gND kgND )aiF eifG iG ا k1 : D( 
+5. x< kIi3 D CG x2 
+6. aFk1 g1 ifH 
+ 
+DK REF 
+ 
+[EDS_BK2]  IF ‘yes’ at [bq105a] 
+ 
+cgT2 12 eifG iG آپ H 9 ا > x2 ePD N3xG NIwG kiGxEx: ا دی iI  اس iG xgE x2 kM WD د 
+k`G x2 ادا D Hk6 وا kdH xG اور kN@ D د ica; Gk; Pa:J iI   
+ 
+x1 xD ا 6 اس kD – kD 7 : د 
+ 
+ 
+1. وزا rHk2 k1 
+2. روزا D : D ا k1 
+3. P_J iG D : D ا k1 
+4. eifG iG D : D ا k1 
+5. x< kIi3 D CG x2 
+6. aFk1 g1 ifH 
+ 
+DK  REF 
+
+--- PDF PAGE 6 ---
+ 6
+Section 2: Outcomes (mainly from common core) 
+ 
+ 
+[text]  ASK ALL 
+ 
+اب ue7 : n:ki: اور را د D k1 iG 
+ 
+[bq8aX] ASK ALL 
+Gd@ > x2 k1 M xD 3 kiD آپ 9 D xNiF zeD xNF ڈ Scottish National/Plaid 
+Cymru1) kM kiD PgSd: iI 
+ 
+0 LD ifH / ifH 
+1 xNiF 
+2 zeD 
+3 xNF ڈ 
+4 ا eXiH k2 (SNP) 
+5 vic2 xdiD 
+6 M xE k2 
+7 vQiLkHM vbeD ا k2 (UKIP) 
+8 }4x1 eXiH k2 (BNP) 
+9 TD اور – x1 xD 6 g1 J xM xU3 M xD (WRITE IN) 
+DK REF 
+ 
+[bq8bX] IF ‘none/no’, DK OR REFUSAL AT [bq8aX=1, DK or REF] 
+  
+kiD آپ Gd@ > x2 9 D دو D 1 nNWH ان iG : WD ر : g3 lM xC PgSd: iI 
+ 
+1 kI 
+2 ifH 
+ 
+DK REF 
+ 
+[bq8cX] IF ‘yes’ AT [Bq8bX=1] 
+  
+ وہ n@kd6 D : J 
+ 
+0 LD ifH / ifH 
+1 xNiF 
+2 zeD 
+3 xNF ڈ 
+4 ا eXiH k2 (SNP) 
+5 vic2 xdiD 
+6 M xE k2 
+7 vQiLkHM vbeD ا k2 (UKIP) 
+8 }4x1 eXiH k2 (BNP) 
+9 LD اور n@kd6 – x1 xD ا xM xU3 M xD (WRITE IN) 
+ 
+DK REF 
+ 
+[bq9] IF PARTY GIVEN AT [Bq8ax] OR AT [Bq8cX] (=1-9 at either 
+question) 
+                                                 
+1 ax2akGc]Gaآakie1aDaHxQcBaوaاورaاaدورانaDax:a2aاسaEJ 
+
+--- PDF PAGE 7 ---
+ 7
+  
+kiD آپ 9 BkDD NZG (party)، Hk_YeG u8 3 NZG kM LD ز NZG ifH ifD E 
+ 
+1 BkD NZG 
+2 Hk_YeG u8 3 NZG 
+3 LD ز NZG ifH 
+DK REF 
+  
+ [bq10] ASK ALL 
+  
+اس k: 6 hG D HJ وا Gd@ ا iG آپ D د |D uC g3…  
+ 
+READ OUT 
+ 
+1 BkD د g3 
+2 TD u8 3 د g3 
+3 ز د ifH g3 
+4 kM aFk1 g1 د ifH g3 
+DK REF 
+ 
+[bq11] ASK ALL 
+ 
+آپ D kGc]G D u8 3 kiD آپ kD kH ا ر iG e]M را د D UPWG ا D n:xfB iG kM 3 
+اس P2 x2 kM ifD اور درج J  
+MULTICODE 
+(DP NOTE: CODES 1 AND 2 CAN BE MULTICODED) 
+ 
+1 kI – kf6 ا ر 
+2 fHi - LD اور P2 
+3 ifH 
+DK REF 
+ 
+[Wherreg] IF REGISTERED AT ANOTHER ADDRESS [BQ11 = 2] 
+ 
+وہ دو P2 kfD J kf6 آپ kD kH ا ر iG درج J 
+ 
+P2 D iY_3 / C@ / o:2 D ر M xD 
+ 
+UM x< 
+DK REF 
+ 
+ 
+[Elecform] IF REGISTERED TO VOTE [BQ11 = 1 OR 2] 
+ 
+اور kiD آپ H kB 9 : J ُ kiD kM آپ D lHk6 : WD اور H ُ kiD  
+ 
+kB 6ax> kD x\H آ kEJ اس D kRG M J 
+ 
+ا ueeD وو ر kB د 
+ 
+1. kI – 9 : J ُ kiD 
+2. ifH – xiG lHk6 : WD اور H ُ kiD 
+3. ر kB kD c@ ifH kg3 
+ DK REF 
+ 
+[Whoform] IF SOMEONE ELSE FILLED IN FORM [ELECFORM = 2] 
+
+--- PDF PAGE 8 ---
+ 8
+ 
+آپ D lHk6 : kB ُ HxD واﻻ D kg3 
+ 
+1. وا kM n:x2 x: 
+2. xI; / i1 / g3k: 
+3. Qi1 / kQi1 
+4. د ر دار 
+5. Gk`G 3x;k]G i\e3 kD LD xB 
+6. :ki: n@kd6 kD DL xB 
+7. آپ : xiA وا LD اور xB 
+ DK REF 
+ 
+[Langform] ASK IF FILLED IN FORM THEMSELVES [ELECFORM = 1] 
+ 
+kiD آپ H 6 kB ُ kiD kg3 وہ، ا iG kM WD اور ز iG kg3 
+ 
+1. ا iG 
+2. WD اور ز iG 
+ DK REF 
+ 
+[Q160] IF NAME IS NOT ON ELECTORAL REGISTER [BQ11 = 3] 
+ 
+ا ر iG آپ kD ا H HJ D ا و kiD iI 
+ 
+PROMPT TO PRE-CODES. CODE ALL THAT APPLY 
+ 
+1 iG ووٹ د kD u`8 J 
+2 [cA : xiG ا g7 kiE 
+3 gSG ا xD kD `M x> c]G ifH kg3 
+4 iG ifH kPIk7 kg3 D  دو F xiG k1 iG iHk6 
+5 gSG ا iG د ifH J 
+6 gSG gND g1 در kB ifH G 
+7 iG k8 J iG `PeG xDJ آ J 
+8 iG B > x2 اس xa7 iG ifH kPa:y2 
+9 TD د و [WRITE IN] 
+DK REF 
+ 
+UM x< – د D : و 
+ 
+[Q160a]ASK IF DON’T KNOW WHY NOT REGISTERED TO VOTE [Q160 = DK] 
+ 
+kiD درج ذ iG : WD : P2 kPc7 J D آپ kD kH ا ر iG iD ifH J 
+x1 xD ا 6 اس kD – kD 8 : د 
+ 
+1 iG ووٹ د kD u`8 J 
+2 [cA : xiG ا g7 kiE 
+3 gSG ا xD kD `M x> c] ifH kg3 
+4 iG ifH kPIk7 kg3 D  دو F xiG k1 iG iHk6 
+5 gSG ا iG د ifH J 
+6 gSG gND g1 در kB ifH G 
+7 iG k8 J iG `PeG xDJ آ J 
+8 iG B > x2 اس xa7 iG ifH kPa:y2 
+9 TD د و [WRITE IN] 
+10 ان iG : LD ifH 
+
+--- PDF PAGE 9 ---
+ 9
+DK REF 
+ 
+ 
+[Notent]   ASK IF NOT ENTITLED TO VOTE [Q160 = 1 or Q160a = 1] 
+ 
+ |D و) و (: آپ ووٹ د D u`8 ifH iI 
+ 
+UM x< 
+ 
+DK REF 
+  
+Ratings of the political parties  
+ 
+[BQ21A..BQ21E] ASK ALL 
+ 
+ DP INSTRUCTION: ROTATE BQ21 FOR THE FOLLOWING LOOP VALUES: 
+  
+ a. xNiF k2 
+ b. zeD k2 
+ c. xNF ڈ 
+d.  M xE k2 
+ e. BNP 
+ 
+ IF FIRST ITEM IN bq21:  
+0 : 10 3 ec7 وا ا Hkdi2 x2 |6 iG 0 kD lc[G J cD > x2 ueW2kH اور 10 kD lc[G J cD > x2 
+ueW2 آپ D [LOOP ITEM] D k1 iG kWiD  k3J J  
+ x1 xD ا 6 اس kD – kD 9 : د 
+ 
+IF NOT FIRST ITEM IN bq21:  
+)اور … D k1 iG آپ D kWiD WUG k3J J( [LOOP ITEM]? 
+ x1 xD ا 6 اس kD – kD 9 : د 
+ 
+0 cD > x2 ueW2kH 
+1 ا 
+2 دو 
+3 i3 
+4 k7 
+5 rHk2 
+6 7 
+7 k: 
+8 آ 
+9 H 
+10 cD > x2 ueW2 
+DK REF 
+ 
+
+--- PDF PAGE 10 ---
+ 10
+[bq21f] ASK ALL IN ENGLAND 
+  
+)اور … D k1 iG آپ D kWiD WUG k3J J( … vQiLkHM vbeD ا k2 (UKIP)؟  
+x1 xD ا 6 اس kD – kD 9 : د 
+ 
+0 cD > x2 ueW2kH 
+1 ا  
+2 دو 
+3 i3 
+4 k7 
+5 rHk2 
+6 7 
+7 k: 
+8 آ 
+9 H 
+10 cD > x2 ueW2 
+DK REF 
+ 
+[bq21g] ASK ALL IN SCOTLAND 
+ 
+ )اور … D k1 iG آپ D kWiD WUG k3J J(  
+ …ا eXiH k2 (SNP)؟  
+ x1 xD ا 6 اس kD – kD 9 : د 
+ 
+0 cD > x2 ueW2kH 
+1 ا 
+2 دو 
+3 i3 
+4 k7 
+5 rHk2 
+6 7 
+7 3k: 
+8 آ 
+9 H 
+10 cD > x2 ueW2 
+ DK REF 
+ 
+[bq21h] ASK ALL IN WALES 
+  
+ )اور … D k1 iG آپ D kWiD WUG k3J J(  
+ …vic2 xdiD  
+ x1 xD ا 6 اس kD – kD 9 : د 
+ 
+0 cD > x2 ueW2kH 
+1 ا 
+2 دو 
+3 i3 
+4 k7 
+5 rHk2 
+6 7 
+7 3k: 
+8 آ 
+9 H 
+
+--- PDF PAGE 11 ---
+ 11
+10 cD  x2 ueW2 
+DK REF 
+ 
+ 
+ 
+[BQ20A..BQ20D] ASK ALL 
+ 
+ DP INSTRUCTION: ROTATE BQ20 FOR THE FOLLOWING LOOP VALUES: 
+  
+ a. و xQWeG iG k2 
+ b. ٍ Hk>x1 uP:ki: 
+ c. |iF2 
+  
+ 
+ IF FIRST ITEM IN bq20:  
+اب، k2 Wi6 Hk>x1 :ki: اداروں D k1 iG P7: LJ x1 xD M HkP1 D hF 0 k3 10 kD Hkdi2 
+ا M xD D درج ذ iG : xI ا x2 آپ D |D uC ا J |6 iG 0 kD lc[G J ا ifH اور 10 kD 
+lc[G J u8 در ا 
+ 
+l: : cf2 3 آپ D [LOOP ITEM] x2 |D u8 3 ا J  
+x1 xD ا ا اس kD – kD 10 : د 
+ 
+IF NOT FIRST ITEM IN bq20:  
+ آپ D [LOOP ITEM] x2 |D u8 3 ا J 
+ x1 xD ا 6 اس kD – kD 10 : د 
+ 
+0 ا ifH J 
+1 ا 
+2 دو 
+3 i3 
+4 k7 
+5 rHk2 
+6 7 
+7 k: 
+8 آ 
+9 H 
+10 u8 در ا 
+DK REF 
+ 
+ 
+Party Leaders 
+ 
+ 
+[preq141-143] ASK ALL 
+ 
+ DP INSTRUCTION: ROTATE Preq14 FOR THE FOLLOWING LOOP VALUES: 
+  
+a. E x1 
+b. ڈ xdiD 
+c. ِ icD 
+ 
+ IF FIRST ITEM IN PREQ14 
+
+--- PDF PAGE 12 ---
+ 12
+اب J ا UdF D hF n@kd6 D MuLkC k1D iG P7: iI 0 : 10 3 ec7 واﻻ ا Hkdi2 ا 
+3xD LJ |6 iG 0 kD lc[G J cD > x2 uMueW2kH اور 10 kD lc[G J cD > x2 uMueW2 آپ D [LOOP 
+ITEM]  D k1 iG kWiD WUG k3J J 
+x1 xD ا 6 اس kD – kD 13 : د 
+  
+ ا x= J: ا D و آپ D [LOOP ITEM] D k1 iG kWi6 WUG J x1 xD اس k1 iG g1 
+i7: 
+ 
+ IF NOT FIRST ITEM IN PREQ14 
+ )اور…D k1 iG آپ D kWiD WUG k3J J( 
+[LOOP ITEM]? 
+ x1 xD ا 6 اس kD – kD 13 : د 
+ا x= J: ا D و آپ D [LOOP ITEM] D k1 iG kWi6 WUG J x1 xD اس k1 iG g1 
+i7: 
+ 
+0 cD > x2 ueW2kH 
+1 ا 
+2 دو 
+3 i3 
+4 k7 
+5 rHk2 
+6 7 
+7 k: 
+8 آ 
+9 H 
+10 cD > x2 ueW2 
+ DK REF 
+ 
+[PreQ144] ASK ALL IN SCOTLAND 
+  
+ )اور…D k1 iG آپ D kWiD WUG k3J J( 
+ ا vHdFk:  
+ 
+ x1 xD ا 6 اس kD – kD 13 : د 
+ x x= J: ا D و آپ D ا vHdFk: D k1 iG kWi6 WUG J x1 xD اس k1 iG g1 i7:  
+ 
+0 cD > x2 ueW2kH 
+1 ا 
+2 دو 
+3 i3 
+4 k7 
+5 rHk2 
+6 7 
+7 k: 
+8 آ 
+9 H 
+10 cD > x2 ueW2kH 
+ DK REF 
+ 
+[PreQ145] ASK ALL IN WALES 
+  
+ اور…D k1 iG آپ D kWiD WUG k3J J( 
+
+--- PDF PAGE 13 ---
+ 13
+ ا وا zHk6  
+ 
+ x1 xD ا 6 اس kD – kD 13 : د 
+ا x= J: ا D و آپ D ا وا zHk6 D k1 iG kWi6 WUG J x1 xD اس k1 iG g1 i7: 
+  
+0 cD > x2 ueW2kH 
+1 ا 
+2 دو 
+3 i3 
+4 k7 
+5 rHk2 
+6 7 
+7 k: 
+8 آ 
+9 H 
+10 cD > x2 ueW2kH 
+ DK REF 
+ 
+ 
+ 
+Party Membership 
+ 
+ 
+ 
+[b3023] ASK ALL 
+kiD آپ M ifD E D iHk>x1 iG LD g1 k2 آپ D آراء D EueLkdH `]G u8 3 ا x> 3xD J 
+ 
+1 kI 
+2 ifH 
+DK REF 
+ 
+[b3024] IF B3023 = YES 
+D : n@kd6 آپ D آراء D M xPf1 EueLkdH 3xD J 
+ 
+1 xNiF 
+2 zeD 
+3 xNF ڈ 
+4 ا eXiH k2 (SNP) 
+5 vic2 xdiD 
+6 M xE k2 
+7 vQiLkHM vbeD ا k2 (UKIP) 
+8 }4x1 eXiH k2 (BNP) 
+9 د [write in] 
+DK REF 
+ 
+[bq82] ASK ALL 
+ 
+@dSG > x2 اس cG iG  f d 6n |6 `M x> : kD 3xD J kiD آپ اس : hd[G kM xiA hd[G iI  
+ x1 xD ا 6 اس kD – kD 14 : د 
+
+--- PDF PAGE 14 ---
+ 14
+ 
+1 BkD hd[G 
+2 Hk_YeG u8 3 hd[G 
+3 g3 k: xiA hd[G 
+4 BkD xiA hd[G 
+DK REF 
+ 
+[text] ASK ALL 
+ 
+اب ]1 : اس k1 iG D آپ n:ki: kM 3x;k]G ا iG |D uC xEx: iI 
+ 
+[bq55b] ASK ALL 
+   
+cgT2 ue7 Fk: iG kiD آپ H n:ki: kM 3x;k]G ا iG niFd; ا HxD D hF ر kD Dki J 
+ 
+1 kI – iG H ر kD kiD J 
+2 ifH – iG H ر kD ifH kiD J 
+DK REF 
+ 
+ 
+ 
+[bq55c]  ASK ALL 
+ 
+cgT2 ue7 Fk: iG آپ ر i[e3 Wi6 Gk`G 3x;k]G ا ر 
+ادارہ، kM ا cDl iG |D u8 3 
+xEx: ر iI 
+ 
+x1 xD ا 6 اس kD – kD 55 : د 
+ 
+1 BkD xEx: 
+2 TD u8 3 xEx: 
+3 g3 k: xEx: 
+4 aFk1 g1 xEx: ifH / niFd; ki ifH D 
+DK REF 
+ 
+ 
+ 
+[demo12] ASK ALL 
+ 
+cgT2 12 eifG iG kiD آپ H @ ا kM د D k1 iG ا }M X3 kD ا HxD D hF ا Wi6 
+ر kM xIk\G iG nDx; D J 
+ 
+1. kI 
+2. ifH 
+DK REF 
+ 
+[petit12]  ASK ALL 
+ 
+cgT2 12 eifG iG kiD آپ H @ ا kM د D k1 iG ا }M X3 kD ا HxD D hF u=x@ x2 
+د kiD J 
+ 
+1. kI 
+2. ifH 
+DK REF 
+ 
+ 
+ASK ALL 
+
+--- PDF PAGE 15 ---
+ 15
+[boyc12] cgT2 12 eifG iG kiD آپ H WD YVG eYG kM nGu9 D ]>k`G iG nDx; D J 
+ 
+1. kI 
+2. ifH 
+DK REF 
+ 
+[Mon12] ASK ALL 
+ 
+2cgT 12 eifG iG kiD آپ D :ki: ا kM و i[e3 D hF ر دی hE J ):ki: n@kd6 D @( 
+ 
+1. kI 
+2. ifH 
+DK REF 
+ 
+ 
+ 
+
+--- PDF PAGE 16 ---
+ 16
+Section 3: Attitudes towards political issues etc (from main 
+BES) 
+Issues in the Election 
+ 
+[bq1] ASK ALL 
+ 
+اب J ue7 oeG Gd@ ر x2 n:ki: D k1 iG k1 3xD iI Hk>x1 n:ki: iG 6 TD g1 J ر J اس iG 
+Gd@ > x2 آپ D |D u8 3 د J  
+ x1 xD ا 6 اس kD – kD 17 : د 
+ 
+1 ز u8 3 
+2 BkD ز 
+3 TD TD 
+4 LD ز ifH 
+5 aFk1 g1 ifH 
+DK REF 
+  
+[bq2a] ASK ALL 
+   
+اب، iG آپ : آج iHk>x1 D در ا اور د D k1 iG ue7 : keg72 Jk7 kE kf6 3 آپ kD : 
+J 3 6G و iG cG D در وا ا ا chWG kiD J  
+6 D ا وا n:xfB : ا D ڈا  
+ا H M xD 
+x hD 6 د 3k6 iI 3 l: : cf2 DwG 6 kD D ڈا 
+ 
+1 ke2 D lFk> 
+2 M ی iHM (the Euro) D iHk>x1 D ر 
+3 M iHM D 3k: iHk>x1 D k`c]3 
+4 ا اور HkC 
+5 ic]3 
+6 8kG 
+7 GC nU< nGu9 
+8 ا زر، iPdiC Gd@ > 2x 
+9 @ `H و d8 
+10 |ai4 kD 
+11 nXi]G D < 
+12 1 روز 
+13 xiG x> ز 
+14 xQ2 D ndiC 
+15 x@ iG e6 
+16 ا iG e6 
+17 د xE D 9 e6 
+18 x3 و / iHk>x1 آ وا ا 
+19 د [write in] 
+88 LD ا ا ifH iI 
+DK REF 
+ 
+[bq2b] IF NOT DK, REF OR ‘There are no important issues’ AT Bq2a 
+ 
+ D : n@kd6 اس cGk]G D 8 HxD D M xPf1 ا J 
+
+--- PDF PAGE 17 ---
+ 17
+ 
+0 LD ifH / LD n@kd6 lM xC aM x3ifH J 
+1 xNiF 
+2 zeD 
+3 xNF ڈ 
+4 ا eXiH k2 (SNP) 
+5 vic2 xdiD 
+6 M xE k2 
+7 kHMvQiL vbeD ا k2 (UKIP) 
+8 }4x1 eXiH k2 (BNP) 
+9 د WRITE IN) 
+DK REF 
+ 
+ [bq3a-bq3f] ASK ALL 
+ 
+ DP INSTRUCTION: ROTATE bq3 FOR THE FOLLOWING LOOP VALUES: 
+ 
+a. iHk>x1 iG x6 
+b.  x3 و 
+c. GC nU< nGu9 
+d. iHk>x1 iG د xE kD x[9 
+e. Gd@ > x2 Xi]Gn 
+ 
+  
+ IF FIRST ITEM IN Bq3: 
+آپ D ki9 iG cgT2 nGa8 H درج ذ ا D ePD ا x> : 8 kiD 
+[LOOP ITEM] 
+ x1 xD ا 6 اس kD – kD 18 : د 
+ IF NOT FIRST ITEM IN Bq3: 
+ )آپ D ki9 iG cgT2 nGa8 H اس ا D ePD ا x> : 8 kiD(: 
+ [LOOP ITEM] 
+ x1 xD ا 6 اس kD – kD 18 : د 
+ 
+1 BkD ا x> 
+2 Hk_YeG u8 3 ا x> 
+3 H ا x> H x1 x> 
+4 Hk_YeG u8 3 x1 x> 
+5 BkD x1 x> 
+DK REF 
+ 
+ 
+Social and political attitudes 
+ 
+  
+ ASK ALL 
+ 
+[bq22a-bq22h]* ASK ALL 
+ 
+*NOTE: WE WISH TO KEEP NAMES FOR THESE VARIABLES COMPARABLE WITH 
+MAIN SURVEY BUT HAVE ADDED SOME NEW ONES INTO THE MIDDLE OF THE 
+LIST.  THE LOOP VALUES BELOW THEREFORE HAVE THE VARIABLE NAME 
+GIVEN TO THE LEFT. 
+ 
+
+--- PDF PAGE 18 ---
+ 18
+ DP INSTRUCTION: ROTATE bq22 FOR THE FOLLOWING LOOP VALUES: 
+[bq22a] a. nGa8 k@ > SG Wi6 EF D 3k: Hk_YeG k3x1 3xD J 
+*[EthA] b. nGa8 k@ > x2 xiG cWH n@kd6 : c]3 ر وا ا D 3k: Hk_YeG k3x1 3xD J 
+[bq22b] c. SG Wi6 F ز : |6 zi7 D CPG 3J iI اور ا ٍ 6 TD <G k3J J اس 
+D ri1 iG ا و xPXi1 ز 9 k3J J  
+*[ethB] d. xiG cWH n@kd6 : c]3 ر وا ا ز : |6 zi7 D CPG 3J iI اور ا 
+ٍ 6 TD <G k3J J اس D ri1 iG ا و xPXi1 ز 9 k3J J 
+[bq22c] e. n:ki: iG xEx: kHJ xi hF اور xiG NeD D hF xG <k8 HxD kD ا ا `M x> 
+J 
+[bq22d] f. n:ki: اور @ ا iG xEx: HJ iG BkD و اور };D D x= 3J J 
+[bq22e] g. n:ki: iG xEx: kHJ ا xE D hF xG <k8 HxD kD ا M xPf1 `M x> J 6 D 
+F د kg1 3xD iI Wi6 Xe2 kbPBkM kM w]G 
+[bq22f] h. ا iG ووٹ د xI xf; kD ZM xB J 
+[bq22g] i. xiG NeD D زaا اور دو kD ki9 J D ووٹ د و D k1 x1 J  
+d. ٍوا اس : LD xB ifH k3y2 J D D : n@kd6 ا iG J ki: kB اور ا ا D hF G آ 
+kD BkD u8 3 و J ر E 
+e. P@kd6 D x< ki: kB اور ا ا D وو iG د ر J ان D آراء iG ifH 
+c. xiA ui_: kB ا D ui_: kB ا D x> ا Wi6 G اور ز D kH <k8 ifH iI aHiD lY]3 
+اور ا c: D و : ا |2 nX2 ڈال د kiE J 
+ 
+ 
+ 
+  
+ IF FIRST ITEM IN Bq22: 
+x1 xD gSG iLkP1 آپ درج ذ xI ا ki1 : |D u8 3 _PG kM xiA _PG iI: 
+[LOOP ITEM] 
+ x1 xD ا 6 اس kD – kD 20
+ : د 
+ IF NOT FIRST ITEM IN Bq22: 
+ )اور آپ اس ki1 : |D u8 3 _PG kM xiA _PG iI(: 
+ [LOOP ITEM] 
+ x1 xD ا 6 اس kD – kD 20 : د 
+  
+1 2 x> _PG 
+2 _PG 
+3 H 3 _PG H xiA _PG 
+4 xiA _PG 
+5 2 x> xiA _PG 
+DK REF 
+ 
+ 
+Economic evaluations  
+ 
+ 
+[bq23] ASK ALL 
+ 
+اب ue7 : ;k]G < D k1 iG آپ D xgE D ;k]G < اس < D c1k`G WiD J 
+6 12 eifG NC g3  
+ x1 xD ا 6 اس kD – kD 21 : د 
+1 BkD ز yb1 hE J 
+2 g3 : yb1 hE J 
+3 6 D 3 J 
+
+--- PDF PAGE 19 ---
+ 19
+4 g3 : Pf1x hEJ J 
+5 BkD xPf1 hEJ J 
+DK REF 
+ 
+[bq24] ASK ALL 
+ 
+آپ D ki9 iG اس cG iG Gd@ ;k]G < cgT2 12 kG iG WD x> u1 hE J  
+ x1 xD ا 6 اس kD – kD 21 : د 
+ 
+1 BkD ز yb1 hE J 
+2 g3 : yb1 hE J 
+3 6 D 3 J 
+4 ی : xPf1 hEJ J 
+5 BkD xPf1 hEJ J 
+DK REF 
+ 
+[bq25] ASK ALL 
+ 
+آپ D ki9 iG آپ D xgE D ;k]G < ا 12 eifG iG |D x> MuN3 Lk6J E  
+ x1 xD ا 6 اس kD – kD 22 : د 
+ 
+1 BkD ز Lk6yb1 E 
+2 g3 : yb1 Lk6 E 
+3 6 D 3 ر E 
+4 g3 : xPf1 EJ 
+5 BkD xPf1 EJ 
+DK REF 
+ 
+[bq26] ASK ALL 
+ 
+آپ D ki9 iG اس cG iG Gd@ ;k]G < ا 12 kG iG WD x> xB Lk2 E   
+ x1 xD ا 6 اس kD – kD 22 : د 
+ 
+1 BkD ز yb1 Lk6 E 
+2 g3 : yb1 Lk6 E 
+3 6 D 3 ر E 
+4 g3 : xPf1 EJ 
+5 BkD xPf1 EJ 
+DK REF 
+ 
+[bq27] ASK ALL 
+ 
+iHk>x1 D x\HuG ;k]G aXG iG آپ D ki9 iG D : n@kd6 اس < D M xPf1 > x2 8 a:xD E 
+– xNiF kM zeD 
+ 
+1 xNiF 
+2 zeD 
+3 (Neither (VOLUNTEERED)) 
+4 (Liberal Democrats (VOLUNTEERED)) 
+DK REF 
+ 
+ 
+
+--- PDF PAGE 20 ---
+ 20
+Own/party positions on tax/spend 
+ 
+ 
+[bq43a-d] ASK ALL 
+ 
+ DP INSTRUCTION: ROTATE Q43 FOR THE FOLLOWING LOOP VALUES: 
+ 
+a. w1 9 
+b. xNiF k2 
+c. zeD k2 
+d. xNF ڈ 
+   
+ IF FIRST ITEM AT BQ43:  
+اب، LD راو chWG اس kD x2 0 k3 10 kD Hkdi2 ا 3xD LJ kf6 آ kXH زد 0 kD lc[G J D nGa8 
+D Wai4 iG 3QD kHxD اور nU< و 6kd: kGu9 x2 D : D x9 kHxD ، اور آ kXH زد 10 kD lc[G M J 
+D  nGa8 D |ai4 kHkKy1 اور nU< و 6kd: kGu9 x2 ز : ز x9 kHxD ، آپ [LOOP ITEM] D اس 
+kD x2 |D b6 x2 ر E 
+x1 xD ا 6 اس kD – kD 28 : د 
+IF NOT FIRST ITEM AT BQ43:  
+ (And where would you place…) 
+ [LOOP ITEM] 
+ (…on this scale?) 
+ x1 xD ا 6 اس kD – kD 28 : د 
+ 
+0 nGa8 D Wai4 iG BkD 3QD HxD iIk7 اور nU< و 6kd: kGu9 x2 D : D x9 kHxD iIk7 
+1 ا 
+2 دو 
+3 i3 
+4 k7 
+5 rHk2 
+6 7 
+7 k: 
+8 آ 
+9 H 
+10 nGa8 D Wai4 iG BkD ا kHxD iIk7 اور nU< و 6kd: kGu9 x2 ز : ز x9 kHxD iIk7 
+DK REF 
+ 
+[bq43e] ASK ALL IN SCOTLAND 
+  
+ (And where would you place…) 
+ ا eXiH k2 (SNP) D  
+ (…on this scale?)  
+ x1 xD ا 6 اس kD – kD 28 : د 
+ 
+0 nGa8 D Wai4 iG BkD 3QD HxD iIk7 اور nU< و 6kd: kGu9 Dx2 : D x9 kHxD iIk7 
+1 ا 
+2 دو 
+3 i3 
+4 k7 
+5 rHk2 
+6 7 
+7 k: 
+8 آ 
+
+--- PDF PAGE 21 ---
+ 21
+9 H 
+10 nGa8 D Wai4 iG BkD ا kHxD iIk7 اور nU< و 6kd: kGu9 x2 ز : ز x9 kHxD iIk7 
+DK REF 
+ 
+[bq43f] ASK ALL IN WALES  
+ 
+ (And where would you place…) 
+ vic2 xdiD D 
+ (…on this scale?) 
+ x1 xD ا 6 اس kD – kD 28 : د 
+ 
+0 nGa8 D Wai4 iG BkD 3QD HxD iIk7 اور nU< و 6kd: kGu9 x2 D : x9 kHxD iIk7 
+1 ا 
+2 دو 
+3 i3 
+4 k7 
+5 rHk2 
+6 g7 
+7 k: 
+8 آ 
+9 H 
+10 nGa8 D Wai4 iG BkD ا kHxD iIk7 اور nU< و 6kd: kGu9 x2 ز : ز x9 kHxD iIk7 
+DK REF 
+ 
+ 
+ 
+Own/party positions on civil liberties 
+  
+ 
+[bq45a-d] ASK ALL 
+ 
+ DP INSTRUCTION: ROTATE Q45 FOR THE FOLLOWING LOOP VALUES: 
+ 
+a. w1 9 
+b. xNiF k2 
+c. zeD k2 
+d. xNF ڈ 
+   
+ IF FIRST ITEM AT Bq45:  
+TD E kD ki9 J D x6 D D kHxD x6 kD ار HxD وا zcG ا D `8 D n?k_8 HxD D 1 nNWH 
+ز ا J دو EF kD ki9 J D zcG ا D `8 kD _U3 kHxD x6 D D HxD : ز ا J 0-
+10 D Hkdi2 x2 آپ [YOURSELF/PARTY NAME] D اس Hkdi2 x2 kfD ر E 
+ x1 xD ا 6 اس kD – kD 30 : د 
+IF NOT FIRST ITEM IN Bq45: 
+ (And where would you place ...)  
+ [LOOP ITEM] 
+ (…on this scale?) 
+ x1 xD ا 6 اس kD – kD 30 : د 
+ 
+0 x6 D D kHxD ز ا J 
+1 M 
+2 دو 
+
+--- PDF PAGE 22 ---
+ 22
+3 i3 
+4 k7 
+5 rHk2 
+6 7 
+7 k: 
+8 آ 
+9 H 
+10 zcG D `8 ز ا iI 
+ DK REF 
+ 
+ 
+Own/party positions on Equal Opportunities 
+ 
+ DP INSTRUCTION: ROTATE FOR THE FOLLOWING LOOP VALUES: 
+ 
+a. w1 9 
+b. xNiF k2 
+c. zeD k2 
+d. xNF ڈ 
+ 
+ 
+IF FIRST ITEM AT Bq59:  
+اس kD x2 DwG 0 k3 10 kD Hkdi2 ا 3xD LJ kf6 آ kXH زد 0 kD lc[G M J D nGa8 D ki: kB اور 
+ا ا D hF G iG xPf1 ﻻ D hF ا HxD D x= ifH ، اور آ kXH زد 10 kD lc[G M 
+J D Ga8n D ki: kB اور ا ا D hF G D xPf1 Hke1 D xI };D HxD ، آپ [LOOP ITEM] 
+D اس Hkdi2 x2 kfD ر E 
+x1 xD ا 6 اس kD – kD 32 : د 
+IF NOT FIRST ITEM AT BQ59: 
+(And where would you place…) 
+[LOOP ITEM] 
+x1 xD ا 6 اس kD – kD 32 : د 
+ 
+0 nGa8 D ki: kB اور ا ا D hF G iG xPf1 ﻻ D hF ا HxD D x= ifH 
+J 
+1 ا 
+2 دو 
+3 i3 
+4 k7 
+5 rHk2 
+6 7 
+7 k: 
+8 آ 
+9 H 
+10 nGa8 D ki: kB اور ا ا D hF G D xPf1 Hke1 D xI };D HxD iIk7 
+DK REF 
+[BQ59E] ASK ALL IN SCOTLAND 
+  
+(And where would you place…) 
+ا eXiH k2 (SNP) D  
+x1 xD ا 6 اس kD – kD 32 : د 
+ 
+
+--- PDF PAGE 23 ---
+ 23
+0 nGa8 D ki: kB اور ا ا D hF G iG xPf1 ﻻ D hF ا HxD D x= ifH 
+J 
+1 ا 
+2 دو 
+3 i3 
+4 k7 
+5 rHk2 
+6 7 
+7 k: 
+8 آ 
+9 H 
+10 nGa8 D ki: kB اور ا ا D hF G D xPf1 Hke1 D xI };D HxD iIk7 
+DK REF 
+[BQ59F] ASK ALL IN WALES 
+ 
+(And where would you place…) 
+vic2 xdiD D 
+x1 xD ا 6 اس kD – kD 32 : د 
+ 
+0 nGa8 D ki: kB اور ا ا D hF G iG xPf1 ﻻ D hF ا HxD D x= ifH 
+J 
+1 ا 
+2 دو 
+3 i3 
+4 k7 
+5 rHk2 
+6 7 
+7 k: 
+8 آ 
+9 H 
+10 nGa8 D ki: kB اور ا ا D hF G D xPf1 Hke1 D xI };D HxD Ik7i 
+DK REF 
+ 
+ 
+ 
+[Trust] ASK ALL 
+Gd@ > x2 k1 M xD 3 kiD آپ M ifD E D ز x3 EF x2 ا kiD kPa:k6 J kM M D آپ EF D 3k: 
+Gk]G > HxD iG BkD kPUG ifH Pa:J iI   
+ 
+1 EF x2 ا kiD kPa:k6 J 
+2 آپ BkD ز kPUG ifH Pa:J iI 
+3 ا k3xD J (SPONTANEOUS) 
+4 c]G ifH (SPONTANEOUS) 
+ 
+ Attitudes to voting and politics 
+ 
+[bq77a-x]* ASK ALL 
+ 
+ DP INSTRUCTION: ROTATE BQ77 FOR THE FOLLOWING LOOP VALUES: 
+                                                                                                                                                                                                                                                      
+[bq77a] a. l6 iG ووٹ د J 3 gSG niHkd> kD ا J  
+
+--- PDF PAGE 24 ---
+ 24
+[bq77b] b. F اس uC xYG iI D ان D k2 ووٹ د kD و ifH J 
+[bq77c] c. kfM D ز x3 F ٍ k@ ا iG ووٹ د iI 
+ 
+ 
+ IF FIRST ITEM AT BQ77: 
+x1 xD gSG iLkP1 D آ آپ درج  xI ا ki1 : _PG kM xiA _PG iI: 
+[LOOP ITEM] 
+ x1 xD ا 6 اس kD – kD 37 : د 
+IF NOT FIRST ITEM AT BQ77:  
+ (And how much do you agree or disagree with this statement:) 
+ [LOOP ITEM] 
+ x1 xD ا 6 اس kD – kD 37 : د 
+ 
+1 2 x> _PG 
+2 _PG 
+3 H 3 _PG H xiA _PG 
+4 xiA _PG 
+5 2 x> xiA _PG 
+DK REF 
+ 
+ 
+ 
+[bq79] ASK ALL 
+ 
+0 k3 10 D Hkdi2 x2 kf6 10 kD lc[G J ز ا و Ja اور 0 kD lc[G J ا و ر fHiJa، آپ D 
+n:ki: اور @ ا x2 |D u8 3 ا و ر <k8 J   
+ x1 xD ا 6 اس kD – kD 39 : د 
+ 
+0 ا و ر ifH J 
+1 ا 
+2 دو 
+3 i3 
+4 k7 
+5 rHk2 
+6 7 
+7 k: 
+8 آ 
+9 H 
+10 ز ا و ر J 
+DK REF 
+ 
+
+--- PDF PAGE 25 ---
+ 25
+Section 4: Ethnic and religious identity and group 
+consciousness 
+ 
+ 
+[bq72] IF CODES 9-15 AT BQ58 (ASIAN/INDIAN, ASIAN/PAKISTANI, 
+ASIAN/BANGLADESHI, ASIAN/OTHER, BLACK/AFRICAN, BLACK/CARIBBEAN, 
+BLACK/OTHER) 
+ 
+DP – TEXTFILL IS “Black“ IF BQ58 = 13-15, “Asian“ IF BQ58 = 9-12 
+ 
+TD F ا آپ D l: : cf2 Hk>x1 PgSd: iI دو F ا آپ D l: : cf2 
+(Black/Asian) Sd: Pa: iI آپ 9 D k1 iG kWi6 P7: iI اس D M xPf1 و D k3xD 
+J…  
+ ا د 
+ 
+1   (Black/Asian)، Hk>x1 ifH 
+2  ز Black/Asian) 1 nNWH Hk>x1 
+3  kWG > x2 (Black/Asian) اور Hk>x1 
+4  ز Hk>x1 1 nNWH (Black/Asian)، 
+5  Hk>x1 (Black/Asian) ifH 
+6  kM آپ 9 D WD اور `M x> : P7: iI (WRITE IN) 
+DK REF 
+ 
+[bq72b]  IF CODES 9-15 AT BQ58 (ASIAN/INDIAN, ASIAN/PAKISTANI, 
+ASIAN/BANGLADESHI, ASIAN/OTHER, BLACK/AFRICAN, BLACK/CARIBBEAN, 
+7-1=B105BQ ,RELIGION A HAS SPONDENTRE AND )OTHER/BLACK 
+ 
+DP – (Black/Asian) TEXTFILL IS “Black“ IF BQ58 = 13-15, “Asian“ IF BQ58 = 
+9-12.  (Religion) textfill is answer at BQ105B 
+ 
+TD F ا آپ D l: : cf2 (Religion) PgSd: iI دو F ا آپ D l: : cf2 
+(Black/Asian) Sd: Pa: iI آپ 9 D k1 iG kWi6 P7: iI اس D M xPf1 و D k3xD 
+J… 
+ا د 
+ 
+1  (Black/Asian)، H (Religion)، 
+2  ز Black/Asian) 1 nNWH (Religion)، 
+3  kWG > x2 (Black/Asian) اور (Religion)، 
+4  ز (Religion) 1 nNWH (Black/Asian)، 
+5  (Religion)، H (Black/Asian)۔ 
+6  kM آپ 9 D WD اور `M x> : P7: iI (WRITE IN) 
+DK REF 
+ 
+[bq72c]  IF CODES 9-15 AT BQ58 (ASIAN/INDIAN, ASIAN/PAKISTANI, 
+ASIAN/BANGLADESHI, ASIAN/OTHER, BLACK/AFRICAN, BLACK/CARIBBEAN, 
+7-1=B105BQ ,RELIGION A HAS ONDENTRESP AND )OTHER/BLACK 
+ 
+DP – (Black/Asian) TEXTFILL IS “Black“ IF BQ58 = 13-15, “Asian“ IF BQ58 = 
+9-12.  (Religion) textfill is answer at BQ105B 
+ 
+TD F ا آپ D l: : cf2 (Religion) PgSd: iI دو F ا آپ D l: : cf2 Hk>x1 
+PgSd: iI آپ 9 D k1 iG kWi6 P7: iI اس D M xPf1 و D k3xD J…  
+ا د 
+
+--- PDF PAGE 26 ---
+ 26
+ 
+1 British H D (Religion)، 
+2  ز Hk>x1 1 nNWH (Religion)، 
+3  kWG > x2 Hk>x1 اور (Religion)، 
+4  ز (Religion) 1 nNWH Hk>x1 
+5  (Religion)، H Hk>x1 
+6  kM آپ 9 D WD اور `M x> : P7: iI (WRITE IN) 
+DK REF 
+ 
+ 
+[L55] IF RESPONDENT IS NOT FROM MIXED BACKGROUND [BQ58 <> 5-8] 
+ 
+Gd@ > x2 (ETHNIC GROUP FROM BQ58) ا D 3k: آپ |D u8 3 uC xPXG D Gk8 
+c]G 3y2 iI  
+ 
+x1 xD ا 6 سا kD – kD 42 : د 
+ 
+1. BkD u8 3 
+2. Hk_YeG u8 3 
+3. LD ز ifH 
+4. aFk1 g1 ifH 
+DK REF 
+ 
+ 
+[COMREL] ASK IF RESPONDENT HAS A RELIGION, BQ105B=1-14 
+ 
+Gd@ > x2 (RELIGIOUS GROUP FROM Q105B) D 3k: آپ |D u8 3 uC xPXG D Gk8 
+c]G 3y2 iI  
+ 
+x1 xD ا 6 اس kD – kD 42 : د 
+ 
+1. BkD u8 3 
+2. Hk_YeG u8 3 
+3. LD ز ifH 
+4. aFk1 g1 ifH 
+DK REF 
+ 
+[L58] ASK ALL 
+ 
+اور Gd@ > x2 د Hk>x1 ا D 3k: آپ |D u8 3 uC xPXG D Gk8 c]G 3y2 iI  
+ 
+x1 xD ا 6 اس kD – kD 42 : د 
+ 
+1. BkD u8 3 
+2. Hk_YeG u8 3 
+3. LD ز ifH 
+4. aFk1 g1 ifH 
+DK REF 
+ 
+ 
+ 
+  
+[bq69a] ASK ALL 
+ 
+Gd@ ا D dfG D دوران، kiD آپ D ki9 iG WD g1 :ki: n@kd6 H ki: kB اور ا ا D ووٹ 
+ePi6 D وا k9 > x2 fG L7 
+ 
+
+--- PDF PAGE 27 ---
+ 27
+1 kI 
+2 ifH 
+ DK REF 
+ 
+[bq69b] If Yes TO BQ69A 
+ 
+ وہ k2 D : g3  LD اور؟ 
+ CODE ALL THAT APPLY 
+ 
+1 xNiF 
+2 zeD 
+3 xNF ڈ 
+4 ا eXiH k2 (SNP) 
+5 vic2 xdiD 
+6 M xE k2 
+7 vQiLkHM vbeD ا k2 (UKIP) 
+8 }4x1 eXiH ر BNP) 
+9 د WRITE IN) 
+DK REF 
+  
+[bq70a] ASK ALL 
+ 
+اور Gd@ ا D dfG D دوران، kiD آپ D ki9 iG WD g1 :ki: n@kd6 H ki: kB اور ا ا D ax1
+9 niNY@ D ka; ui_: kB ا D ووٹ ePi6 D وا k9 > x2 fG L7 
+ 
+1 kI 
+2 ifH 
+ DK REF 
+ 
+[bq70b] If Yes TO BQ7A 
+ 
+ وہ k2 D : g3  LD اور؟ 
+ CODE ALL THAT APPLY 
+ 
+1 xNiF 
+2 zeD 
+3 xNF ڈ 
+4 ا eXiH k2 (SNP) 
+5 vic2 xdiD 
+6 M xE k2 
+7 vQiLkHM vbeD ا k2 (UKIP) 
+8 }4x1 eXiH k2 (BNP) 
+9 د WRITE IN) 
+DK REF 
+ 
+ 
+ 
+Political Knowledge 
+ 
+ASK ALL  
+ [PostQ79.1 – Q79.8] – RANDOMIZE 
+ 
+ DP INSTRUCTION: RANDOMISE POSTQ79 FOR THE FOLLOWING LOOP VALUES: 
+                                                                                                                                                                                                             
+
+--- PDF PAGE 28 ---
+ 28
+[bq79a] a. ا وا دن eF2 ا رات 10.00 q1 ue1 3J iI 
+[bq79b] b. را د D D از D xd@ 16 k: J 
+[bq79c] c. xcWHk7 آف |aM xai7 J DM iG : D i8x; > HxD kD ذ دار J  
+[bq79c] d. LD g1 ر وو ا Jk7 3 Q:2 ووٹ <k8 kPa:xD J – ا Gk`G WHD : را DxD 
+اور ا Q:2 ووٹ lc> DxD  
+[bq79c] e. xNiF k2 D k2 cWH ا D l: : ز MPs iI 
+ 
+ 
+ IF FIRST ITEM AT PostQ79: x1 xD gSG iLkP1 D آ آپ درج ذ kHki1 D siU< kM cA PSgd: 
+iI  ا آپ D c]G ifH J 3 |1 fM ifD اور J ا x2 ref2 iLk6 E kM ر – siU< cA kM c]G ifH 
+ [LOOP ITEM] 
+ IF NOT FIRST ITEM AT PostQ79: (Please tell me if you think this 
+statement is true or false.) 
+ [LOOP ITEM] 
+  
+1 siU< 
+2 cA 
+3 c]G ifH 
+ 
+ 
+Section 5: Attitudes to integration, integration policies, 
+multiculturalism 
+ 
+ 
+ 
+[text]  IF RESPONDENT IS NOT FROM MIXED BACKGROUND OR DK/REF [BQ58 <> 
+(5-8, DK, REF)] 
+درج ذ kHki1 : آپ |D u8 3 _PG kM xiA _PG iI  
+ 
+ 
+[L86A-B] IF RESPONDENT IS NOT FROM MIXED BACKGROUND OR DK/REF [BQ58 <> 
+(5-8, DK, REF)] 
+DP – ROTATE L86A AND B, AND CREATE AN INDICATOR TO REC0RD WHICH 
+STATEMENT ASKED FIRST 
+SEE ‘INGROUPER’ FILE FOR DEFN OF TEXTFILLS 
+ 
+[L86A] xiG ki9 J D <INGROUPER6> DM iG 9 ا ا ا اور روا D xCx1 ر 
+iI 
+ 
+[L86B] xiG ki9 J D <INGROUPER6> DM iG ر وا ا D 3k: د ا D 3k: = اور c9 
+cG k3k6J J 
+ 
+ 
+[LOOP ITEM] 
+x1 xD ا 6 اس kD – kD 47 : د 
+ 
+1. 2 x> _PG 
+2. _PG 
+3. H 3 _PG H xiA _PG 
+4. xiA _PG 
+5. 2 x> xiA _PG 
+DK REF 
+ 
+
+--- PDF PAGE 29 ---
+ 29
+ 
+[text] ASK ALL 
+ 
+ kiD آپ kM آپ D ا Hk9 درج ذ iG : LD kD 3xD iI 
+ 
+[trads1..6] ASK ALL 
+ 
+ DP – LOOP TRADS FOR THE FOLLOWING LOOP VALUES 
+ 
+a. |d:xD D kD keSig1 
+b. و kD keSig1 
+c. M kG / M u2 D CG x2 ا kG / k1 D kD keSig1 
+d. |d:xD x4 ا 
+e. kM دن D CG x2 2 2 keef2 
+f. |d:xD D CG x2 LkU3 د 
+ 
+[LOOP ITEM] 
+x1 xD e 6 اس kD – kD 49 : د 
+ 
+1. XidJ 
+2. gND kgND 
+3. gND ifH 
+4. اس k1 iG c]G ifH J 
+DK REF 
+ 
+ 
+ 
+ 
+ 
+ [bq60] ASK ALL 
+ 
+kiD آپ D kPbF J D آج D iHk>x1 iG cWH lY]3 BkD ،ز g3 nf1 kM x1 kH J 
+ 
+1 BkD ز 
+2 g3 nf1 
+3 x1 kH 
+DK REF 
+ 
+[PREJWHOM] ASK ALL 
+ 
+ آپ D ki9 iG |D xE D 9 ا LD J 3 lY]3 k3x1 kiE J 
+ DO NOT PROMPT, CODE ALL THAT APPLY 
+ 
+1. ا ا Indian, Pakistani, Bangladeshi)  
+2. ki: kB ا Caribbean, African) 
+3. ei7 ا 
+4. ui_: kB ا 
+5. cVG WH D ا 
+6. 1 
+7. ueI 
+8. fM 
+9. cWG 
+10. a: 
+11. ke2 D lFk> / ر 
+
+--- PDF PAGE 30 ---
+ 30
+12. hH k3 و 
+13. CxXG M 
+14. د WRITE IN) 
+ 15. LD ifH 
+ DK REF 
+ 
+[PREJMOR] ASK IF HAS A RELIGION AT BQ105B 
+kiD آپ D kPbF J D د NIwG P@kd6 D 9x1 [RESPONDENT’S religion GROUP FROM 
+BQ105B] ا D 9 ز kM D lY]3 k3x1 kiE J 
+ 
+1. ز 
+2. D 
+3. F g1 ا x1 
+DK REF 
+ 
+[PREJMOR2] ASK ALL 
+kiD آپ D kPbF J D د ki: kB اور ا P@kd6 D 9x1 [RESPONDENT’S ETHNIC GROUP 
+FROM BQ58] ا D ف ز kM D lY]3 k3x1 kiE J 
+ 
+1. ز 
+2. D 
+3. F g1 ا x1 
+DK REF 
+ 
+ 
+ 
+ [bq62a] ASK ALL 
+  
+cgT2 ue7 Fk: D k1 iG P7: LJ kiD iHk>x1 iG cWH ا P@kd6 D hF Gk]G iG Gd@ > 
+x2 xPf1 kM x3u1 آ J kM Gk]G BkD u8 3 6 D 6 ر iI 
+IF BETTER/WORSE: g3 kM BkD xPf1 / x3u1 
+ 
+1 BkD xPf1 
+2 g3 nf1 xPf1 
+3 6 D 3 iI 
+4 g3 nf1 x3u1 
+5 BkD x3u1 
+DK REF 
+ 
+[bq62b] IF RESPONDENT IS NOT FROM MIXED BACKGROUND OR DK/REF [BQ58 <> (5-8, 
+DK, REF)] 
+ 
+اور [RESPONDENT’S ETHNIC GROUP FROM bq58] ا D < D k1 iG P7: LJ 
+kiD Gk]G iG Gd@ > x2 xPf1 kM x3u1 آ J kM Gk]G BkD u8 3 6 D 3 ر iI 
+ IF BETTER/WORSE: g3 kM BkD xPf1 / x3u1 
+ 
+1 BkD xPf1 
+2 g3 nf1 xPf1 
+3 6 D 3 iI 
+4 g3 nf1 1x3u 
+5 BkD x3u1 
+DK REF 
+
+--- PDF PAGE 31 ---
+ 31
+ 
+[bq62c] IF RESPONDENT HAS A RELIGION AT BQ105B 
+ 
+اور [RESPONDENT’S RELIGION FROM BQ105B] ا D < D k1 iG P7: LJ kiD 
+Gk]G iG Gd@ > x2 xPf1 kM x3u1 آ J kM Gk]G BkD u8 3 3 D 6 ر iI 
+ IF BETTER/WORSE: g3 kM BkD xPf1 / x3u1 
+ 
+1 BkD xPf1 
+2 g3 nf1 xPf1 
+3 6 D 3 iI 
+4 g3 nf1 x3u1 
+5 BkD x3u1 
+DK REF 
+ 
+ 
+  ASK ALL 
+ [PostQ71] 
+ آپ D ki9 iG D : n@kd6 cWH ا xE D hF iHk>x1 iG ز D xPf1 Hke1 iG uG HxD D M xPf1 ا 
+J 
+ 
+1 xNiF 
+2 zeD 
+3 xNF ڈ 
+4 د WRITE IN) 
+5 (None, no party (VOLUNTEERED))  
+ 
+  
+ ASK ALL 
+ [PostQ72.1 - Q72.7] - RANDOMIZE 
+ 
+ DP INSTRUCTION: RANDOMISE POSTQ72 FOR THE FOLLOWING LOOP VALUES: 
+                                                                                                                                                                                                                                                      
+[postq72a] a. iHk>x1 iG ر وا G D hF در د وا ki: kB اور ا ا D si6x3 دی 
+Hk6 iIk7 Dk3 ان D 9 =kG iG HJ وا ا c: D B3 D };D D Lk6  
+[postq72b] b. ا cPVG cWH iP@kd6 ا ر و رواج اور روا D xCx1 Pg iI 3 M x;k]G D hF 
+ا J 
+[postq72c] c. k3 و x6 D 8x; iG ا 3xD iI 
+[postq72d] d. k3 و k@ > x2 iHk>x1 D nXi]G D hF ig4 iI 
+[postq72e] e. iHk>x1 آ وا ke2 D ز x3 NFk> D B > x2 xgE وا keSig1 i 
+ 
+ IF FIRST ITEM AT PostQ72: x1 xD gSG iLkP1 آپ درج ذ xI ا ki1 : |D u8 3 _PG kM xiA 
+_PG iI 
+ 
+ [LOOP ITEM] 
+ x1 xD ا 6 اس kD – kD RR : د 
+   
+ IF NOT FIRST ITEM AT PostQ72: (And how much do you agree or 
+disagree with this statement:) 
+ 
+ [LOOP ITEM] 
+ x1 xD ا 6 اس kD – kD RR : د 
+ 
+1 2 x> _PG 
+2 _PG 
+
+--- PDF PAGE 32 ---
+ 32
+3 H 3 _PG H xiA _PG 
+4 xiA _PG 
+5 2 x> xiA _PG 
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+
+--- PDF PAGE 33 ---
+ 33
+Section 6: Self completion 
+ 
+[text] ASK ALL 
+ 
+ا : kD 6 آپ D 9 J د J  NC اس : D آپ M kD ا د iG آپ D x4iOdD iG M 6 درج 
+HxD kD `M x> kP1 kE 
+ 
+آپ ا D xDg7 ذ iG DwG 6 iG : ا 6 7 Pa: iI آپ 6 6 د PIk7 iI |1 اس D 
+iLg7 
+ 
+[NONRESP] ASK ALL 
+ 
+ ا ueeD: kiD 6 د H از  ida3 D NC  kiFxD J 
+ 
+ 1. از 9 ida3 D NC kiFxD 
+ 2. از 9 ida3 : ا xD 
+ 3. ا ueeD D ذر daG xD 
+ NO DK NO REF 
+ 
+[WHYREFDA- 
+WHYREFDN] ASK IF NONRESP = 2 OR 3  
+ 
+ ا ueeD D daG kHxD J    
+ 
+ ا ueeD – 6 د H iD ا DiakkM uG lc> D اس D و kD D ڈا 
+  
+1. x4iOdD ueW2 ifH J 
+ 2. Lkei1 D د 
+3. د w]G 
+ 4. eKy2 x2 ا kiD 
+ 5. رازداری D k1 iG xaB ﻻ g3 
+ 6. y2 / aF ifH kPa: 
+ 7. و  
+ P9 kiEJ 
+8. HkWF د 
+9. kXM x2 ifH kiD kPa:k6  
+10. T1 6G g3 / T1 D xN9 xiE xD ر J 
+11. xdD iG د ا 6G g3 
+12. د WRITE IN) 
+ NO DK NO REF 
+ 
+[text] ASK IF NONRESP = 1 OR 3 
+ 
+ ا ciRd3 : M J 
+ 
+ ا ueeD: 6 د D eGk: ا iLkdgE اور 6 د D ا 6 درج HxD د aN6 آپ uIkXG اور ا 
+x= J 3 uG M xD 
+  
+ 1. k6 ر 
+ NO DK NO REF 
+ 
+[PRACT1] IF NONRESP = 1 OR 3 
+ 
+
+--- PDF PAGE 34 ---
+ 34
+آپ 6 6 د PIk7 iI وہ 6 ا D xDg7 lVPeG M xD l6 آپ M kD iFxD 3 ا : x2 Hk6 D hF 
+k6 ر Q1 D iLg7 
+ 
+ kiD آپ H اس : NC x4iOdD ا kiD J 
+ 
+1. kI 
+2. ifH 
+NO DK NO REF 
+ 
+ 
+[PRACT2] IF NONRESP=1 OR 3 
+ 
+ز x3 : اس kRG D x> J E  ue7 : D hF ا x2 LD 6 x\H ifH آ kE اور آپ D D 1 
+ا 3xD LJ 9 k 6 mLk4 kHxD kEJ  ا اور kRG M J  l6 آپ 6 mLk4 iFxD 3 ا : x2 Hk6 
+D hF k6 ر Q1 D iLg7 
+ 
+ آپ H آ د D : zi7 LkgD g3 
+ 
+1. x1 xD ا 6 mLk4 M xD (WRITE IN) 
+NO DK NO REF 
+ 
+[PRACTEND] IF NONRESP=1 OR 3 
+ 
+اب آپ H @cd : daG iFxD iI  x1 xD ا ueeD D iLkP1 D آپ آ eKy1 D آ iI اور ا UdF 
+D hF x4iOdD وا xD  
+ 
+1. k6 ر 
+ NO DK NO REF 
+ 
+[text] IF NONRESP=1 OR 3 
+ 
+ا 6 د ا g1 از 9 ida3 D NC k3xD J 3 ا ا x2 xDk6 اور 3kM x4iOdD D 6 د D 8 
+DxD kM 6 د D 3k: kG D daG DxD ا k6 ر   
+ 
+IF NONRESP = 2, JUMP TO EDSIS1 
+ 
+NO DK/REF CODES IN REST OF THIS SECTION, INSTEAD ALL QUESTIONS HAVE PRECODED 
+EQUIVALENTS ON SCREEN 
+ 
+ 
+[Bq12a] ASK ALL DOING SELF COMPLETION (IF NONRESP=1 OR 3) 
+   
+اب ue7 : n:ki: اور را د D k1 iG 
+ 
+6 hG D k@ ا D k1 iG EF : k1 DxD idJ P2 kPc7 D BkD k: F ووٹ ifH دے Lk2 آپ D 
+k1 iG kiD ki9 J kiD آپ H k@ ا iG ووٹ kM 
+ 
+1 kI ووٹ د 
+2 ifH ووٹ ifH د 
+3. c]G ifH 
+4.  6 د ifH PIk7 
+  
+[bq12b]  IF ‘yes’ AT [Bq12a=1] 
+  
+ k@ ا iG آپ H |D n@kd6 D ووٹ د  
+ 
+
+--- PDF PAGE 35 ---
+ 35
+1 xNiF 
+2 zeD 
+3 xNF ڈ 
+4 ا eXiH k2 (SNP) 
+5 vic2 xdiD 
+6 M xE k2 
+7 iLkHMvQ vbeD ا k2 (UKIP) 
+8 }4x1 eXiH k2 (BNP) 
+9 LD اور – x1 xD وہ n@kd6 xM xU3 M xD (WRITE IN) 
+10.   c]G ifH 
+11.   6 د ifH PIk7 
+ 
+ 
+ 
+[bq12d] IF ‘yes’ AT [Bq12a=1] 
+  
+EF H ا n@kd6 D LkS1 دو n@kd6 D ووٹ iD د وہ اس D cPVG و ki1 3xD iI درج ذ iG 
+: D آپ D و D M xPf1 و k3xD J  
+ 
+1 n@kd6 M xPf1 iWiFk2 D Gk8 J 
+2 n@kd6 D k2 M xPf1 uLkC J 
+3 iG H ٍوا WD اور n@kd6 D si6x3 دی aiF xiG `c8 iG ا ePi6 kD LD ا ifH kg3 - iG H 
+nda8 : ووٹ د 
+4 TD اور و – x1 xD 6 g1 و J xM xU3 M xD (WRITE IN) 
+5.   c]G ifH 
+6.  6 د ifH PIk7 
+ 
+ 
+[bq12e] IF [bq12d]=3  
+  
+ آپ ٍوا |D n@kd6 D si6x3 د iI 
+ 
+1 xNiF 
+2 zeD 
+3 xNF ڈ 
+4 ا eXiH k2 (SNP) 
+5 vic2 xdiD 
+6 M xE k2 
+7 vQiLkHM vbeD ا k2 (UKIP) 
+8 }4x1 eXiH k2 (BNP) 
+9 LD اور – x1 xD وہ n@kd6 xM xU3 M xD (WRITE IN) 
+10.  c]G ifH 
+11.  6 د ifH PIk7 
+ 
+[bq13] IF ‘yes’ AT [Bq12a] 
+  
+cPVG ا WM `M x> 6G iI 6 D ذر F k@ تا iG ا ووٹ دے Pa: iI – aذا > x2 w1 
+ڈاک kM w1 n1kiH e]M ا lHk6 : WD اور xB : ووٹ ڈ 6 hG D k@ ا iG آپ H ا ووٹ |D x> 
+د 
+ 
+1 ذا > x2 
+2 w1 ڈاک 
+3 w1 n1kiH )WD اور H xiG lHk6 : ووٹ د( 
+
+--- PDF PAGE 36 ---
+ 36
+4.  م ifH 
+5.  6 د ifH PIk7 
+  
+ 
+[bq49] ASK ALL DOING SELF COMPLETION (IF NONRESP=1 OR 3) 
+ 
+  
+DP COMMENT – note the two non-standard answers at the top (also in next 
+two questions), please keep answer codes for parties comparable with 
+other questions. 
+ 
+5 Gh 2005 D HJ وا k@ ا D k1 iG P7: LJ kiD آپ D kM J D آپ H |D n@kd6 D ووٹ د 
+kg3 – kM uMk; آپ H ووٹ ifH د kg3  
+ 
+0 iG H ووٹ ifH د 
+X iG ا ifH kg3 / ا k4g7 kg3 D ووٹ ifH دے kPa: kg3 
+1 xNiF 
+2 zeD 
+3 xNF o 
+4 ا eXiH k2 (SNP) 
+5 vic2 xdiD 
+6 M xE k2 
+7 vQiLkHM vbeD ا k2 (UKIP) 
+8 }4x1 eXiH k2 (BNP) 
+9 LD اور – x1 xD وہ n@kd6 xM xU3 M xD (WRITE IN) 
+10. c]G ifH 
+11. 6 د ifH PIk7 
+ 
+ 
+[bq53a] ASK ALL IN ENGLAND DOING SELF COMPLETION (IF NONRESP=1 OR 3) 
+ 
+  
+اب اس k: 6 hG D cG D ue7 Y8 iG HJ وا Gk`G ke7 D k1 iG : xD iLkP1 idJ P2 7 J 
+D nf1 k: F ووٹ ifH دے Lk2 آپ D k1 iG kiD ki9 J – kiD آپ H Gk`G ke7 iG ووٹ د kM اس 
+C@ iG LD ke7 ifH kg3 
+ 
+1 kI ووٹ د 
+2 ifH ووٹ ifH دے kMk2 
+3 اس C@ iG Gk`G ا ifH kg3 
+4.  c]G ifH 
+5.  6 د ifH PIk7 
+ 
+[bq53b] IF ‘yes’ AT Bq53a 
+ 
+6 hG D Gk`G ا iG آپ H |D n@kd6 D ووٹ د  
+
+--- PDF PAGE 37 ---
+ 37
+1 xNiF 
+2 zeD 
+3 xNF ڈ 
+4 ا iHeX k2 (SNP) 
+5 vic2 xdiD 
+6 M xE k2 
+7 vQiLkHM vbeD ا k2 (UKIP) 
+8 }4x1 eXiH k2 (BNP) 
+9 آزاد ا 
+10 LD اور – x1 xD وہ n@kd6 xM xU3 M xD (WRITE IN) 
+11.  c]G ifH 
+12.  6 د ifH PIk7 
+ 
+ 
+[Text] ASK ALL DOING SELF COMPLETION (IF NONRESP=1 OR 3) 
+ 
+ا ue7 : ا iG kY3 D k1 iG 
+ 
+ 
+[bq47b] ASK ALL DOING SELF COMPLETION (IF NONRESP=1 OR 3) 
+ 
+   
+x1 xD iLkP1 D آ آپ ا iG k6 e6 iG iHk>x1 D niFd; D cD > x2 \eG 3xD iI \eG 3xD 
+iI H  3xD iI H \eGkH 3xD iI kH \eG 3xD iI kM cD > x2 \eGkH 3xD iI 
+ 
+1 cD > x2 \eG 3xD iI 
+2 \eG 3xD iI 
+3 H \eG 3xD iI H \eGkH 3xD iI 
+3 kH \eG 3xD iI 
+4 cD > x2 \eGkH 3xD iI 
+5.  c]G ifH 
+6.  6 د ifH PIk7 
+ 
+ 
+ 
+ 
+ASK ALL 
+ [PostQ42] 
+ا iG e6 ا |6 x> 7 ر J اس k1 iG آپ kD x5k3 kiD J: BkD ا Hk_YeG u8 3 ا Hk_YeG 
+u8 3 x1 kM BkD x1 
+1 BkD ا 
+2 Hk_YeG u8 3 ا 
+3 Hk_YeG u8 3 
+x1 
+4 BkD x1 
+ 5.  c]G ifH 
+6.  6 د ifH PIk7 
+ 
+ASK ALL 
+ [PostQ43] 
+ذ iG 0 k3 10 kD Hkdi2 ا 3xD LJ x1 xD iLkP1 D آپ D ki9 iG |D u8 3 اس k1 kD ا J D 
+Hk>x1 i6B اور ان D ا kNFk> D XidJ XidJ D hF nWa; د D ا J E 
+ 
+0 kNFk> D nWa; د kD aFk1 g1 ا ifH J 
+1 
+
+--- PDF PAGE 38 ---
+ 38
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 kNFk> D nWa; د kD 2 2 ا J 
+ 11.  c]G ifH 
+12.  6 د ifH PIk7 
+ 
+ ASK ALL  
+ RANDOMIZE [PostQ44.1-POSTQ44.4] 
+ DP INSTRUCTION: RANDOMISE POSTQ72 FOR THE FOLLOWING LOOP VALUES: 
+                                                                                                                                                                                                                                                      
+[post44.1] iHk>x1 D ا e6 iG nDx; HxD D lN: دور رس uLkB <k8 kEJ  
+[post44.2] ا iG k6 e6 H xiG NeD D اور w1 9 xiG PG: D x[9 iG ڈال د J 
+[post44.3] ا iG k6 e6 iG nDx; kHxD iHk>x1 kD g4 ا =k`3 J 
+[post44.4] ا iG k6 e6 د xg1 iG iHk>x1 D k_G D ibe: u8 3 kY`H kTef2 ر J 
+ 
+ IF FIRST ITERATION: 
+x1 xD iLkP1 D درج ذ kHki1 : آپ |D u8 3 _PG kM xiA _PG iI: 
+ [LOOP ITEM] 
+ SECOND PLUS ITERATION: 
+اور xaxD iLkP1 D آپ اس ki1 : |D u8 3 _PG kM xiA _PG iI: 
+ [LOOP ITEM] 
+  
+  
+1 2 x> _PG 
+2 _PG 
+3 H 3 _PG H xiA _PG 
+4 xiA _PG 
+5 2 x> xiA _PG 
+6.  c]G ifH 
+7.  6 د ifH PIk7 
+ 
+ 
+ 
+[text]  ASK ALL DOING SELF COMPLETION (IF NONRESP=1 OR 3) 
+ 
+اب ue7 : اس k1 
+iG D cPVG WC D روا kNF ef2 LJ xB D k1 iG آپ D kWiD WUG k3J 
+J 
+ 
+آپ D cWc: وار kY3 د iLk6 E x1 xD iLkP1 D M روا k:NcG ef2 LJ WD xB : k1 HxD iG 
+آپ D |D u8 3 iaW3 kD ا kEJ [1 kRG ا وہ آپ : Pd: D k1 iG Pg72 iI 
+ 
+[outfitA-E] ASK ALL DOING SELF COMPLETION (IF NONRESP=1 OR 3) 
+ 
+ 
+ DP INSTRUCTION: ROTATE OUTFIT FOR THE FOLLOWING LOOP VALUES: 
+ 
+a. xM Y3: H 
+b. xM Y3: daG u:kI fM kNF 
+c. xM Y3: ga: kD روا kNF 
+d. روا cWG kNF 2 k`H )kS8( D xi^1 
+
+--- PDF PAGE 39 ---
+ 39
+ e. روا cWG kNF 2 k`H )k`H( D 3k: 
+ 
+ M k:NcG ef2 LJ WD xB : k1 HxD iG آپ D |D u8 3 iaW3 kD ا kEJ [1 kRG ا وہ آپ : 
+Pd: D k1 iG Pg72 iI 
+ [LOOP ITEM] 
+ 
+1. BkD a:x2 
+2. Hk_YeG u8 3 a:x2 
+3. H 3 a:x2 H J xiA a:x2 
+3. HkY_eG u8 3 xiA a:x2 
+4. xiA a:x2 
+ 5. c]G ifH 
+6. k6 د ifH PIk7 
+ 
+ 
+[sharia] ASK IF MUSLIM (BQ105B=11) DOING SELF COMPLETION (NONRESP=1 OR 
+3) 
+ 
+اور iHk>x1 iG k]PG HJ وا @x; u@ D k1 iG ان kHki1 x2 kbH ڈا LJ ان iG : D آپ D را 
+: lM xC M x3 J 
+ 
+1. gN: Gk]G iG @x; HkC k]PG M xD 6 D روا ا HkC J 
+2. @x; HkC k]PG M xD aiF x< ا < iG l6 Hk6xI Hk>x1 HkC : kYPG H J 
+ 3. @x; HkC k]PG H M xD 
+ 4. c]G ifH 
+5. 6 د ifH PIk7 
+ 
+[MH12 – درج ذ xI ki1 D hF x1 xD iLkP1 D اس : آپ D |D uC HkXM x2 EJ… 
+ 
+a. ا xE آپ D WD NM xC ر دار D WD ui_: kB xB : k; HxD y2 (if not white at Bq58) 
+b. ا xE آپ D WD NM xC ر دار D WD ki: kB xB : k; HxD y2 (if not black at Bq58) 
+c. ا xE آپ D WD NM xC ر دار D WD ا xB : k; HxD y2 if not asian at Bq58) 
+d. ا xE آپ D WD NM xC ر دار D WD cWG xB : k; HxD y2 (if not Muslim at Bq105b) 
+ 
+  1. BkD u8 3 
+  2. TD u8 3 
+  3. g3 nf1 
+  4. LD kM ifH 
+  5. aFk1 g1 ifH 
+  6. c]G ifH 
+  7. 6 د ifH PIk7 
+ 
+ 
+ 
+[Conviol] [If first iteration} kiD آپ درج ذ < iG gND ُ xIk\G kM ا D uiLk3 M xD 
+E… 
+[If second or third iteration]: اور kiD آپ gND ُ xIk\G kM ا D uiLk3 M xD E… 
+ 
+          [RANDOMISE ORDER] 
+ 
+- ا Hk>x1 nGa8  D ا ا e6 x; HxD 3y2 J |6 : آپ ا ifH 3xD iI 
+- ا Hk>x1 nGa8 iG |ai4 اa ا k2 3xD J W6 آپ l:keGkH PgSd: iI 
+- G iG 3QD D 9 ا HxD D hF 
+
+--- PDF PAGE 40 ---
+ 40
+ 
+1. k 
+2. ifH 
+3. c]G ifH 
+4. 6 د ifH PIk7 
+ 
+IF YES AT EACH ITERATION: 
+ 
+ان k8 iG آپ درج ذ iG : |D ا D uiLk3 M xD E ا LD J: 
+ 
+DP NOTE – CODES 1+2 ONLY CAN BE MULTICODED 
+ 
+1. ا D kN3 kHxD 
+2. |iF2 ا x2 cd8 kHxD 
+3. ان iG : LD ifH 
+4. c]G Hif 
+5. 6 د ifH PIk7 
+ 
+ 
+ 
+[text] ASK ALL DOING SELF COMPLETION (IF NONRESP=1 OR 3) 
+ 
+اس Y8 D daG HxD hciD آپ kD M xa; 
+ 
+آپ D 6 cD > x2 i_9 ر E  ا آپ WD : x2 وا kHk6 PIk7 iI 3 ا ueeD آپ D 
+اس kD `M x> kP1 
+kPa: J 
+ 
+ت د ا Y8 x2 Hk6 D hF k6 ر Q1 D iLg7 
+ 
+[SCEND] IF NONRESP = 1 
+ 
+x1 xD x4iOdD ا ueeD D وا xD 
+ 
+ INTERVIEWER CODE 1 TO CONTINUE 
+  
+1. k6 ر 
+NO DK NO REF 
+
+--- PDF PAGE 41 ---
+ 41
+Section 7: Discrimination, prejudice and social distance 
+ 
+ 
+ 
+[EDSIS1] ASK ALL 
+ 
+EF D 3k: xiA Hk_YeG k3x1 HJ x2 ا c: }i2 آ J aHiD ا دو : cPVG HJ D >kH 
+د k3k6 J  cgT2 5 Fk: iG kiD آپ D kPbF J D آپ D niGC WH uc6 D ر ز SfF lJwG xd@ 
+e< niWe6 kM w]G D و : DM iG آپ D ا c: kD keGk: J J kM دو D ذر Hk_YeGxiA 
+k3x1 kiD kiE J 
+ 
+1. kI 
+2. ifH 
+DK REF 
+ 
+[EDSIS2] If Yes (EDSIS1 = 1) 
+ 
+cgT2 5 Fk: iG ePD د آپ D M kbF J D آپ D iHk>x1 iG اس x> D ا c: kM xiA Hk_YeG k kD 
+keGk: J J 
+ READ OUT 
+ 
+ 1. ا و xPXi1 
+ 2. gND kgND 
+ 3. k; و kH 
+ DK REF 
+ 
+[EDSIS3] If Yes (EDSIS1 = 1) 
+ 
+اور اس kD x2 kbH ڈا LJ cgT2 5 Fk: iG kiD آپ D kPbF J D ان iG WD g1 و D lN: آپ D 9 
+ا c: kiD kiE J 
+ 
+x1 xD ا 6 اس kD – kD 53 : د 
+ 
+CODE ALL THAT APPLY 
+ 
+1 آپ D niGC WH kM uc6 D ر 
+2 آپ D ز kM SfF 
+3 آپ kD lJwG 
+4 آپ D xd@ 
+5 آپ D e< 
+6 آپ D niWe6 
+7 w]G 
+8 ان iG : LD ifH 
+DK REF 
+ 
+ 
+[EDSIS4] If Yes (EDSIS1 = 1) 
+ 
+اور cgT2 5 Fk: iG kiD آپ D kPbF J D ان iG : WD g1 < iG iHk>x1 iG آپ D ا c: kD 
+keGk: J J kM xiA Hk_YeG k3x1 kiD kiE J 
+ 
+ x1 xD ا 6 اس kD – kD 54 : د 
+ 
+
+--- PDF PAGE 42 ---
+ 42
+ CODE ALL THAT APPLY 
+  
+1 cE iG 
+2 د ei1 ر kM x; Hk9 iG 
+3 kD x2 GkM kM Cx3 D hF در د و 
+4 |iF2 kM u@ D 3k: cGk]G > 3xD و 
+5 ا qFkD kM iHM iG 
+6 x3 و kM د kDx: د kM ا D 3k: cGk]G > 3xD و 
+7 دو y2 D 3k: 6kd: ا iG 
+8 NeD 3k6 ا iG 
+9 ان iG : LD ifH 
+DK REF 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- PDF PAGE 43 ---
+ 43
+Section 8: Ethnic social capital and mobilization 
+ 
+ 
+ 
+[EDSPC1a] IF RESPONDENT IS NOT FROM MIXED BACKGROUND [BQ58 <> 5-8] 
+ 
+آپ |6 xf; kM NYC iG ر iI و kM اس D آس k2 آپ D (RESPONDENT’S ANSWER FROM 
+BQ58) D WD cWH PBk`5 Mk NIwG ا D k1 iG c]G J  
+ 
+1 kI 
+2 ifH 
+DK REF 
+ 
+[EDSPC1b] ASK ALL 
+kiD آپ H cgT2 12 eifG iG WD cWH kM PBk`5 ا kM lcD D iGxEx: iG Y8 kiF J 
+ 
+1 kI 
+2 ifH 
+DK REF 
+ 
+[EDSPC2a] ASK ALL 
+ 
+kiD آپ H cgT2 12 eifG iG WD WC D ا Mk lcD D iGxEx: iG Y8 kiF J  
+ 
+ا x= J 3 ا M xD: kRG D > x2 ا i4 1kI lcD QM xi7 xE :ki: kM xf; xE T1 kD ا 
+xE و 
+ 
+1 kI 
+2 ifH 
+DK REF 
+ 
+[EDSPC2b] IF YES (EDSPC2A=1) 
+ 
+ آپ |D x> D i\e3 )di\e3( iG xEx: ر iI   
+ 
+ INTERVIEWER: CODE UP TO 3 ANSWERS. IF INVOLVED IN MORE THAN 3 
+ORGANISATIONS PLEASE CODE THE MOST IMPORTANT ORGANISATIONS TO 
+RESPONDENT 
+ 
+ DP – ALLOW UP TO THREE ANSWERS 
+ 
+1. ا lcD kM i4 
+2. 1kI lcD 
+3. QM xi7 xE 
+4. :ki: kM xf; xE 
+5. ں kD ا xE 
+6. د WRITE IN) 
+DK REF 
+ 
+DP – LOOP EDSPC2c1-3 UP TO THREE TIMES FOR EACH ANSWER CHOSEN AT EDSPC2B. 
+ WITHIN EACH LOOP RECORD WHICH TYPE OF ORGANISATION FROM EDSPC2B IS BEING 
+ASKED ABOUT 
+ 
+ 
+
+--- PDF PAGE 44 ---
+ 44
+[EDSPC2c2] ASK ALL INVOLVED IN AT LEAST 1/2/3 TYPES OF ORGANISATION 
+ 
+[LOOP ITEM] D ePD xNdG آپ J D cWH kM NIwG xE : c]3 ر iI  kiD M J… 
+ 
+1. ان iG : gN: 
+2. ان iG : ز x3 
+3. F g1 ان iG : آد 
+4. ان iG : ue7 
+5. ان iG : LD ifH 
+DK REF 
+ 
+Community cohesion 
+ 
+ 
+ 
+ 
+[EDSSN1]  ASK ALL 
+ 
+اب، iG آپ D niGC kM nBk`5 آپ D 6kd: ز iG |6 `M x> : ا D Gk8 Pa:J J اس k1 
+iG آپ : g72 kE 
+ 
+آپ D kGc]G D u8 3 آپ D ePD دو آپ J D cWH |2 x\eG D Gk8 iI 
+READ OUT 
+ 
+1. ان iG : gN: 
+2. ان iG : ز x3 
+3. F g1 ان iG : آد 
+4. ان iG : ue7 
+5. ان iG : LD ifH 
+DK REF 
+ 
+[EDSSN2]  ASK ALL 
+ 
+آپ D kGc]G D u8 3 آپ 6 EF D 3k: kD 3xD iI ان iG : ePD ا آپ J D cWH |2 x\eG D 
+Gk8 iI 
+ 
+1. ان iG : gN: 
+2. ان iG : ز x3 
+3. F g1 ان iG : آد 
+4. ان iG : ue7 
+5. ان iG : LD ifH 
+DK REF 
+ 
+ [EDSSN3]  ASK ALL 
+ 
+آپ D kGc]G D u8 3 آپ D y2 iG ePD ا آپ J D cWH |2 x\eG D Gk8 iI 
+ 
+1. ان iG : gN: 
+2. ان iG : ز x3 
+3. F g1 ان iG : 
+4. ان iG : ue7 
+5. ان iG : LD ifH 
+DK REF 
+ 
+
+--- PDF PAGE 45 ---
+ 45
+[EDSSN4] ASK ALL  
+ آپ D kGc]G D u8 3 آپ D x7 iG kM آپ D kN@ kE iG ePD F آپ J D cWH |2 x\eG D Gk8 
+iI 
+ 
+1. ان iG : gN: 
+2. ان iG : ز x3 
+3. F g1 ان iG : آد 
+4. ان iG : ue7 
+5. ان iG : LD ifH 
+DK REF 
+ 
+ 
+
+--- PDF PAGE 46 ---
+ 46
+ 
+Persuaded to vote 
+ 
+ 
+[Relvot]  ASK IF HAS A RELIGION (BQ105B=1-14) 
+ 
+ا fG D دوران kiD آپ D Gk`G kN@ kE H EF D ا iG ووٹ د D liAx3 دی؟ 
+ 
+1. kI 
+2. ifH 
+DK REF 
+ 
+ 
+[bq56a] ASK ALL 
+ 
+kD F5  
+kiD WD H ٍ WD دو آپ D NeD D WD ر kM kD x2 WD اور xB H آپ D iFk8 k@ ا iG WD 
+k9 n@kd6 D ووٹ د x2 LkG kiD x1 xD ا 6 اس kD : د  
+ P2 M xD: LD اور؟  
+ CODE ALL THAT APPLY 
+ DP NOTE: ONLY CODES 1-8 CAN BE MULTICODED 
+ 
+1 دو 
+2 NeD D ر) ارا( 
+3 kD x2 LD اور xB 
+4 آپ D x7 kM kN@ kD LD اور xB 
+5 آپ D y2 kD LD xB 
+6  آپ D cWH PBk`5 kM NIwG ا kM lcD kD LD اور xB 
+7  WD اور ا kM lcD kD LD اور xB 
+8 د xB )ا( 
+9 WD H gSG LkG HxD D };D ifH D 
+DK REF 
+ 
+ 
+ 
+ 
+Media use and party contact 
+ 
+ 
+[bq88a] ASK ALL 
+ 
+kiD آپ روز ا - kM 3 wAkD ورژن iG kM آن ﻻ Eu@kCk1 : PKy2 iI 
+ 
+1 kI 
+2 ifH 
+ DK REF 
+ 
+[bq88b] IF ‘yes’ [bq88a=1] 
+ 
+ D k: روز ا آپ ز xRD : PKy2 iI 
+ SINGLE CODE ONLY 
+ 
+ SHOWCARD 
+
+--- PDF PAGE 47 ---
+ 47
+ 
+ 
+1 ڈ iG / ا ڈ iG 
+2 ڈ ا / ڈ ا آف ا veiF 
+3 ڈ xbici4 
+4 ا 
+5 iXHkeLkB zdLk4 
+6 kE 
+7 ا 
+8 َ
+ِ / ا َ
+ِ / ڈ ر 
+9 دی ا 
+10 دی َ 
+11 دی k4 zG 
+12 و iG 
+13  xQiG 
+14  دی ا ve 
+15  ا xf; kD Gk`G ا 
+16 ز xRD : LD ifH 
+17 د WRITE IN) 
+DK REF 
+[Ethnews] ASK ALL 
+اور kiD آپ Eu@kCk1 :  LD (other) ا ا PKy2 iI 6 9 آپ D nicWH kM NIwG x1 D k1 iG 
+xN9 x2 63 DxG k3xD J 
+ 
+1 kI 
+2 ifH 
+DK REF 
+ 
+[EthnewsY] IF YES (ethnews = 1) 
+  
+D k: cWH kM NIwG ا آپ ز xRD : PKy2 iI 
+  
+ 6 mLk4 M xD 
+ DK REF 
+  
+[EthTV] ASK ALL – TBC 
+ 
+ x< Hk>x1 n:ki: D k1 iG P7: LJ kD x2 DwG |D و : آپ D kfM iHk>x1 iG iFk8 ا 
+fG اور ا D k1 iG kGc]G <k8 LJ  CODE ALL THAT APPLY? 
+ 
+SHOWCARD 
+  
+1 ا 
+2 ر 
+3 4 وی 
+4 ر 
+5 ا 
+6 ان iG : LD ifH 
+ 
+IF MORE THAN ONE CODED 
+ 
+
+--- PDF PAGE 48 ---
+ 48
+[EthTV2] اور آپ D hF kGc]G kD l: : ا و D k: kg3 
+ 
+1 ا 
+2 ر 
+3 4 وی 
+4 ر 
+5 ا 
+ 
+IF SELECTED A SOURCE OF INFO AT ETHTV 
+ 
+[Medeth] اور [textfill of most important source of info from EthTV2: 
+newpapers/ magazines/ TV programmes/ radio programmes/ internet material] 
+D k1 iG 6 3 آپ D ر LJ : xD iLkP1 kiD k9 > x2 اس kD HkXH آپ D cWH kM NIwG n@kd6 D xNdG g3 kM 
+اس kD HkXH xI xB kg3 
+ 
+CODE BOTH IF BOTH APPLY 
+ 
+ 1. 9 ا cWH n@kd6 
+ 2. 9 ا NIwG n@kd6 
+ 3. xI xB 
+ DK REF 
+ 
+ 
+ASK ALL  
+[PostQ86.1]  
+kiD iFk8 ا fG D دوران WD g1 :ki: n@kd6 H آپ : را kiD 
+1 ں 
+2 ifH 
+ 
+ IF 'yes' AT [PostQ86.1]  
+ [PostQ86.2] 
+ iFk8 ا fG D دوران |D :ki: n@kd6 H آپ : را kiD 
+ P2 M xD:  LD اور؟ 
+ CODE ALL THAT APPLY 
+ Multicoded (Maximum of 9 codes) 
+1 xNiF 
+2 zeD 
+3 xNF ڈ 
+4 ا eXiH k2 
+5 vic2 xdiD 
+6 M xE k2 
+7 vQiLkHM vbeD ا k2 (UKIP) 
+8 }4x1 eXiH k2 (BNP) 
+9 د WRITE IN) 
+ 
+ IF 'other' AT [PostQ86.2] 
+ LD اور 6 د Hk6 x2 xM xU3 M xD 
+ cgD gD : (MAXIMUM OF 60 CHARACTERS) 
+ 
+ 
+ 
+
+--- PDF PAGE 49 ---
+ 49
+[bq89C]  IF RESPONDENT IS NOT FROM MIXED BACKGROUND [BQ58 <> 5-8] 
+ REPEAT FOR EACH PARTY MENTIONED AT BQ89B 
+ 
+DP – SEE INGROUPER FILE FOR DEFN OF TEXT FILL 
+ 
+اور kiD آپ D kM J D آ Party from BQ89b> kD lFk> را ingrouper1> kg3 kM ifH  
+ 
+1. kI <ingrouper1> 
+2. ifH <ingrouper1> ifH 
+3. kM ifH 
+DK REF 
+ 
+ 
+[bq93a] ASK ALL 
+ 
+kiD آپ Eu@kCk1 : ا ا 3xD iI 
+ 
+1 kI 
+2 ifH 
+DK REF 
+ 
+ 
+ 
+[bq93c] IF YES (BQ93A=1) 
+ 
+آپ H iFk8 k@ ا D k1 iG kGc]G <k8 HxD kM kN3 HxD D hF |D uC ا kD ا kiD… 
+READ OUT 
+ 
+1 BkD u8 3 
+2 Hk_YeG u8 3 
+3 LD ز ifH 
+4 kM aFk1 g1 ifH 
+ DK REF 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- PDF PAGE 50 ---
+ 50
+Section 9: Classification Part 2 (Mainly drawn from main 
+BES)   
+ 
+[bq71a] ASK ALL 
+ 
+ آپ D ui2 |D cG iG LJ g3 
+ 
+1 ا 
+2 ا veiF 
+3 و 
+4 آ  
+5 د [WRITE IN] 
+DK REF 
+ 
+[BQ71F] IF BORN IN UK [BQ71A=1-4] 
+ 
+ آپ D وا D ui2 |D cG iG LJ g3 
+ 
+1 ا 
+2 ا veiF 
+3 و 
+4 آ  
+5 د [WRITE IN] 
+DK REF 
+ 
+[BQ71M] IF BORN IN UK [BQ71A=1-4] 
+ 
+ آپ D وا D ui2 |D cG iG LJ g3 
+ 
+1 ا 
+2 ا veiF 
+3 و 
+4 آ  
+5 د [WRITE IN] 
+DK REF 
+ 
+[BQ71X] IF MOTHER AND FATHER BOTH BORN ABROAD [BQ71F=5 & BQ71M=5] 
+ 
+ا ueeD: kiD 6 د D وا D وﻻدت ا cG iG LJ g3 kf6 اس D وا D  LJ g3 
+ 
+1 kI 
+2 ifH 
+ 
+ 
+[bq71b] If not born in UK [bq71a=5] 
+ 
+ آپ cf2 k1 x1iHk> lD آ 
+  
+ ا x= J 3 k: kM xd@ xM xU3 M xD 
+ 
+ DK REF 
+ 
+[EDSR1a1] If not born in UK [bq71a=5] 
+ 
+
+--- PDF PAGE 51 ---
+ 51
+kiD ا g1 آپ kD NeD آپ D آ cG iG رہ ر J  [Family includes children, 
+brothers, sisters, parents, grandparents, aunts, uncles, cousins 
+(first, second and third), great aunts, great uncles and all 
+other relatives] 
+ 
+1 kI 
+2 ifH 
+DK REF 
+ 
+[EDSR1b1] If not born in UK [bq71a=5] 
+ 
+(ANSWER FROM BQ71B) iG iHk>x1 آ D u]1 : kiD آپ gND ا آ cG وا hE iI  
+[Include all trips, regardless of purpose of trip (business, 
+pleasure, etc), age of respondent or length of stay] 
+ 
+1 kI 
+2 ifH 
+DK REF 
+ 
+[EDSR1b1Y] IF YES (edsr1b1 = 1) 
+ 
+ ePD د  kiD M kg3… 
+ 
+1.  x< ا k1 
+2.  2 k3 4 د 
+3.  5-9 د 
+4.  10 د kM اس : ز 
+DK REF 
+ 
+[EDSR1c] IF HAVE FAMILY IN COUNTRY OF BIRTH [EDSR1a1=1] 
+ 
+cgT2 12 eifG iG آپ D آ cG iG آپ D NeD D 6 ار ا g1 رہ ر iI ان : آپ H ePD k1 
+kCG k1 D J ا 9 kgaF kM ای iG kiD J 
+ 
+1.  k1aاax< 
+2.  2ak3a4دa 
+3.  5-9دa 
+4.  10اسakMaدaزa:a 
+DK REF 
+ 
+[PolintR] IF NOT BORN IN BRITAIN [bq71a = 5] 
+  
+ kD A1  
+اور آپ D آ cG iG n:ki: iG 6 TD g1 J ر J اس iG آپ D Gd@ > x2 |D u8 3 د J  
+ x1 xD ا 6 اس kD : د 
+ 
+1 BkD u8 3 
+2 nf1 ز 
+3 TD TD 
+4 DL ز ifH 
+5 aFk1 g1 ifH 
+DK REF 
+ 
+ 
+[EDSF1a2] IF FATHER WAS BORN ABROAD [BQ71F = 5] 
+  
+
+--- PDF PAGE 52 ---
+ 52
+kiD ا g1 <father’s  country of birth (BQ71F)> iG آپ kD NeD رہ ر J  
+[Family includes children, brothers, sisters, parents, 
+grandparents, aunts, uncles, cousins (first, second and third), 
+great aunts, great uncles and all other relatives] 
+ 
+1 kI 
+2 ifH 
+DK REF 
+ 
+[EDSF1b2] IF FATHER WAS BORN ABROAD [BQ71F = 5] 
+ 
+ kiD آپ cgT2 rHk2 Fk: iG <father’s  country of birth (BQ71F)> hE iI 
+ 
+1 kI 
+2 ifH 
+DK REF 
+ 
+ 
+[EDSF1c] IF HAVE FAMILY IN FATHER’S COUNTRY OF BIRTH [EDSF1a2=1] 
+ 
+cgT2 12 eifG iG <father’s  country of birth (BQ71F)> iG آپ D NeD D 6 
+ار رہ ر g3 ان : آپ H ePD k1 kCG k1 D J ا 9 kgaF kM ای iG kiD J 
+ 
+1.  k1aاax< 
+2.  2ak3a4دa]B 
+3.  5-9دa 
+4.  10زa:aاسakMaدa 
+DK REF 
+ 
+[PolintF] IF FATHER WAS BORN ABROAD [BQ71F = 5] 
+  
+ kD A1  
+اور father’s  country of birth (BQ71F)> iG n:ki: iG 6 TD g1 J ر J اس iG 
+آپ D Gd@ > x2 |D u8 3 د J  
+ (Please take your answers from this card) 
+ 
+1 BkD u8 3 
+2 nf1 ز 
+3 TD TD 
+4 LD ز ifH 
+5 aFk1 g1 ifH 
+DK REF 
+ 
+[EDSM1a2] IF MOTHER BORN ABROAD IN DIFFERENT COUNTRY TO FATHER [BQ71X = 
+1] 
+  
+kiD ا g1 <mother’s  country of birth (BQ71M)> iG آپ kD NeD رہ ر J  
+[Family includes children, brothers, sisters, parents, 
+grandparents, aunts, uncles, cousins (first, second and third), 
+great aunts, great uncles and all other relatives] 
+ 
+1 kI 
+2 ifH 
+DK REF 
+ 
+
+--- PDF PAGE 53 ---
+ 53
+[EDSM1b2] IF MOTHER BORN ABROAD IN DIFFERENT COUNTRY TO FATHER [BQ71X = 
+1] 
+ 
+kiD آپ cgT2 rHk2 Fk: iG <mother’s  country of birth (BQ71M)>  hE iI 
+ 
+1 kI 
+2 ifH 
+DK REF 
+ 
+ 
+[EDSM1c] IF HAVE FAMILY IN MOTHER’S COUNTRY OF BIRTH [EDSM1a2=1] 
+ 
+cgT2 12 eifG iG <mother’s  country of birth (BQ71M)> iG آپ D NeD D 6 
+iD رہ ر g3 ان : آپ H ePD k1 kCG k1 D J ا 9 kgaF kM ای iG kiD J 
+ 
+1.  k1aاax< 
+2.  2ak3a4دa 
+3.  5-9دa 
+4.  10زa:aاسakMaدa 
+DK REF 
+ 
+[PolintM] IF MOTHER BORN ABROAD IN DIFFERENT COUNTRY TO FATHER [BQ71X = 
+1] 
+  
+ kD A1  
+اور mother’s  country of birth (BQ71M)> iG n:ki: iG 6 TD g1 J ر J اس iG 
+آپ D Gd@ > x2 |D u8 3 د J  
+ (Please take your answers from this card) 
+ 
+1 BkD u8 3 
+2 nf1 ز 
+3 TD TD 
+4 LD ز ifH 
+5 aFk1 g1 ifH 
+DK REF 
+ 
+[Q156] ASK ALL 
+ 
+ kiD آپ Hk>x1 xf; kM WD اور cG D xf; iI 
+ 
+1. Hk>x1 xf; 
+2. LD اور cG 
+3. دو 
+DK REF 
+ 
+[Q157] If Q156 = 2 or 3 
+ 
+ آپ د D : cG D xf; iI 
+  
+ 6 mLk4 M xD 
+ DK REF 
+ 
+ 
+ 
+[Reas1] ASK IF NOT BORN IN BRITAIN AND ENTERED BRITAIN WHEN 16 OR OVER 
+(bq71a = 5 and bq71c>15) 
+
+--- PDF PAGE 54 ---
+ 54
+ 
+ آپ D و D Pc7 iHk>x1 iG ر D hF آ 
+ 
+ ر HxD kD ا د ان gN: x2 D ڈا 6 kD ا k3J J 
+ 
+1. NeD D ر niFd;kM ا HxD D hF 
+2. xI; kM i1 D ر kM niFd; ا HxD D hF  
+3. lFk> c@ D niRi8 : 
+4. xPf1 ز 
+5. آزادی 
+6. ر kHkdD 
+7. |1 iHk>x1 iG ر D hF 
+8. آ cG iG n1xA 
+9. آ cG iG e6 
+10. آ cG iG G 
+11. د WRITE IN) 
+DK REF 
+ 
+[Reas1a] ASK IF ACCOMPANYING FAMILY OR SPOUSE [Reas1 = 1 or 2] 
+ 
+ آپ D [textfill:husband/wife/family’s] D و D Pc7 iHk>x1 iG ر D hF آ 
+ 
+ ر HxD kD ا د ان gN: x2 D ڈا 6 kD ا k3J J 
+ 
+1. iHk>x1 iG ui2 LJ 
+2. NeD D ر kM niFd; ا HxD D hF 
+3. xI; kM i1 D ر kM niFd; ا HxD D hF 
+4. lFk> c@ D niRi8 : 
+5. xPf1 ز 
+6. آزادی 
+7. ر kHkdD 
+8. |1 iHk>x1 iG ر D hF 
+9. آ cG iG n1xA 
+10. آ cG iG e6 
+11. آ cG iG G 
+12. د WRITE IN) 
+DK REF 
+ 
+ 
+[Reas2] ASK IF NOT BORN IN BRITAIN AND ENTERED BRITAIN WHEN UNDER 16 
+(bq71a = 5 and bq71c<16) OR IF BORN IN BRITAIN AND AT LEAST ONE PARENT 
+WAS NOT BORN IN BRITAIN (bq71a=1-4 and (bq71f=5 or bq71m=5) 
+ 
+DP – TEXTFILL IS ‘PARENTS’’ IF BQ71A = 5 
+IF BQ71A = 1-4, {THEN IF BQ71F=5, TEXTFILL IS ‘FATHER’S’; IF 
+BQ71M = 5, TEXTFILL IS ‘MOTHER’S’; IF BOTH BQ71F = 5 AND BQ71M = 
+5, TEXTFILL IS ‘PARENTS’!} 
+ 
+آپ D [TEXTFILL: parents’/ mother’s/ father’s] D و D Pc7 iHk>x1 iG 
+ر D hF آ 
+ 
+ ر HxD kD ا د ان gN: x2 D ڈا 6 kD ا k3J J 
+ 
+1. NeD D ر kM niFd; ا HxD D hF 
+
+--- PDF PAGE 55 ---
+ 55
+2. xI; kM i1 D ر kM niFd; ا HxD D hF 
+3. lFk> c@ D niRi8 : 
+4. xPf1 ز 
+5. آزادی 
+6. ر kHkdD 
+7. |1 iHk>x1 iG ر D hF 
+8. آ cG iG n1xA 
+9. آ cG iG e6 
+10. آ cG iG G 
+11. ا / وا / وا iHk>x1 ifH آ 
+12. د WRITE IN) 
+DK REF 
+ 
+[L11] ASK ALL 
+ 
+ Dik آپ xgE x2 ٍا ا ز PF1 iI  
+ 
+ 1. kI 
+ 2. ifH 
+ DK REF 
+ 
+[L12] ASK IF NO [L11=2] 
+ 
+ آپ xgE x2 ٍا D : ز PF1 iI  
+ SINGLE CODE ONLY  
+ 
+1. 1x@ 
+2. Fkbe1 
+3. kB 
+4. xB 
+5. Gx6 
+6. xSE 
+7. k:J 
+8. ueI 
+9. ِا 
+10. xD 
+11. xG 
+12. xiG / kf2 
+13. }F2 
+14. 1kSe2 
+15. Kue: 
+16. FkG< 
+17. : 
+18. Qifc: 
+19. d3 
+20. Dx3 
+21. اردو 
+22. M 
+23. د WRITE IN) 
+DK REF 
+ 
+[L13] ASK IF NO [L11=2] 
+ 
+
+--- PDF PAGE 56 ---
+ 56
+kiD iG M c]G kPa:xD J D روز D ز iG آپ D l6 ا eF1 3J J 3 آپ ePD ا ا PF1 
+iI kRG D > x2 _ici4 x2 bP_E HxD kM WD Xi2 ور xB Wi6 ا kM ڈا : k1 HxD D hF  kiD آپ M 
+ifD E D آپ…  
+READ OUT 
+ 
+1. BkD ا iI 
+2. ig4 kg4 iI 
+3. او : TiH iI 
+4. kM ~CkH iI  
+5. x< 6x1PW: LD را ifH 
+DK REF 
+ 
+[bq101a] ASK ALL 
+ 
+ kiD آپ kD xgE اس ر kE kD FkG J kM xD x2 kiF J J  
+ INTERVIEWER: 'OWN' INCLUDES ON A MORTGAGE 
+ 
+1 ا J 
+2 xD kD J 
+3 دو iG : LD ifH 
+DK REF 
+ 
+[bq101b] IF ‘own’ [bq101a = 1] 
+  
+ kiD آپ e2 xgE D cD > x2 FkG iI kM ر x2 kiF J J 
+ 
+1 Q2 / cD > x2 xB vFJ D FkG iI 
+2 ر x2 Q2 / xB vFJ uM x9 ر iI 
+DK REF 
+ 
+[bq101c] IF ‘rent’ [bq101a = 2] 
+  
+ آپ |D : xD x2 PiF iI 
+ 
+1 Gk`G ا 
+2 iH k4 ڈ kD 
+3 kI ا ا XM 
+4 x2 eOdD 
+5 آ 
+6 د i\e3 
+7 ر دار 
+8 د xB 
+9 kI o:x4 
+10 xD : k2 ڈ ڈا LJ iI 
+11 DxPXG niacG )Wi6 z6 xD z6 uM x9( 
+97 د WRITE IN) 
+DK REF 
+ 
+[bq102a] ASK ALL 
+ 
+ kiD آپ ا WD vM x4 iHM kM ا ا ا D xNdG iI  
+ INTERVIEWER: IF NECESSARY, PROBE FOR WHICH ONE  
+ INTERVIEWER: CODE FIRST TO APPLY 
+ 
+1 kI vM x4 iHM 
+
+--- PDF PAGE 57 ---
+ 57
+2 kI ا ا ا 
+3 ifH 
+DK REF 
+ 
+[bq102b] IF ‘no’ or DK [bq102A = 3 OR DK] 
+  
+kiD آپ gND WD vM x4 iHM kM ا ا ا D xNdG ر iI  
+ INTERVIEWER: CODE FIRST TO APPLY 
+ 
+1 kI vM x4 iHM 
+2 kI ا ا ا 
+3 ifH 
+DK REF 
+ 
+[bq103] ASK ALL 
+  
+ اور |D xd@ iG آپ H D و ic]3 daG D 
+ 
+xd@ درج M xD 
+ 
+gND ا ifH hE 
+ا g1 ا iG D و ic]3 iG iI 
+ا g1 iHM iG D و ic]3 iG iI 
+DK REF 
+ 
+[bq104a] ASK ALL 
+ 
+ kiD آپ D k2 dic]3 kM kD : وا LD Hk>x1 ue: J 
+ 
+1 kI 
+2 ifH 
+DK REF 
+ 
+
+--- PDF PAGE 58 ---
+ 58
+[bq104b] IF ‘yes’ [bq104a = 1] 
+  
+ kD P2  
+اس kD : ا 6 ا 3xD LJ آپ D k2 D : ا M x3 H ue: J  
+ x1 xD gSG |1 اس D آ درج xNdH iLkP1  
+ا ue: n:xfB iG DwG ifH J 3 ا adG J 3 اس D kWG ue: P2 M xD  
+ 
+1 o:2 oM SM xE ڈ 
+2 o:xB ڈ 
+3 iHM / F2 eai4 ڈ 
+4 u3 ue: 
+5 e:xH D ue: 
+6 HNC/HND، Q: ا ِ s[: 4، NVQ/SVQ 4/5 
+7 A iF اور اس D kWG 
+8 ا xLkI اور اس D kWG 
+9 ONC/OND، Q: ا ِ s[: 3، NVQ/SVQ 3 
+10 GCSE A*-C، CSE vM xE 1، O iF vM xE A-C 
+11 ا ا vM xE آرڈ vei1 
+12 GCSE D-G، CSE vM xE 2-5، O iF D-E 
+13 Q: ا ِ iF 2، NVQ/SVQ 2 اور اس D kWG 
+14 Q: ا ِ iF 1، NVQ/SVQ 1 اور اس D kWG 
+15 DxcD اور ا ا 
+16 icW3 u; vM x4 ا m; 
+17 3M eeM x4 oai_i4x: ueGxeI D iNFk> 
+18 د aiea3 Xi2 ورا kM ا ue: (WRITE IN) 
+DK REF 
+ 
+ 
+  
+ 
+[Overs] ASK ALL 
+ 
+kiD آپ D k2 xi1 cG <k8 xD LD ا ue: J |6 D k1 iG آپ H ا 3 gSG ifH kMkP1 J xiG 
+lc[G kD kM ni1 x3 D nBx]G kM آزادا > x2 kM w1 9 ا ]Fk[G D ذر ا qFkD kM iHM WD g1 b6 
+x2 <k8 xD a: J 
+ 
+1. kI 
+2. ifH 
+DK REF 
+ 
+[Otype] IF YES (OVERS = 1) 
+ 
+ SHOWCARD XX 
+M |6 WC D ue: J اس D HkP1 D hF اس kD x2 DwG D k: x`B lM xC M x3 nc5kdG ر J 
+ 
+1 ا ا – iHM دا s[: : TiH (i.e. equivalent to GCSE/O-Level) 
+2 ا ا – iH دا s[: (i.e. equivalent to A-Level) 
+3 iHM kM ا x> D ادارے : o:xB ڈ i.e. equivalent to BA, B.Ed, BSc) 
+4 xLkI ڈ i.e. equivalent to MA, MSc, PhD) 
+5 اaاe.g. typing, shorthand, book-keeping, commerce) 
+6 LD اور PBx8 Mk kD : وا ue: 
+7 TD د WC D ue: 
+ DK REF 
+ 
+
+--- PDF PAGE 59 ---
+ 59
+[Disab] ASK ALL 
+ 
+ا ue7 : آپ D nU< اور x> ز D k1 iG iI 
+ 
+kiD آپ D LD M > 3uG HkdW6 kM د ~`H kdi1 kM w]G J 'M > 3uG' : xiG lc[G LD ا zi7 
+J |6 H D از D 12 kG D <x@ : آپ D kXM x2 xD ر J kM |6 D و : 12 eifG kD و x5kPG HJ 
+kD ا J 
+ 
+1. kI 
+2. ifH 
+DK REF 
+ 
+ 
+[bq106] ASK ALL 
+ 
+ kD P6 2 
+اس kD x2 درج D k: x8 |ai4 : NC gN: ذرا : آپ D xgE D @dSG آ D k3kP1 J – dX1 
+و iP و x1 xD gSG |1 وہ x8 iLkP1 
+ 
+1 Q 
+2 T 
+3 O 
+4 K 
+5 L 
+6 B 
+7 Z 
+8 M 
+9 F 
+10 J 
+11 D 
+12 H 
+13 P 
+14 S 
+ DK REF 
+ 
+[bq107] ASK ALL 
+ 
+                                                 
+2  iIk7aآax\HakDax>aاسakDa;: 
+ 
+|ai4 : NC gN: ذرا : P_J aآ  |ai4 : NC gN: ذرا : k: آ 
+£96Da:a Q £5,000Da:a 
+£97 – £192 T £5,001 – £10,000 
+£193 – £288 O £10,001 – £15,000 
+£289 – £384 K £15,001 – £20,000 
+£385 – £480 L £20,001 – £25,000 
+£481 – £577 B £25,001 – £30,000 
+£578 – £673 Z £30,001 – £35,000 
+£674 – £769 M £35,001 – £40,000 
+£770 – £865 F £40,001 – £45,000 
+£866 – £961 J £45,001 – £50,000 
+£962 – £1,153 D £50,001 – £60,000 
+£1,154 – £1,346 H £60,001 – £70,000 
+£1,347زakMa P £70,001 -£80,000 
+kfMaزakiH S ,00180£زakMa 
+ 
+
+--- PDF PAGE 60 ---
+ 60
+ CARD P7  
+B ا ان iG : D آپ) اور آپ D g3k:( D hF آ kD ا ذر J 
+ 
+1 G : HJ وا LkdD )9 kM Mx ; ki8 / g3k: D( 
+2 c^XG 3k6 Xe2 )zeXe2( - `1k: آ) آ (: 
+3 SH Xe2 )zeXe2( 
+4 ر ر kM i1 : c]PG Xe2 )zeXe2( 
+5 k6 xai: اﻻؤ / 1 روز kD و 
+6 Xe2 vM xD / ا آ D nHkd= / Xe2 kbPBkM D hF ا O: 
+7 u@ n kdi1 kM w]G kD Xe2 kM و) و( 
+8 د ر و kM |ai4 vM xD (WRITE IN) 
+9 PT1 kM MkGx: kD : ecG واﻻ BkeG 
+10 ا xE z9 )x:x1( kM F 
+11 وا / د ر داروں D ز nFk_D 
+12 د ا ذر WRITE IN) 
+ 
+[bq109a] ASK ALL 
+ 
+ kD P8 
+ اس kD x2 DwG D : و آپ D او M xPf1 ڈ : ﻻ 3J J 
+ 
+1 k]Gk1 kD iG iI 
+2 D و ic]3 iG iI 
+3 7 kG kM ز <x@ : 1 روز iI 
+4 7 kG : D <x@ : 1 روز iI 
+5 `PWG > x2 kdi1 kM w]G iI 
+6 uaN: JhE iI 
+7 xgE D د kg1 xD ر iI 
+8 TD اور xD ر iI (WRITE IN) 
+DK REF 
+ 
+[bq109b]  ASK ALL MARRIED OR LIVING WITH PARTNER [bq100 = 1 OR 2] 
+ 
+ kD P8 
+اور kD x2 DwG D : و آپ D i1 / D  xI; / g3k: x2 M xPf1 ڈ : ﻻ 3J J 
+ 
+1 و kD iG iI 
+2 D و ic]3 iG iI 
+3 7 kG kM ز <x@ : 1 روز iI 
+4 7 kG : D <x@ : 1 روز iI 
+5 `PWG > x2 kdi1 kM w]G iI 
+6 uaN: hEJ iI 
+7 xgE D د kg1 xD ر iI 
+8 TD اور xD ر iI (WRITE IN) 
+DK REF 
+ 
+[bq109c] IF IN WORK [bq109a = 1] 
+ 
+ kD P8a 
+ اس kD x2 DwG D : ا و آپ D او M xPf1 ڈ : ﻻ 3J J 
+ 
+1 G iI 
+2 9 ا روز J aiF G ifH iI 
+
+--- PDF PAGE 61 ---
+ 61
+3 9 ا روز J اور G iI 
+4 1 k]G NeD 3k6 kD iI 
+DK REF 
+ 
+[bq109d] IF PARTNER IN WORK [bq109b = 1] 
+  
+ kD P8a 
+اس kD x2 DwG D : ا و آپ D i1 / D  xI; / g3k: x2 M xPf1 ڈ : ﻻ 3J J 
+ 
+1 G iI 
+2 9 ا روز J aiF G ifH iI 
+3 9 ا روز J اور G iI 
+4 1 k]G NeD 3k6 kD iI 
+DK REF 
+ 
+[bq110a] ASK ALL 
+ 
+ CARD P9  
+اس kD : x1 xD gSG iLkP1 D آپ |6 WC kD kD 3xD iI اس D M xPf1 و D k3xD J )ا آپ ا kD 
+ifH 3xD iI 3 x1 xD gSG iLkP1 D ا cgT2 G iG آپ H D k: kD kiD(۔ 
+ 
+1 Xi2 ورا kM ا 3aiea kD 
+2 xSieG kM xhei: \PeG 
+3 DxcD 
+4 zci: kM x: 
+5 4g7 4G kD kD FkG 
+6 د kD kD B kM xO: 
+7 ueGxeI د kD 
+8 iH ueGxeI kM xiA ueGxeI د kD 
+9 د WRITE IN) 
+10 gND kD ifH kiD 
+DK REF 
+ 
+ 
+[bq110b]   IF ‘married’ OR ‘living with a partner’ [bq100=1 OR 2] 
+  
+ 
+ kD P9 دو 
+ا kD : x1 xD gSG iLkP1 D آپ D )xI;/ D i1 / g3k:( |6 WC kD kD 3xD / 3xD iI )kM 6 ا H 
+ا آ G iG ا د (اس D M xPf1 و D k3xD J 
+ 
+1 Xi2 ورا kM ا aiea3 kD 
+2 xSieG kM xhei: \PeG 
+3 DxcD 
+4 zci: kM x: 
+5 4g7 4G kD kD FkG 
+6 د kD kD B kM xO: 
+7 ueGxeI د kD 
+8 iH ueGxeI kM xiA ueGxeI د kD 
+9 د WRITE IN) 
+10 gND kD ifH kiD 
+DK REF 
+ 
+[LFS116] IF NOT ‘never worked’ [NOT bq110a = 10] 
+ 
+
+--- PDF PAGE 62 ---
+ 62
+ kiD آپ kD 3xD iI / H kD kiD J x1… 
+ 
+ 1. ا SH xB kM kD kM vQidF eOdD 
+ 2. kM WD اور ni@H D i\e3 
+ DK REF 
+ 
+[LFS117] IF ANOTHER ORGANISATION [LFS116 = 2] 
+ 
+M |D WC D xiA SH i\e3 g3 
+ 
+1 cN2 vQidF dDeO / plc؟  
+2 GC s[: D ا n]e< / ر kD  
+3 zDxG nGa8 kM xf; kGu9 
+4 Gk`G ا kM WHD )dX1 |iF2 xLkB x: اور Gk`G ا D ز ا ا / zSFkD(؟ 
+5 iHM kM FkG k]3 : ec7 واﻻ د dic]3 ادارہ') lVPeG xD' Fa: D Gk; M xD(؟ 
+6 PciI ا kM NHS o:x4 
+7 ر ادارہ، ر i[e3 kM o:x4 
+8 scWG ا 
+9 kM M WD اور د ni@H D i\e3 g3 
+ 
+DK REF 
+ 
+[bq111b]  IF ‘married’ or ‘living with a partner’ AND NOT ‘never 
+worked’ [bq100 = 1 or 2 and NOT (bq110b = 10)] 
+  
+ kD P10 دو 
+ 
+[LFA116b] kiD آپ kD / D g3k: kD k3xD / 3xD J / H kD kiD J x1… 
+ 
+ 1. ا SH xB kM kD kM vQidF eOdD 
+ 2. kM WD اور ni@H D i\e3 
+ DK REF 
+ 
+[LFS117b] ا دو i\e3 J [LFS116b = 2] 
+ 
+M |D WC D xiA SH i\e3 g 
+ 
+1 cN2 vQidF eOdD / plc؟  
+2 GC s[: D ا n]e< / ر kD  
+3 zDxG nGa8 kM xf; kGu9 
+4 Gk`G ا kM WHD )dX1 |iF2 xLkB x: اور Gk`G ا D ز ا ا / zSFkD(؟ 
+5 iHM kM FkG k]3 : ec7 واﻻ د dic]3 دارہا') kXH زد 'ا D Gk; M xD(؟ 
+6 PciI ا kM NHS o:x4 
+7 ر ادارہ، ر i[e3 kM o:x4 
+8 scWG ا 
+9 kM M WD اور د ni@H D i\e3 g3 
+ 
+DK REF 
+ 
+  
+ 
+[L104] ASK IF PRIVATE FIRM [LFS116 = 1] 
+ 
+SHOWCARD  
+
+--- PDF PAGE 63 ---
+ 63
+آپ kf6 x2 kD 3xD iI اس D acGni D k1 iG آپ D kGc]G D u8 3 درج ذ و iG : D 
+M xPf1 ڈ : ﻻ k3J J 
+ 
+1. xiG Lk6 kD D kaFkG ui_: kB Hk>x1 iI 
+2. xiG Lk6 kD D niacG ا cWH n@kd6 : c]3 ر وا WD xB D <k8 J 
+3. gSG ifH c]G D اس kD FkG D J 
+4. 1kCkH ا – ڈ k: cPVG EF D ز niacG J 
+DK REF 
+  
+[bq112] ASK ALL 
+   
+ kiD اس ر kE iG )آپ D Y8 iG( _ici4 J 
+ 
+1 kI 
+2 ifH 
+DK REF 
+ 
+[bq112b] IF ‘yes’ AT [bq112a] 
+  
+WD g1 x: D ue7 ا D rHk6 k3y2 xiG آ D  M ei`M Hke1 D hF 3J J D ا |6 
+`M x> : kiF kiE kg3 F اس : hd[G iI ا < iG xiG  د D آپ : را HxD D x= 3J J  
+ا kdJ k2 آپ kD _ici4 xNdH kEJ 3 اس : uG cG ۔  
+ 
+ا x= J 3 ا M xD: آپ kD B xNdH آپ D \eG D xi^1 3k]Fk[G i4 : xIk1 D WD g1 xB D ifH د 
+Lk6 kE  
+ 
+ا xNdH G kiE 3 ARF iG xM xU3 M xD 
+ا ا : ز xNdH J 3 i72 D دو را HxD D hF D k: xNdH ز nFf: }V1 kEJ 
+ 
+1 xNdH G kiE 
+2 xNdH : eG xD / ifH د kiE 
+ NO DK NO REF 
+ 
+[bq113c] ASK ALL 
+  
+ اور، kiD J آپ kD Lk1 G xNdH g1 F Pa: iI  
+ 
+ا Lk1 G ifH J: kiD LD اور B xNdH J kf6 آپ : )g1( را a:J  
+ ا xNdH G kiE 3 ARF iG xM xU3 M xD 
+ 
+1 xNdH G kiE 
+2 xNdH : eG kiD / ifH د kiE / Lk1G kM دو B ifH J 
+NO DK NO REF 
+ 
+[bq114] ASK ALL 
+ kiD ای iG اور ا 3 آپ D ر J 
+ 
+1 kI 
+2 ifH 
+DK REF 
+ 
+
+--- PDF PAGE 64 ---
+ 64
+[bq114a] ASK ALL 
+ 
+M ا kD ا J J اس ا ا x2 iG آپ D k]3 D u8 در aXG iI آ 7 xD lM xC ا k: 
+D <x@ iG J ا xYPVG k: P]1kPG ]Fk[G HxD وا iI اور J آپ : دو را kHxD iIk7 E kiD M ig4 
+ر kE  
+ 
+ا x= J 3 ا M xD: ا ueeD D WD kD : cf2 J آپ D دو 9 igaF E اور آپ 1 fN; اس 
+و M ا HxD D آزاد J E D آ Y8 keiF J kM ifH keiF J 
+ 
+1 kI 
+2 ifH 
+NO DK NO REF 
+ 
+[bq114b] IF ‘yes’ AT [bq114] AND ‘yes’ AT [bq114a] 
+  
+P]1kPG ]Fk[G ا ا ]Fk[G D a; iG ا kPa:k2 J kiD آپ idJ ا ای iG P2 دے Pa: iI W6 
+J اس D hF آپ : را xDH D hF ا ia:xD  
+ ا G kiE 3 ا ARF iG xM xU3 M xD 
+ 
+1 ای iG P2 G kiE 
+2 ای iG P2 : ا xD / ifH د kiE 
+NO DK NO REF 
+ 
+[Trans] ا ueeD kiD 6 د H ا iG uG D hF 6xPG kD ا kiD 
+ 
+1. kI 
+2. ifH 
+ 
+ا kI [Trans = 1] 
+ 
+[Trans2] 6xPG H ا kD d6x3 |D ز iG kiD 
+ 
+1. 1kSe2 )اردو ر ا( 
+2. 1kSe2 )ُ ر ا( 
+3. اردو 
+4. ueI 
+5. xSE 
+6. Fkbe1 
+7. LD اور ز 
+ 
+[Mail] kiD آپ H 6 د D k2 وا ڈاک واﻻ ا : g7 
+ 
+1. kI 
+2. fHi 
+ 
+ا ifH [Mail = 2] 
+ 
+[Mail2] |D و : آپ H وا ڈاک واﻻ : ifH g7 
+ 
+1. 6 د H eG xD 
+2. 6 د D HkWF aXG در ig3 
+3. 6 د D ا ~`H ﻻ kg3 lc[G M D وہ وا ڈاک daG ifH Pa:xD g3 
+4. د و) x1 xD ki1 M xD( 
+ 

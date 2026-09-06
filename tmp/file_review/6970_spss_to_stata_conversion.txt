@@ -1,0 +1,446 @@
+MS Sans Serif;Symbol;Arial;Arial;Courier New;Arial;
+;;;;;;
+
+
+UK Data Archive SPSS to STATA Conversion Information File
+
+
+
+
+
+
+ Warning Log for Study Number 6970
+
+
+
+
+
+ This is a log of actual or potential sources of data and metadata (label) loss upon conversion from SPSS to STATA. Though rare, such losses are unavoidable given the differential data handling limits of the two packages.
+
+
+ 
+
+
+ The losses/potential losses reported are:
+
+
+ 
+
+ Truncation and potential truncation of data and/or labels
+
+ 
+
+
+ 1. String variables defined with a width of > 80 characters (the intercooled STATA limit) or 244 characters (the special edition limit) in the SPSS file (the warning provided will be specific to the version of STATA file you have been supplied with)
+
+
+ 2. Variable labels that are > 80 characters (the STATA limit) in the SPSS file
+
+
+ 3. Value labels that are > 32 characters (the STATA limit) in the SPSS file
+
+
+
+
+
+ Outright loss of value labels
+
+
+ 
+
+
+ 4. String variables that have value labels in the SPSS file
+
+
+ 5. Non-integer values that have value labels in the SPSS file
+
+
+  
+
+
+
+
+
+ If any warnings are logged for any of the data files below please refer to the SPSS data dictionary, supplied as <data file name>_ukda_data_dictionary.rtf, which shows the metadata as it was in SPSS.
+
+
+ 
+
+
+ Start of warnings log for Study Number 6970:
+
+
+ 
+
+
+ Warnings for british_election_study_ethnic_minority_survey_2010_data_anon
+
+
+ 
+
+
+ i) Truncation and potential truncation of data and/or labels
+
+
+ 
+
+
+ Variable = zq101\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = eq1\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = eq106_m\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = eq106_4\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = bq9_1\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = bq9_3\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = eq5\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = eq6\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = eq8d\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = eq8e\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = eq8f\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = eq9\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = eq12\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = bq2_1\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = bq2_2\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = bq25\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = bq40_1\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = bq40_2\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = bq40_3\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = bq40_4\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = bq40_5\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = bq40_6\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = bq41_1\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = bq41_2\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = bq41_3\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = bq41_4\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = bq41_5\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = bq41_6\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = bq74_1\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = bq74_2\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = bq74_3\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = bq74_4\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = bq74_5\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = bq74_6\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = eq16a\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = eq16b\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = eq20_2g\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = eq21_2g\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = eq25a\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = eq25b\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = eq25o\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = bq71\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = eq30j\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = bq12_2\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = bq12_4\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = bq12_5\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = bq13\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = bq46_1\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = bq52_1\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = bq52_2\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = bq43\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = eq31_1\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = eq31_2\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = eq31_3\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = eq31_4\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = eq31_5\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = eq32\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = eq39a\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = eq40b\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = eq40c\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = eq40d\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = eq40e\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = eq40f\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = eq40g\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = eq46_1\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = eq46_2\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = eq46_3\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = eq46_4\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = bq55_1h\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = bq55_1i\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = bq55_1j\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = bq55_1k\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = bq80_3\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = eq48_2\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = bq86_2g\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = eq50a\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = eq50b\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = eq50c\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = eq50d\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = eq50e\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = eq50f\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = eq50g\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = eq50h\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = eq50i\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = eq59_2\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = eq60_1a\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = eq60_1b\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = eq60_1j\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = eq60_2b\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = eq60_2c\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = eq60_2k\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = eq60_3a\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = eq60_3b\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = eq60_3j\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = eq60_3k\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = zq93_2\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = zq93_3\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = eq62\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = zq95_3\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = eq64_2\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = zq97\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = eq65_1\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = eq65_2\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = eq65_3\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = eq65_4\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = zq98_1\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = zq98_2\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = eq66_1\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = eq66_2\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = eq67_1\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = eq67_2\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = eq68\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = ecq7\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = ecq11\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = PressAssociationID\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ Variable = OutcomeNoImputation\ 	One or more long value labels in SPSS, which will be truncated at 32 chars in the STATA file.
+
+
+ 
+
+
+ \ ii) Outright loss of value labels
+
+
+ 
+
+
+ 
+
