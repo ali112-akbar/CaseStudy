@@ -5,7 +5,7 @@ A team case study exploring whether annual household income is associated with p
 ## Main folder
 
 **`UKDA-6970-stata/` is the main folder for this case study.** It contains:
-
+- **`case_study.ipynb`** - The main notebook (Source code)
 - **`BSE_2010.dta`** — the original survey dataset.
 - **`mrdoc/`** — supporting documentation, including questionnaires, the technical report, and the data dictionary.
 - **`read6970.htm`** — important archive notes and known data issues.
